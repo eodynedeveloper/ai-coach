@@ -4,7 +4,7 @@ from src.Patient import Patient
 from src.utils import load_msgs
 from src.Coach import Coach
 from src.endpoints import Endpoints
-ep = Endpoints()
+import sys
 
 def main():    
     # get session history for all patients
@@ -16,7 +16,7 @@ def main():
         session_history[i["PATIENT_ID"]] = i
 
     # initialize coach 
-    coach = Coach(session_history)
+    coach = Coach(session_history, env=env)
     # loop through all patients 
     for patient in session_history.keys():
         coach.notif_sent = False
@@ -69,5 +69,7 @@ def main():
 
 
 if __name__ == "__main__":
+    env = sys.argv[1]
+    ep = Endpoints(env)
     main()
     

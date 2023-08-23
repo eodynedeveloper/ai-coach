@@ -2,13 +2,15 @@ import random
 from .Patient import Patient 
 from .endpoints import Endpoints 
 from datetime import datetime, timedelta
-ep = Endpoints()
+
+
 
 class Coach:
-    def __init__(self, history) -> None:
+    def __init__(self, history, env="development") -> None:
         self.history = history 
         self.notif_sent = False
         self.msgs = None
+        self.ep = Endpoints(env)
 
     def get_last_session(self, patient_id):
         pass 
@@ -55,12 +57,12 @@ class Coach:
     def send_mid_session_reminder(self, patient_id, personality):
         message = self.pick_message(patient_id, personality, "mid_session_reminder")
         launch_datetime = (datetime.now() + timedelta(minutes=5)).strftime("%Y-%m-%d %H:%M:%S")
-        ep.schedule_notif(patient_id, message, launch_datetime, personality)
+        self.ep.schedule_notif(patient_id, message, launch_datetime, personality)
 
     def send_not_connected_since_days_reminder(self, patient_id, personality, days=1):
         message = self.pick_message(patient_id, personality, "not_connected_since_days_reminder")
         launch_datetime = (datetime.now() + timedelta(minutes=10)).strftime("%Y-%m-%d %H:%M:%S")
-        ep.schedule_notif(patient_id, message, launch_datetime, personality)
+        self.ep.schedule_notif(patient_id, message, launch_datetime, personality)
 
     
     def schedule_next_day_reminder(self, patient, personality):
@@ -68,19 +70,19 @@ class Coach:
         message = self.pick_message(patient.id, personality, "session_reminder")
         launch_datetime = (patient.slot.start_time + timedelta(days=1) - timedelta(minutes=15)).strftime("%Y-%m-%d %H:%M:%S")
         print("calling end point")
-        ep.schedule_notif(patient.id, message, launch_datetime, personality)
+        self.ep.schedule_notif(patient.id, message, launch_datetime, personality)
         print("endpoint executed")
 
         
     def send_streak_reminder(self, patient_id, personality, streak_len):
         message = self.pick_message(patient_id, personality, "streak_reminder")
         launch_datetime = (datetime.now() + timedelta(minutes=10)).strftime("%Y-%m-%d %H:%M:%S")
-        ep.schedule_notif(patient_id, message, launch_datetime, personality)
+        self.ep.schedule_notif(patient_id, message, launch_datetime, personality)
 
     def send_out_of_slot_no_streak_reminder(self, patient_id, personality):
         message = self.pick_message(patient_id, personality, "out_of_slot_no_streak_reminder")
         launch_datetime = (datetime.now() + timedelta(minutes=10)).strftime("%Y-%m-%d %H:%M:%S")
-        ep.schedule_notif(patient_id, message, launch_datetime, personality)
+        self.ep.schedule_notif(patient_id, message, launch_datetime, personality)
 
     def send_progress_reminder(self, patient_id, personality):
         pass
