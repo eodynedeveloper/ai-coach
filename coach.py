@@ -1,4 +1,3 @@
-import requests
 from datetime import datetime, timedelta
 from src.Patient import Patient
 from src.utils import load_msgs
