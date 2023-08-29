@@ -40,7 +40,6 @@ class Coach:
         session_dates = [datetime.strptime(i['SESSION_START_TIME'], date_format).date() for i in patient_history['SESSIONS']]
         
         while streak:
-            print("here")
             if (datetime.today.date() - timedelta(days=streak_len+1)) in session_dates:
                 streak_len +=1
             else:

@@ -5,7 +5,11 @@ from src.Coach import Coach
 from src.endpoints import Endpoints
 import sys
 
-def main():    
+def main():
+    # skip for even hours (only run mid session)   
+    if datetime.now().hour % 2 == 0:
+        return 
+    
     # get session history for all patients
     data = ep.get_history()
 
@@ -30,18 +34,21 @@ def main():
         # get last session
         last_session = coach.get_last_session(patient.id)
 
-        if last_session is None:
+        # schedule all next day reminders at 1AM 
+        if datetime.now().hour == 1:
+            coach.schedule_next_day_reminder(patient, personality)
+
+        elif last_session is None:
             print("no last session")
             coach.schedule_next_day_reminder(patient, personality)
-            
+
         # check if current time falls between patient's time slot 
         elif patient.is_selected_time(datetime.now()):
             print("in patient's slot")
             # send reminder if no session done in the last hour
             if last_session.start_time <  datetime.now() - timedelta(minutes=90):
                 coach.send_mid_session_reminder(patient.id, personality)
-            else:
-                coach.schedule_next_day_reminder(patient, personality)
+            
         else:
             print("not in patient's slot")
             # if no sessions since over a day
@@ -57,10 +64,6 @@ def main():
                     coach.send_streak_reminder(patient.id, personality, streak_len)
                 else:
                     coach.send_out_of_slot_no_streak_reminder(patient.id, personality)
-            
-            # if does a session in the decided time slot
-            elif ((last_session.start_time > patient.slot.start_time - timedelta(minutes = 30)) and (last_session.start_time < patient.slot.end_time + timedelta(minutes = 30))):
-                coach.schedule_next_day_reminder(patient, personality)
             
             # TODO: progress reminders 
         
