@@ -8,7 +8,7 @@ import sys
 def main():
     # skip for even hours (only run mid session)   
     if datetime.now().hour % 2 == 0:
-        return 
+        return
     
     # get session history for all patients
     data = ep.get_history()
@@ -34,13 +34,13 @@ def main():
         # get last session
         last_session = coach.get_last_session(patient.id)
 
-        # schedule all next day reminders at 1AM 
-        if datetime.now().hour == 1:
-            coach.schedule_next_day_reminder(patient, personality)
+        # schedule all next day reminders at 3AM 
+        if datetime.now().hour == 3:
+            coach.schedule_session_reminder(patient, personality)
 
         elif last_session is None:
             print("no last session")
-            coach.schedule_next_day_reminder(patient, personality)
+            coach.schedule_session_reminder(patient, personality)
 
         # check if current time falls between patient's time slot 
         elif patient.is_selected_time(datetime.now()):
