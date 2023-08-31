@@ -8,9 +8,9 @@ class Endpoints:
     def __init__(self, env = "development"):
         self.env = env    # development, beta, or production
         self.get_history_url = f"https://rgsweb.eodyne.com/rgsmims/backend/{env}/webservices/src/ai-coach/get-patient-messages-and-sessions"
-        self.get_time_slot_url = f"https://rgsweb.eodyne.com/rgsmims/backend/{env}/webservices/src/app/1/coach-messages/get-training-time"
+        self.get_time_slot_url = f"https://rgsweb.eodyne.com/rgsmims/backend/{env}/webservices/src/app/2/coach-messages/get-training-time"
         self.schedule_notif_url = f"https://rgsweb.eodyne.com/rgsmims/backend/{env}/webservices/src/ai-coach/add-coach-message"
-        self.get_language_url = f"https://rgsweb.eodyne.com/rgsmims/backend/{env}/webservices/src/app/1/patient-language/get"
+        self.get_language_url = f"https://rgsweb.eodyne.com/rgsmims/backend/{env}/webservices/src/app/2/patient-language/get"
 
     def get_history(self):
         response = requests.post(self.get_history_url, headers=headers)

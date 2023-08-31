@@ -49,11 +49,12 @@ class Coach:
     def session_reminder_scheduled(self, patient):
         date_format = '%Y-%m-%dT%H:%M:%S.%fZ'
         patient_history = self.history[patient.id]
-        last_message = patient_history["MESSAGES"][-1]
-        last_message_time =  datetime.strptime(last_message['LAUNCH_DATETIME'], date_format)
-        launch_datetime = (patient.slot.start_time - timedelta(minutes=15))
-        if last_message_time == launch_datetime:
-            return True
+        if len(patient_history["MESSAGES"])>0:
+            last_message = patient_history["MESSAGES"][-1]
+            last_message_time =  datetime.strptime(last_message['LAUNCH_DATETIME'], date_format)
+            launch_datetime = (patient.slot.start_time - timedelta(minutes=15))
+            if last_message_time == launch_datetime:
+                return True
         return False
     
     def calculate_personality(self, patient_id):
