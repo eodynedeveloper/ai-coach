@@ -2,7 +2,7 @@ import random
 from .Patient import Patient 
 from .endpoints import Endpoints 
 from datetime import datetime, timedelta
-
+import logging
 
 
 class Coach:
@@ -46,15 +46,19 @@ class Coach:
                 streak = False
         return streak_len
 
-    def session_reminder_scheduled(self, patient):
-        date_format = '%Y-%m-%dT%H:%M:%S.%fZ'
+    def session_reminder_scheduled(self, patient, launch_datetime):
+        date_format = '%Y-%m-%d %H:%M'
         patient_history = self.history[patient.id]
         if len(patient_history["MESSAGES"])>0:
-            last_message = patient_history["MESSAGES"][-1]
-            last_message_time =  datetime.strptime(last_message['LAUNCH_DATETIME'], date_format)
-            launch_datetime = (patient.slot.start_time - timedelta(minutes=15))
-            if last_message_time == launch_datetime:
-                return True
+            for msg in patient_history["MESSAGES"]:
+                if msg["TYPE"] != "NOTIFICATION":
+                    continue
+                msg_time =  datetime.strptime(msg['LAUNCH_DATETIME'], date_format)
+                print(launch_datetime)
+                print(msg_time)
+                if abs((msg_time - launch_datetime).total_seconds()) < 300:
+                    print("same")
+                    return True
         return False
     
     def calculate_personality(self, patient_id):
@@ -75,14 +79,14 @@ class Coach:
         self.ep.schedule_notif(patient_id, message, launch_datetime, personality)
 
     def schedule_session_reminder(self, patient, personality):
-        if self.session_reminder_scheduled(patient):
-            return 
-        print("scheduling next day reminder")
+        logging.info("scheduling next day reminder")
         message = self.pick_message(patient.id, personality, "session_reminder")
-        launch_datetime = (patient.slot.start_time - timedelta(minutes=30)).strftime("%Y-%m-%d %H:%M:%S")
-        print("calling end point")
+        launch_datetime = (patient.slot.start_time - timedelta(minutes=30))
+        if self.session_reminder_scheduled(patient, launch_datetime):
+            logging.info("session reminder already scheduled")
+            return 
+        launch_datetime = launch_datetime.strftime("%Y-%m-%d %H:%M:%S")
         self.ep.schedule_notif(patient.id, message, launch_datetime, personality)
-        print("endpoint executed")
 
         
     def send_streak_reminder(self, patient_id, personality, streak_len):
@@ -98,4 +102,5 @@ class Coach:
         self.ep.schedule_notif(patient_id, message, launch_datetime, personality)
 
     def send_progress_reminder(self, patient_id, personality):
+        logging.info("sending progress reminder")
         pass
