@@ -8,7 +8,7 @@ import logging
 import os 
 
 def main():
-    os.makedirs("logs", exist_ok=True)
+    os.makedirs(f"{sys.path[0]}/logs", exist_ok=True)
     logging.basicConfig(filename=f'logs/{datetime.now().strftime("%Y-%m-%d_%H_%M")}.log',
                         encoding='utf-8', level=logging.INFO)
     
