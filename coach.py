@@ -5,9 +5,11 @@ from src.Coach import Coach
 from src.endpoints import Endpoints
 import sys
 import logging
+import os 
 
 def main():
-    logging.basicConfig(filename=f'{datetime.now().strftime("%Y-%m-%d_%H_%M")}.log',
+    os.makedirs("logs", exist_ok=True)
+    logging.basicConfig(filename=f'logs/{datetime.now().strftime("%Y-%m-%d_%H_%M")}.log',
                         encoding='utf-8', level=logging.INFO)
     
     # skip for even hours (only run mid session)   
