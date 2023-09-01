@@ -79,12 +79,12 @@ class Coach:
         self.ep.schedule_notif(patient_id, message, launch_datetime, personality)
 
     def schedule_session_reminder(self, patient, personality):
-        logging.info("scheduling next day reminder")
         message = self.pick_message(patient.id, personality, "session_reminder")
         launch_datetime = (patient.slot.start_time - timedelta(minutes=30))
         if self.session_reminder_scheduled(patient, launch_datetime):
             logging.info("session reminder already scheduled")
             return 
+        logging.info("scheduling next day reminder")
         launch_datetime = launch_datetime.strftime("%Y-%m-%d %H:%M:%S")
         self.ep.schedule_notif(patient.id, message, launch_datetime, personality)
 

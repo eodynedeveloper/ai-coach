@@ -9,7 +9,7 @@ import os
 
 def main():
     os.makedirs(f"{sys.path[0]}/logs", exist_ok=True)
-    logging.basicConfig(filename=f'logs/{datetime.now().strftime("%Y-%m-%d_%H_%M")}.log',
+    logging.basicConfig(filename=f'{sys.path[0]}/logs/{datetime.now().strftime("%Y-%m-%d_%H_%M")}.log',
                         encoding='utf-8', level=logging.INFO)
     
     # skip for even hours (only run mid session)   
@@ -19,7 +19,7 @@ def main():
     # initialise logging
     logging.basicConfig(filename=f'{datetime.now().strftime("%Y-%m-%d_%H_%M")}.log',
                         encoding='utf-8', level=logging.DEBUG)
-    
+
     # get session history for all patients
     data = ep.get_history()
 
@@ -31,6 +31,7 @@ def main():
     # initialize coach 
     coach = Coach(session_history, env=env)
     logging.info('Coach initialized')
+
     # loop through all patients 
     for patient in session_history.keys():
         print(f"patient ID - {patient}")
@@ -41,6 +42,7 @@ def main():
         patient = Patient(patient)
         if patient.slot is None:
             continue
+
         msgs = load_msgs(patient.language)
         coach.msgs = msgs
         personality = coach.calculate_personality(patient.id)
@@ -85,7 +87,7 @@ def main():
                 else:
                     coach.send_out_of_slot_no_streak_reminder(patient.id, personality)
                     logging.info("out_of_slot_no_streak_reminder_sent")
-
+        
             # TODO: progress reminders 
         
 
