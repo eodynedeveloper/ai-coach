@@ -11,8 +11,8 @@ def main():
                         encoding='utf-8', level=logging.INFO)
     
     # skip for even hours (only run mid session)   
-    """if datetime.now().hour % 2 == 0:
-        return"""
+    if datetime.now().hour % 2 == 0:
+        return
     
     # initialise logging
     logging.basicConfig(filename=f'{datetime.now().strftime("%Y-%m-%d_%H_%M")}.log',
