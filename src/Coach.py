@@ -1,6 +1,5 @@
 import random 
-from .Patient import Patient 
-from .endpoints import Endpoints 
+from src.endpoints import Endpoints 
 from datetime import datetime, timedelta
 import logging
 
@@ -13,7 +12,11 @@ class Coach:
         self.ep = Endpoints(env)
 
     def get_last_session(self, patient_id):
-        pass 
+        last_session = None
+        sessions = self.history[patient_id]["SESSIONS"]
+        if sessions:   
+            last_session =  Session(sessions[-1])
+        return last_session
 
     def notifs_sent_today(self, patient_id):
         date_format = '%Y-%m-%dT%H:%M:%S.%fZ'
@@ -33,14 +36,14 @@ class Coach:
         return min(msg_dict, key=msg_dict.get)
     
     def get_streak_len(self, patient_id):
-        date_format = '%Y-%m-%dT%H:%M:%S.%fZ'
+        date_format = '%Y-%m-%d %H:%M'
         patient_history = self.history[patient_id]
         streak_len = 0
         streak = True
-        session_dates = [datetime.strptime(i['SESSION_START_TIME'], date_format).date() for i in patient_history['SESSIONS']]
+        session_dates = [datetime.strptime(i['STARTING_DATE'], date_format).date() for i in patient_history['SESSIONS']]
         
         while streak:
-            if (datetime.today.date() - timedelta(days=streak_len+1)) in session_dates:
+            if (datetime.today().date() - timedelta(days=streak_len+1)) in session_dates:
                 streak_len +=1
             else:
                 streak = False
@@ -91,8 +94,8 @@ class Coach:
         
     def send_streak_reminder(self, patient_id, personality, streak_len):
         message = self.pick_message(patient_id, personality, "streak_reminder")
-        message.replace(" X", f" {str(streak_len)}")
-        message.replace(" x", f" {str(streak_len)}")
+        message = message.replace(" X", f" {str(streak_len)}")
+        message = message.replace(" x", f" {str(streak_len)}")
         launch_datetime = (datetime.now() + timedelta(minutes=10)).strftime("%Y-%m-%d %H:%M:%S")
         self.ep.schedule_notif(patient_id, message, launch_datetime, personality)
 
@@ -104,3 +107,10 @@ class Coach:
     def send_progress_reminder(self, patient_id, personality):
         logging.info("sending progress reminder")
         pass
+
+class Session:
+    def __init__(self, session):
+        date_format = '%Y-%m-%d %H:%M'
+        self.start_time = datetime.strptime(session["STARTING_DATE"], date_format)
+        self.score = session['SCORE']
+        self.duration = session['SESSION_DURATION_SECONDS']

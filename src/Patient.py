@@ -1,4 +1,4 @@
-from .endpoints import Endpoints 
+from src.endpoints import Endpoints 
 from datetime import datetime
 
 class Patient:

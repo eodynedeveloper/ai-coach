@@ -48,18 +48,16 @@ def main():
         personality = coach.calculate_personality(patient.id)
         logging.info(f"selected personality: {personality}")
 
-        # get last session
-        last_session = coach.get_last_session(patient.id)
-
         # schedule all next day reminders at 3AM 
         if datetime.now().hour == 3:
             coach.schedule_session_reminder(patient, personality)
             logging.info("next day reminders scheduled")
 
-        elif last_session is None:
-            print("no last session")
-            coach.schedule_session_reminder(patient, personality)
-            logging.info("next day reminders scheduled")
+        # get last session
+        last_session = coach.get_last_session(patient.id)
+        
+        if last_session == None:
+            continue
 
         # check if current time falls between patient's time slot 
         elif patient.is_selected_time(datetime.now()):
@@ -73,7 +71,7 @@ def main():
             logging.info("not in patient's slot")
             # if no sessions since over a day
             if last_session.start_time <  datetime.now() - timedelta(days=1):
-                days = (datetime.now() - last_session).days 
+                days = (datetime.now() - last_session.start_time).days 
                 coach.send_not_connected_since_days_reminder(patient.id, personality, days)
                 logging.info("not_connected_since_days_reminder_sent")
 
@@ -81,7 +79,7 @@ def main():
             elif last_session.start_time < patient.slot.start_time - timedelta(minutes = 30):
                 # check streak
                 streak_len = coach.get_streak_len(patient.id)
-                if streak_len > 0:
+                if streak_len > 1:
                     coach.send_streak_reminder(patient.id, personality, streak_len)
                     logging.info("streak_reminder_sent")
                 else:
@@ -89,8 +87,7 @@ def main():
                     logging.info("out_of_slot_no_streak_reminder_sent")
         
             # TODO: progress reminders 
-        
-
+            
 
 
 if __name__ == "__main__":

@@ -1,6 +1,7 @@
 import requests 
 import datetime 
-import time 
+import time
+import logging 
 
 headers = {'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7IlBBVElFTlRfSUQiOjIsIkhPU1BJVEFMX0lEIjoxLCJQQVRJRU5UX1VTRVIiOiJzZXJnaSIsIlBBU1NXT1JEIjoiMDU1ZjZmNTE1Yjk1NWE1Yzc3ZjhkNmE4MmQ2ZjBhZWYiLCJDUkVBVElPTl9USU1FIjoiMjAyMi0wMy0yOFQxNTowMjowMi4wMDBaIiwiREVMRVRFX1RJTUUiOm51bGwsIk5BTUUiOm51bGwsIlNVUk5BTUUxIjpudWxsLCJTVVJOQU1FMiI6bnVsbCwiUEFSRVRJQ19TSURFIjoiUklHSFQiLCJVUFBFUl9FWFRSRU1JVFlfVE9fVFJBSU4iOiJSSUdIVCIsIkhBTkRfUkFJU0lOR19DQVBBQ0lUWSI6Ik1FRElVTSIsIkNPR05JVElWRV9GVU5DVElPTl9MRVZFTCI6IkxPVyIsIkhBU19IRU1JTkVHTElHRU5DRSI6MCwiR0VOREVSIjoiTUFMRSIsIlNLSU5fQ09MT1IiOiJGREMzQUQiLCJCSVJUSF9EQVRFIjoiMTk4Ny0wNC0yNlQyMjowMDowMC4wMDBaIiwiVklERU9HQU1FX0VYUCI6bnVsbCwiQ09NUFVURVJfRVhQIjpudWxsLCJDT01NRU5UUyI6bnVsbCwiUFROX0hFSUdIVF9DTSI6MTkzLCJBUk1fU0laRV9DTSI6MjIsIkRFTU8iOjAsIlZFUlNJT04iOjU0LCJpc0NvYWNoQWN0aXZlIjp0cnVlfSwiaWF0IjoxNjkxNTg5MzAyfQ.J5tphIDwZf_2DYJc6YhTl2_AGRowj0b2lbvMkfI2X7c'}
 
@@ -28,6 +29,7 @@ class Endpoints:
         return (response.json())
     
     def schedule_notif(self, patient_id, message, launch_datetime, coach_personality):
+        logging.info(message)
         request_body = {"MESSAGE": message,
                         "LAUNCH_DATETIME" : launch_datetime,
                         "COACH_PERSONALITY": coach_personality}
