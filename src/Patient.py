@@ -1,5 +1,5 @@
 from src.endpoints import Endpoints 
-from datetime import datetime
+from datetime import datetime, timedelta 
 
 class Patient:
     def __init__(self, id, env = "development") -> None:
@@ -21,6 +21,12 @@ class Patient:
 
     def is_selected_time(self, time):
         if (time > self.slot.start_time) and (time < self.slot.end_time):
+            return True
+        
+        return False
+    
+    def is_right_after_slot(self, time):
+        if (time > self.slot.end_time) and (time < self.slot.end_time + timedelta(hours=2)):
             return True
         
         return False

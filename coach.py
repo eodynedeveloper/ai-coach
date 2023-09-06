@@ -66,9 +66,9 @@ def main():
             if last_session.start_time <  datetime.now() - timedelta(minutes=90):
                 coach.send_mid_session_reminder(patient.id, personality)
                 logging.info("mid session reminder sent")
-            
-        else:
-            logging.info("not in patient's slot")
+        
+        elif patient.is_right_after_slot(datetime.now()):
+            logging.info("right after patient's slot")
             # if no sessions since over a day
             if last_session.start_time <  datetime.now() - timedelta(days=1):
                 days = (datetime.now() - last_session.start_time).days 
