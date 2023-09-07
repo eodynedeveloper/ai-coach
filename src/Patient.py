@@ -25,7 +25,7 @@ class Patient:
         
         return False
     
-    def is_right_after_slot(self, time):
+    def is_right_after_selected_time(self, time):
         if (time > self.slot.end_time) and (time < self.slot.end_time + timedelta(hours=2)):
             return True
         

@@ -1,6 +1,6 @@
 from datetime import datetime, timedelta
 from src.Patient import Patient
-from src.utils import load_msgs
+from src.utils import load_msgs, default_last_session
 from src.Coach import Coach
 from src.endpoints import Endpoints
 import sys
@@ -56,24 +56,28 @@ def main():
         # get last session
         last_session = coach.get_last_session(patient.id)
         
-        if last_session == None:
-            continue
+        if last_session == None:                            
+            last_session = default_last_session()
 
         # check if current time falls between patient's time slot 
-        elif patient.is_selected_time(datetime.now()):
+        if patient.is_selected_time(datetime.now()):
             logging.info("in patient's slot")
             # send reminder if no session done in the last hour
             if last_session.start_time <  datetime.now() - timedelta(minutes=90):
                 coach.send_mid_session_reminder(patient.id, personality)
                 logging.info("mid session reminder sent")
         
-        elif patient.is_right_after_slot(datetime.now()):
+        elif patient.is_right_after_selected_time(datetime.now()):
             logging.info("right after patient's slot")
             # if no sessions since over a day
             if last_session.start_time <  datetime.now() - timedelta(days=1):
-                days = (datetime.now() - last_session.start_time).days 
-                coach.send_not_connected_since_days_reminder(patient.id, personality, days)
-                logging.info("not_connected_since_days_reminder_sent")
+                days = (datetime.now() - last_session.start_time).days
+                first_message = coach.get_first_message(patient)
+                if first_message == None:
+                    continue
+                elif first_message.time < last_session.start_time:
+                    coach.send_not_connected_since_days_reminder(patient.id, personality, days)
+                    logging.info("not_connected_since_days_reminder_sent")
 
             # if misses session in decided slot
             elif last_session.start_time < patient.slot.start_time - timedelta(minutes = 30):

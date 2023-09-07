@@ -11,6 +11,13 @@ class Coach:
         self.msgs = None
         self.ep = Endpoints(env)
 
+    def get_first_message(self, patient):
+        messages = self.history[patient.id]["MESSAGES"]
+        if not messages:
+            return None
+        first_message = Message(messages[0])
+        return first_message
+
     def get_last_session(self, patient_id):
         last_session = None
         sessions = self.history[patient_id]["SESSIONS"]
@@ -114,3 +121,13 @@ class Session:
         self.start_time = datetime.strptime(session["STARTING_DATE"], date_format)
         self.score = session['SCORE']
         self.duration = session['SESSION_DURATION_SECONDS']
+
+class Message:
+    def __init__(self, message):
+        self.message = message["MESSAGE"]
+        self.type = message["TYPE"]
+        self.time = message["LAUNCH_DATETIME"]
+    
+
+        
+    
