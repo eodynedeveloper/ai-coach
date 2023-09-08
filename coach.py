@@ -8,8 +8,8 @@ import logging
 import os 
 
 def main():
-    os.makedirs(f"{sys.path[0]}/logs", exist_ok=True)
-    logging.basicConfig(filename=f'{sys.path[0]}/logs/{datetime.now().strftime("%Y-%m-%d_%H_%M")}.log',
+    os.makedirs(f"{sys.path[0]}/logs/{env}", exist_ok=True)
+    logging.basicConfig(filename=f'{sys.path[0]}/logs/{env}{datetime.now().strftime("%Y-%m-%d_%H_%M")}.log',
                         encoding='utf-8', level=logging.INFO)
     
     # skip for even hours (only run mid session)   
