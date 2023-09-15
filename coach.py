@@ -39,7 +39,7 @@ def main():
 
         coach.notif_sent = False
         # get messages in the given language for patient 
-        patient = Patient(patient)
+        patient = Patient(patient, env=env)
         if patient.slot is None:
             continue
 
