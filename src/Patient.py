@@ -1,5 +1,6 @@
 from src.endpoints import Endpoints 
 from datetime import datetime, timedelta 
+from src.utils import DATE_FMT
 
 class Patient:
     def __init__(self, id, env = "development") -> None:
@@ -36,7 +37,6 @@ class Slot:
         date = datetime.now().date().strftime("%Y-%m-%d")
         start_datetime = f"{date} {slot_dict['STARTING_TRAINING_TIME']}"
         end_datetime = f"{date} {slot_dict['ENDING_TRAINING_TIME']}"
-        date_format = '%Y-%m-%d %H:%M:%S'
-        self.start_time = datetime.strptime(start_datetime, date_format)
-        self.end_time = datetime.strptime(end_datetime, date_format)
+        self.start_time = datetime.strptime(start_datetime, DATE_FMT)
+        self.end_time = datetime.strptime(end_datetime, DATE_FMT)
        

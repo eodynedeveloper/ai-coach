@@ -4,6 +4,8 @@ import sys
 from src.Coach import Session
 path = sys.path[0]
 
+DATE_FMT = '%Y-%m-%d %H:%M'
+
 def load_msgs(language="English"):
     fpath = f"{path}/messages/msgs_{language}.json"
     if not os.path.exists(fpath):

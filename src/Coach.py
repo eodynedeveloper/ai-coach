@@ -2,7 +2,7 @@ import random
 from src.endpoints import Endpoints 
 from datetime import datetime, timedelta
 import logging
-
+from src.utils import DATE_FMT
 
 class Coach:
     def __init__(self, history, env="development") -> None:
@@ -26,11 +26,10 @@ class Coach:
         return last_session
 
     def notifs_sent_today(self, patient_id):
-        date_format = '%Y-%m-%dT%H:%M:%S.%fZ'
         messages = self.history[patient_id]['MESSAGES']
         n = 0
         for m in messages:
-            if datetime.strptime(m['LAUNCH_DATETIME'], date_format).date() == datetime.today.date():
+            if datetime.strptime(m['LAUNCH_DATETIME'], DATE_FMT).date() == datetime.today.date():
                 n+=1
         return n
         
@@ -43,11 +42,10 @@ class Coach:
         return min(msg_dict, key=msg_dict.get)
     
     def get_streak_len(self, patient_id):
-        date_format = '%Y-%m-%d %H:%M'
         patient_history = self.history[patient_id]
         streak_len = 0
         streak = True
-        session_dates = [datetime.strptime(i['STARTING_DATE'], date_format).date() for i in patient_history['SESSIONS']]
+        session_dates = [datetime.strptime(i['STARTING_DATE'], DATE_FMT).date() for i in patient_history['SESSIONS']]
         
         while streak:
             if (datetime.today().date() - timedelta(days=streak_len+1)) in session_dates:
@@ -57,13 +55,12 @@ class Coach:
         return streak_len
 
     def session_reminder_scheduled(self, patient, launch_datetime):
-        date_format = '%Y-%m-%d %H:%M'
         patient_history = self.history[patient.id]
         if len(patient_history["MESSAGES"])>0:
             for msg in patient_history["MESSAGES"]:
                 if msg["TYPE"] != "NOTIFICATION":
                     continue
-                msg_time =  datetime.strptime(msg['LAUNCH_DATETIME'], date_format)
+                msg_time =  datetime.strptime(msg['LAUNCH_DATETIME'], DATE_FMT)
                 print(launch_datetime)
                 print(msg_time)
                 if abs((msg_time - launch_datetime).total_seconds()) < 300:
@@ -117,8 +114,7 @@ class Coach:
 
 class Session:
     def __init__(self, session):
-        date_format = '%Y-%m-%d %H:%M'
-        self.start_time = datetime.strptime(session["STARTING_DATE"], date_format)
+        self.start_time = datetime.strptime(session["STARTING_DATE"], DATE_FMT)
         self.score = session['SCORE']
         self.duration = session['SESSION_DURATION_SECONDS']
 
@@ -126,7 +122,7 @@ class Message:
     def __init__(self, message):
         self.message = message["MESSAGE"]
         self.type = message["TYPE"]
-        self.time = message["LAUNCH_DATETIME"]
+        self.time = datetime.strptime(message["LAUNCH_DATETIME"], DATE_FMT)
     
 
         
