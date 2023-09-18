@@ -2,7 +2,7 @@ import random
 from src.endpoints import Endpoints 
 from datetime import datetime, timedelta
 import logging
-from src.utils import DATE_FMT
+from src.utils import Message, Session, DATE_FMT
 
 class Coach:
     def __init__(self, history, env="development") -> None:
@@ -112,18 +112,5 @@ class Coach:
         logging.info("sending progress reminder")
         pass
 
-class Session:
-    def __init__(self, session):
-        self.start_time = datetime.strptime(session["STARTING_DATE"], DATE_FMT)
-        self.score = session['SCORE']
-        self.duration = session['SESSION_DURATION_SECONDS']
 
-class Message:
-    def __init__(self, message):
-        self.message = message["MESSAGE"]
-        self.type = message["TYPE"]
-        self.time = datetime.strptime(message["LAUNCH_DATETIME"], DATE_FMT)
-    
-
-        
     

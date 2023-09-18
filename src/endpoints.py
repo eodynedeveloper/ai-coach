@@ -32,7 +32,6 @@ class Endpoints:
                         "LAUNCH_DATETIME" : launch_datetime,
                         "COACH_PERSONALITY": coach_personality}
         print(request_body)
-        print("posting")
         requests.post(f"{self.schedule_notif_url}/{patient_id}", json=request_body)
 
 
