@@ -5,20 +5,20 @@ from datetime import datetime
 path = sys.path[0]
 
 
-DATE_FMT = '%Y-%m-%d %H:%M'
+DATETIME_FMT = '%Y-%m-%d %H:%M'
 
 class Slot:
     def __init__(self, slot_dict):
-        date_format = '%Y-%m-%d %H:%M:%S'
+        slot_format = '%Y-%m-%d %H:%M:%S'
         date = datetime.now().date().strftime("%Y-%m-%d")
         start_datetime = f"{date} {slot_dict['STARTING_TRAINING_TIME']}"
         end_datetime = f"{date} {slot_dict['ENDING_TRAINING_TIME']}"
-        self.start_time = datetime.strptime(start_datetime, date_format)
-        self.end_time = datetime.strptime(end_datetime, date_format)
+        self.start_time = datetime.strptime(start_datetime, slot_format)
+        self.end_time = datetime.strptime(end_datetime, slot_format)
        
 class Session:
     def __init__(self, session):
-        self.start_time = datetime.strptime(session["STARTING_DATE"], DATE_FMT)
+        self.start_time = datetime.strptime(session["STARTING_DATE"], DATETIME_FMT)
         self.score = session['SCORE']
         self.duration = session['SESSION_DURATION_SECONDS']
 
@@ -26,9 +26,8 @@ class Message:
     def __init__(self, message):
         self.message = message["MESSAGE"]
         self.type = message["TYPE"]
-        self.time = datetime.strptime(message["LAUNCH_DATETIME"], DATE_FMT)
+        self.time = datetime.strptime(message["LAUNCH_DATETIME"], DATETIME_FMT)
     
-
         
 def load_msgs(language="English"):
     fpath = f"{path}/messages/msgs_{language}.json"

@@ -1,11 +1,11 @@
 from src.endpoints import Endpoints 
 from datetime import datetime, timedelta 
-from src.utils import Slot, DATE_FMT
+from src.utils import Slot
 
 class Patient:
-    def __init__(self, id, env = "development") -> None:
+    def __init__(self, id, env = "development", project="global") -> None:
         self.id = id
-        self.ep = Endpoints(env)
+        self.ep = Endpoints(env=env, project=project)
         self.language = self.get_patient_language()
         self.slot = self.get_slot() 
 

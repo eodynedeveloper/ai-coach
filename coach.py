@@ -8,8 +8,8 @@ import logging
 import os 
 
 def main():
-    os.makedirs(f"{sys.path[0]}/logs/{env}", exist_ok=True)
-    logging.basicConfig(filename=f'{sys.path[0]}/logs/{env}/{datetime.now().strftime("%Y-%m-%d_%H_%M")}.log',
+    os.makedirs(f"{sys.path[0]}/logs/{project}/{env}", exist_ok=True)
+    logging.basicConfig(filename=f'{sys.path[0]}/logs/{env}/{project}/{datetime.now().strftime("%Y-%m-%d_%H_%M")}.log',
                         encoding='utf-8', level=logging.INFO)
     
     # skip for even hours (only run mid session)   
@@ -29,7 +29,7 @@ def main():
         session_history[i["PATIENT_ID"]] = i
 
     # initialize coach 
-    coach = Coach(session_history, env=env)
+    coach = Coach(session_history, env=env, project=project)
     logging.info('Coach initialized')
 
     # loop through all patients 
@@ -39,7 +39,7 @@ def main():
 
         coach.notif_sent = False
         # get messages in the given language for patient 
-        patient = Patient(patient, env=env)
+        patient = Patient(patient, env=env, project=project)
         if patient.slot is None:
             continue
 
@@ -96,6 +96,9 @@ def main():
 
 if __name__ == "__main__":
     env = sys.argv[1]
-    ep = Endpoints(env)
+    project = "global"
+    if len(sys.argv) == 3:
+        project = sys.argv[2]
+    ep = Endpoints(env=env, project=project)
     main()
     

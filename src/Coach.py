@@ -2,14 +2,14 @@ import random
 from src.endpoints import Endpoints 
 from datetime import datetime, timedelta
 import logging
-from src.utils import Message, Session, DATE_FMT
+from src.utils import Message, Session, DATETIME_FMT
 
 class Coach:
-    def __init__(self, history, env="development") -> None:
+    def __init__(self, history, env="development", project="global") -> None:
         self.history = history 
         self.notif_sent = False
         self.msgs = None
-        self.ep = Endpoints(env)
+        self.ep = Endpoints(env=env, project=project)
 
     def get_first_message(self, patient):
         messages = self.history[patient.id]["MESSAGES"]
@@ -29,7 +29,7 @@ class Coach:
         messages = self.history[patient_id]['MESSAGES']
         n = 0
         for m in messages:
-            if datetime.strptime(m['LAUNCH_DATETIME'], DATE_FMT).date() == datetime.today.date():
+            if datetime.strptime(m['LAUNCH_DATETIME'], DATETIME_FMT).date() == datetime.today.date():
                 n+=1
         return n
         
@@ -45,7 +45,7 @@ class Coach:
         patient_history = self.history[patient_id]
         streak_len = 0
         streak = True
-        session_dates = [datetime.strptime(i['STARTING_DATE'], DATE_FMT).date() for i in patient_history['SESSIONS']]
+        session_dates = [datetime.strptime(i['STARTING_DATE'], DATETIME_FMT).date() for i in patient_history['SESSIONS']]
         
         while streak:
             if (datetime.today().date() - timedelta(days=streak_len+1)) in session_dates:
@@ -60,7 +60,7 @@ class Coach:
             for msg in patient_history["MESSAGES"]:
                 if msg["TYPE"] != "NOTIFICATION":
                     continue
-                msg_time =  datetime.strptime(msg['LAUNCH_DATETIME'], DATE_FMT)
+                msg_time =  datetime.strptime(msg['LAUNCH_DATETIME'], DATETIME_FMT)
                 print(launch_datetime)
                 print(msg_time)
                 if abs((msg_time - launch_datetime).total_seconds()) < 300:
