@@ -21,8 +21,15 @@ class Endpoints:
             raise Exception("Invalid project: global and strack are the only accepted values")
     
     def get_history(self):
-        response = requests.post(self.get_history_url, headers=headers)
-        return (response.json())
+        attempts = 3
+        while attempts > 0:
+            try:
+                response = requests.post(self.get_history_url, headers=headers)
+                return (response.json())
+            except:
+                attempts-=1
+        logging.error("get_history end point failed!\nurl:{self.get_history_url}")
+                
     
     def get_language(self, patient_id):
         response = requests.get(f"{self.get_language_url}/{patient_id}", headers=headers)

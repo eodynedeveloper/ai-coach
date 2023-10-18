@@ -9,16 +9,14 @@ import os
 
 def main():
     os.makedirs(f"{sys.path[0]}/logs/{project}/{env}", exist_ok=True)
-    logging.basicConfig(filename=f'{sys.path[0]}/logs/{project}/{env}/{datetime.now().strftime("%Y-%m-%d_%H_%M")}.log',
-                        encoding='utf-8', level=logging.INFO)
     
     # skip for even hours (only run mid session)   
     if datetime.now().hour % 2 == 0:
         return
     
-    # initialise logging
-    logging.basicConfig(filename=f'{datetime.now().strftime("%Y-%m-%d_%H_%M")}.log',
-                        encoding='utf-8', level=logging.DEBUG)
+    # initialize logging
+    logging.basicConfig(filename=f'{sys.path[0]}/logs/{project}/{env}/{datetime.now().strftime("%Y-%m-%d_%H_%M")}.log',
+                        encoding='utf-8', level=logging.INFO)
 
     # get session history for all patients
     data = ep.get_history()
@@ -76,6 +74,7 @@ def main():
                 if first_message == None:
                     continue
                 elif first_message.time < last_session.start_time:
+
                     coach.send_not_connected_since_days_reminder(patient.id, personality, days)
                     logging.info("not_connected_since_days_reminder_sent")
 

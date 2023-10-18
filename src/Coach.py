@@ -80,8 +80,13 @@ class Coach:
         launch_datetime = (datetime.now() + timedelta(minutes=5)).strftime("%Y-%m-%d %H:%M:%S")
         self.ep.schedule_notif(patient_id, message, launch_datetime, personality)
 
-    def send_not_connected_since_days_reminder(self, patient_id, personality, days=1):
-        message = self.pick_message(patient_id, personality, "not_connected_since_days_reminder")
+    def send_not_connected_since_days_reminder(self, patient_id, personality, days):
+        if days == 1:
+            message = self.pick_message(patient_id, personality, "not_connected_since_days_reminder")
+        elif days == 3:
+            message = self.pick_message(patient_id, personality, "not_connected_since_3_days_reminder")
+        else:
+            return
         launch_datetime = (datetime.now() + timedelta(minutes=10)).strftime("%Y-%m-%d %H:%M:%S")
         self.ep.schedule_notif(patient_id, message, launch_datetime, personality)
 
