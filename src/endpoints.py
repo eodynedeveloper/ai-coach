@@ -28,8 +28,10 @@ class Endpoints:
                 return (response.json())
             except:
                 attempts-=1
+                if attempts == 0:
+                    raise
         logging.error("get_history end point failed!\nurl:{self.get_history_url}")
-                
+        
     
     def get_language(self, patient_id):
         response = requests.get(f"{self.get_language_url}/{patient_id}", headers=headers)
