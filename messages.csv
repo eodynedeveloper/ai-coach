@@ -1,5 +1,5 @@
-Use Case ,v1_English,v2_English,v3_English,v1_Spanish,v2_Spanish,v3_Spanish,v1_Italian,v2_Italian,v3_Italian,v1_Dutch,v2_Dutch,v3_Dutch,v1_Catalan,v2_Catalan,v3_Catalan,v1_Portuguese,v2_Portuguese,v3_Portuguese,v1_German,v2_German,v3_German,v1_Ukrainian,v2_Ukrainian,v3_Ukrainian
-not_connected_since_days_reminder,"1. ""It has been a day since we last connected. I am here here to support you! Whenever you're ready, jump back into the app and continue your journey.""
+,Use Case ,v1_English,v2_English,v3_English,v1_Spanish,v2_Spanish,v3_Spanish,v1_Italian,v2_Italian,v3_Italian,v1_Dutch,v2_Dutch,v3_Dutch,v1_Catalan,v2_Catalan,v3_Catalan,v1_Portuguese,v2_Portuguese,v3_Portuguese,v1_German,v2_German,v3_German,v1_Ukrainian,v2_Ukrainian,v3_Ukrainian
+Notifications to Optimize,not_connected_since_days_reminder,"1. ""It has been a day since we last connected. I am here here to support you! Whenever you're ready, jump back into the app and continue your journey.""
 2. ""Life gets busy, but remember, I am cheering you on! Take your time and come back when you can.""
 3. ""You've come so far, and I believe in you! Reconnect with the app to keep up the fantastic progress.""
 4. ""You're not alone on this journey. Whenever you're prepared, I am here with open arms.""
@@ -22,53 +22,53 @@ not_connected_since_days_reminder,"1. ""It has been a day since we last connecte
 3. ""Gentle Reminder: Skipping a day on the app can slow your progress. Keep moving forward on your journey!""
 4. ""Vital: It's been 24 hours since your last app use. Act now to stay aligned with your goals!""
 5. ""Stay Ahead: A single day without the app could impact your progress. Log in now to keep forging ahead!""
-6. ""Maintain Momentum: It's been 1 day since you last connected. Reconnect with the app today to uphold the rhythm of your progress.""","1. ""Ha sido un día desde la última vez que nos conectamos. ¡Estoy aquí aquí para apoyarte! Siempre que estés listo, vuelva a la aplicación y continúe tu viaje"".
-2. ""La vida se ocupa, pero recuerda, ¡te estoy animando! Tómate tu tiempo y vuelve cuando puedas"".
-3. ""¡Has venido tan lejos, y creo en ti! Vuelva a conectarte con la aplicación para mantener el fantástico progreso"".
-4. ""No estás solo en este viaje. Siempre que estés preparado, estoy aquí con los brazos abiertos"".
-5. ""¡Lo estás haciendo muy bien! Tómate un momento para ti, y cuando estés listo, estaré aquí para guiarte hacia adelante"".
-6. ""¡Tus esfuerzos son encomiables! Siempre que estés preparado para reanudar, estaré aquí, animándolo en cada paso"".
-7. ""La vida es impredecible, pero su compromiso es inquebrantable. Vuelve cuando puedas, y conquistaremos los desafíos uno al lado del otro"".
-8. ""¡Estás haciendo avances increíbles! Siempre que estés listo, retomemos dónde lo dejamos y logramos alturas aún mayores"".
-9. ""¡Tu dedicación me inspira! Tómate el tiempo que necesitas, y estaré ansioso por celebrar tus éxitos"".
-10. ""Su viaje es único, y está bien tomar desvíos. Cuando esté listo, volveremos a la pista juntos"".","1. ""Recordatorio: ha sido un día desde su última actividad en el RGSAPP"".
-2. ""Actualización de actividad de la aplicación: 24 horas desde el último uso"".
-3. ""Notado: no hay actividad de la aplicación registrada en el último día"".
-4. ""No olvides usar el rgsapp""
-5. ""Solo una actualización rápida: han pasado 24 horas desde su última interacción con el RGSAPP"".
-6. ""Su última actividad en el RGSAPP fue hace 1 día. ¡No dude en explorarla en cualquier momento!""
-7. ""Quería recordarte que no has usado el RGSAPP en las últimas 24 horas"".
-8. ""No hay actividad de la aplicación reciente para informar durante las últimas 24 horas. ¡Use el RGSAPP cuando esté listo!""
-9. ""El RGSAPP ha estado inactivo durante 1 día. ¡Vuelve cuando quieras reanudar tu viaje!""
-10. ""¡El tiempo vuela! Han pasado 24 horas desde su última visita al RGSAPP. Siempre que esté listo, estaré aquí para ayudarlo"".","1. ""Acción necesaria: ha pasado 1 día desde la última vez que se conectó. Vuelva a conectarse con la aplicación ahora para mantener un progreso constante hacia sus objetivos de salud"".
-2. ""Recordatorio: no se ha notado ninguna actividad en las últimas 24 horas, el uso constante de la aplicación mejora su éxito. ¡Vuelva a la pista hoy para mantener su impulso!""
-3. ""Recordatorio suave: omitir un día en la aplicación puede retrasar su progreso. ¡Sigue avanzando en tu viaje!""
-4. ""Vital: han pasado 24 horas desde su último uso de la aplicación. ¡Actúe ahora para mantenerse alineado con sus objetivos!""
-5. ""Manténgase a la vanguardia: un solo día sin la aplicación podría afectar su progreso. ¡Inicie sesión ahora para seguir adelante!""
-6. ""Mantenga el impulso: ha pasado 1 día desde la última vez que se conectó. Vuelva a conectarse con la aplicación hoy para mantener el ritmo de su progreso"".","1. ""È stato un giorno dall'ultima volta che ci connettiamo. Sono qui per supportarti! Ogni volta che sei pronto, torna di nuovo nell'app e continua il tuo viaggio.""
-2. ""La vita si impegna, ma ricorda, ti sto incoraggiando! Prenditi il ​​tuo tempo e torna quando puoi.""
-3. ""Sei arrivato così lontano e credo in te! Riconnettiti con l'app per mantenere i fantastici progressi.""
-4. ""Non sei solo in questo viaggio. Ogni volta che sei preparato, sono qui a braccia aperte.""
+6. ""Maintain Momentum: It's been 1 day since you last connected. Reconnect with the app today to uphold the rhythm of your progress.""","1. ""Ha pasado un día desde la última vez que te conectaste. ¡Estoy aquí para apoyarte! Cuando quieras, vuelve a la aplicación y continúa tu viaje"".
+2. ""Siempre hay cosas por hacer, pero recuerda, ¡Estoy aquí para apoyarte! Tómate tu tiempo y vuelve cuando puedas"".
+3. ""Lo estás haciendo muy bien! Vuelve a conectarte y entrena para seguir con tu progreso"".
+4. ""Siempre que quieras, estoy aquí con los brazos abiertos"".
+5. ""¡Lo estás haciendo muy bien! Tómate un momento y cuando quieras, estaré aquí para guiarte hacia adelante"".
+6. ""¡Tus esfuerzos son admirables! Cuando quieras reanudar el entrenamiento, estaré aquí, animándote a cada paso"".
+7. ""Tu compromiso es inquebrantable. Vuelve cuando puedas, y superaremos los desafíos"".
+8. ""¡Estás haciendo avances increíbles! Cuando quieras, volvamos dónde lo dejamos y logremos objetivos aún mayores"".
+9. ""¡Tu dedicación es inspiradora! Tómate el tiempo que necesites y vamos por una sesión de entrenamiento"".
+10. ""Tu viaje es único y a veces está bien tomar desvíos. Cuando quieras, vamos a por ello"".","1. ""Recordatorio: ha pasado un día desde tu última actividad en RGSapp"".
+2. ""Actualización de actividad en RGSapp: 24 horas desde el último uso"".
+3. ""Nota: no hay actividad de la aplicación de RGSapp registrada en el último día"".
+4. ""No olvides usar la aplicación de RGSapp""
+5. ""Solo una actualización rápida: han pasado 24 horas desde tu última interacción con RGSapp"".
+6. ""Tu última actividad en RGSapp fue hace 1 día. ¡No dudes en entrar cuando puedas!""
+7. ""Quería recordarte que no has usado RGSapp en las últimas 24 horas"".
+8. ""No hay actividad de la aplicación RGSapp durante las últimas 24 horas. ¡Usa RGSapp cuando puedas!""
+9. ""RGSapp ha estado inactivo durante 1 día. ¡Vuelve cuando quieras reanudar tu viaje!""
+10. ""¡El tiempo vuela! Han pasado 24 horas desde tu última conexión a RGSapp. Cuando puedas entrar en la aplicación, estaré aquí para ayudarte"".","1. ""Acción necesaria: ha pasado 1 día desde la última vez que te conectaste. Abre RGSapp ahora para mantener un progreso constante y alcanzar tus objetivos de salud"".
+2. ""Recordatorio: no se ha detectado ninguna actividad en las últimas 24 horas. El uso constante de RGSapp te ayudará a alcanzar el éxito. ¡Vuelve a la pista hoy mismo para mantener tu impulso!""
+3. ""Recuerda: saltarte un día de entreno en la aplicación puede retrasar tu progreso. ¡Sigue avanzando!""
+4. ""Vital: han pasado 24 horas desde tu último uso de RGSapp. ¡Actúa ahora para continuar con tus objetivos!""
+5. ""Mantente a la vanguardia: un solo día sin usar la aplicación de RGSapp podría afectar tu progreso. ¡Entra en la aplicación ahora para seguir avanzando!""
+6. ""Mantén el impulso: ha pasado 1 día desde la última vez que te conectaste. Vuelve a conectarte con la aplicación de RGSapp hoy para mantener un buen ritmo en tu progreso"".","1. ""È passato un giorno dall'ultima volta che ti sei connesso. Sono qui per supportarti! Ogni volta che sei pronto, torna di nuovo nella app e continua il tuo viaggio.""
+2. ""La vita è impegnativa, ma ricorda, ti sto incoraggiando! Prenditi il ​​tuo tempo e torna quando puoi.""
+3. ""Sei arrivato così lontano e credo in te! Riconnettiti con la app per mantenere i fantastici progressi.""
+4. ""Non sei solo in questo viaggio. Ogni volta che sei pronto, sono qui a braccia aperte.""
 5. ""Stai andando alla grande! Prenditi un momento per te stesso e quando sarai pronto, sarò qui per guidarti in avanti.""
 6. ""I tuoi sforzi sono encomiabili! Ogni volta che sei pronto a riprendere, sarò qui, ti incoraggerò ad ogni passo.""
 7. ""La vita è imprevedibile, ma il tuo impegno è incrollabile. Torna quando puoi e conquisteremo le sfide fianco a fianco.""
-8. ""Stai facendo passi da gigante! Ogni volta che sei pronto, prendiamo da dove avevamo lasciato e raggiungiamo altezze ancora più alte.""
+8. ""Stai facendo passi da gigante! Ogni volta che sei pronto, riprendiamo da dove avevamo lasciato e raggiungiamo altezze ancora più alte.""
 9. ""La tua dedizione mi ispira! Prenditi il ​​tempo di cui hai bisogno e aspetterò con impazienza di celebrare i tuoi successi.""
-10. ""Il tuo viaggio è unico e va bene prendere le deviazioni. Quando sarai pronto, torneremo in pista insieme.""","1. ""Promemoria: è passato un giorno dalla tua ultima attività su RGSAPP.""
-2. ""Aggiornamento dell'attività dell'app: 24 ore dall'ultimo utilizzo.""
-3. ""Notato: nessuna attività dell'app registrata nel giorno passato.""
+10. ""Il tuo viaggio è unico e va bene prendere delle deviazioni. Quando sarai pronto, torneremo in pista insieme.""","1. ""Promemoria: è passato un giorno dalla tua ultima attività su RGSAPP.""
+2. ""Aggiornamento dell'attività della app: 24 ore dall'ultimo utilizzo.""
+3. ""Nota: nessuna attività della app registrata nel giorno passato.""
 4. ""Non dimenticare di usare RGSAPP""
 5. ""Solo un rapido aggiornamento: sono passate 24 ore dalla tua ultima interazione con RGSAPP.""
-6. ""La tua ultima attività su RGSAPP è stata 1 giorno fa. Sentiti libero di esplorarlo in qualsiasi momento!""
-7. ""Volevo ricordarti che non hai usato l'RGSAPP nelle ultime 24 ore.""
+6. ""La tua ultima attività su RGSAPP è stata un giorno fa. Sentiti libero di esplorarla in qualsiasi momento!""
+7. ""Volevo ricordarti che non hai usato la RGSAPP nelle ultime 24 ore.""
 8. ""Nessuna attività di app recente da segnalare per le ultime 24 ore. Usa RGSAPP ogni volta che sei pronto!""
-9. ""L'RGSAPP è stato inattivo per 1 giorno. Torna ogni volta che ti piace riprendere il tuo viaggio!""
-10. ""Time Flies! Sono passate 24 ore dalla tua ultima visita al RGSAPP. Ogni volta che sei pronto, sarò qui per aiutarti.""","1. ""Azione necessaria: è passata 1 giorno dall'ultima volta che ti sei connesso. Ricollega con l'app ora per mantenere progressi costanti verso i tuoi obiettivi di salute.""
-2. ""Promemoria: nessuna attività è stata notata nelle ultime 24 ore, l'uso costante delle app migliora il tuo successo. Torna oggi in pista per sostenere il tuo slancio!""
-3. ""Menti promemoria: saltare un giorno sull'app può rallentare i tuoi progressi. Continua ad andare avanti nel tuo viaggio!""
-4. ""VITAL: sono passate 24 ore dall'ultima app. Agisci ora per rimanere in linea con i tuoi obiettivi!""
-5. ""Resta in vantaggio: un solo giorno senza l'app potrebbe avere un impatto sui progressi. Accedi ora per continuare a correggere!""
-6. ""Mantieni lo slancio: è passato 1 giorno dall'ultima volta che ti sei connesso. Riconnetti con l'app oggi per sostenere il ritmo dei tuoi progressi.""","1. ""Het is een dag geleden dat we je voor het laatste hebben gezien. Ik ben hier om je te steunen! Kom terug naar de app en ga verder met je training wanneer je er klaar voor bent""
+9. ""La RGSAPP è stata inattiva per un giorno. Torna ogni volta che ti piace riprendere il tuo viaggio!""
+10. ""Il tempo vola! Sono passate 24 ore dalla tua ultima visita su RGSAPP. Ogni volta che sei pronto, sarò qui per aiutarti.""","1. ""Azione necessaria: è passato un giorno dall'ultima volta che ti sei connesso. Ricollegati alla app ora per mantenere i progressi costanti verso i tuoi obiettivi di salute.""
+2. ""Promemoria: nessuna attività è stata notata nelle ultime 24 ore, l'uso costante della app migliora il tuo successo. Torna oggi in pista per sostenere il tuo slancio!""
+3. ""Gentile promemoria: saltare un giorno sulla app può rallentare i tuoi progressi. Continua ad andare avanti nel tuo viaggio!""
+4. ""Essenziale: sono passate 24 ore dall'ultimo utilizzo della app. Agisci ora per rimanere in linea con i tuoi obiettivi!""
+5. ""Resta in vantaggio: un solo giorno senza la app potrebbe avere un impatto sui tuoi progressi. Accedi ora per continuare ad andare avanti!""
+6. ""Mantieni lo slancio: è passato un giorno dall'ultima volta che ti sei connesso. Riconnettiti con la app oggi per sostenere il ritmo dei tuoi progressi.""","1. ""Het is een dag geleden dat we je voor het laatste hebben gezien. Ik ben hier om je te steunen! Kom terug naar de app en ga verder met je training wanneer je er klaar voor bent""
 2. ""Het leven wordt druk, maar onthoud, ik moedig je aan! Neem de tijd en kom terug wanneer je kan.""
 3. ""Je bent zo ver gekomen en ik geloof in je! Maak opnieuw contact met de app om de fantastische vooruitgang te behouden.""
 4. ""Je bent niet alleen tijdens deze training. Wanneer je er klaar voor bent, ontvang ik je met open armen.""
@@ -86,12 +86,12 @@ not_connected_since_days_reminder,"1. ""It has been a day since we last connecte
 7. ""Ik wilde je eraan herinneren dat je de RGSApp de afgelopen 24 uur niet hebt gebruikt.""
 8. ""Geen recente app -activiteit de afgelopen 24 uur. Gebruik de RGSApp wanneer u er klaar voor bent!""
 9. ""De RGSApp is 1 dag inactief. Kom terug wanneer je je training wilt hervatten!""
-10. ""De tijd vliegt! Het is 24 uur geleden sinds je laatste bezoek aan de RGSApp. Wanneer je er klaar voor bent, zal ik hier zijn om je te helpen.""","1. ""Actie nodig: het is 1 dag geleden dat u voor het laatst verbonden bent. Maak nu weer contact met de app om een ​​gestage vooruitgang in de richting van uw gezondheidsdoelen te handhaven.""
-2. ""Herinnering: er is geen activiteit opgemerkt in de afgelopen 24 uur, consistent app -gebruik verhoogt uw succes. Ga vandaag weer op het goede spoor om uw momentum te behouden!""
-3. ""Zachte herinnering: een dag overslaan op de app kan uw voortgang vertragen. Blijf vooruitgaan tijdens uw reis!""
-4. ""Vitaal: het is 24 uur geleden dat uw laatste app wordt gebruikt. Handel nu om te blijven in overeenstemming met uw doelen!""
-5. ""Blijf voorop: een enkele dag zonder de app kan uw voortgang beïnvloeden. Log nu in om verder te gaan!""
-6. ""Houd momentum behouden: het is 1 dag geleden dat u voor het laatst verbonden bent. Verbind vandaag opnieuw met de app om het ritme van uw voortgang te handhaven.""","1. ""Ha estat un dia des que vam connectar per última vegada. Estic aquí per donar -vos suport! Sempre que estigueu a punt, torneu a l'aplicació i continueu el vostre viatge.""
+10. ""De tijd vliegt! Het is 24 uur geleden sinds je laatste bezoek aan de RGSApp. Wanneer je er klaar voor bent, zal ik hier zijn om je te helpen.""","1. ""Actie nodig: het is 1 dag geleden dat je voor het laatst actief bent geweest op de app. Ga terug naar de app om een vooruitgang van je gezondheidsdoelen te handhaven.""
+2. ""Herinnering: er is geen activiteit opgemerkt in de afgelopen 24 uur, consistent app -gebruik verhoogt jouw succes. Begin vandaag weer om je momentum te behouden!""
+3. ""Kleine herinnering: een dag overslaan op de app kan je voortgang vertragen. Blijf vooruitgaan tijdens de training!""
+4. ""Belangrijk: het is 24 uur geleden dat de app voor het laatst is gebruikt. Begin nu om je doelen te behalen!""
+5. ""Blijf actief: één dag zonder de app kan uw voortgang beïnvloeden. Log nu in om verder te gaan!""
+6. ""Behoud het momentum: het is 1 dag geleden dat u voor het laatst verbonden bent met de app. Verbind vandaag opnieuw met de app om in het ritme van je training te blijven.""","1. ""Ha estat un dia des que vam connectar per última vegada. Estic aquí per donar -vos suport! Sempre que estigueu a punt, torneu a l'aplicació i continueu el vostre viatge.""
 2. ""La vida s'ocupa, però recordeu -ho, us animo! Aprofiteu el temps i torneu quan pugueu.""
 3. ""Heu arribat fins ara, i crec en vosaltres! Torneu a connectar -vos amb l'aplicació per mantenir el progrés fantàstic.""
 4. ""No esteu sols en aquest viatge. Sempre que esteu preparats, estic aquí amb els braços oberts.""
@@ -184,16 +184,15 @@ not_connected_since_days_reminder,"1. ""It has been a day since we last connecte
 4. ""Життєво: минуло 24 години з моменту використання вашого останнього додатка. Дійте зараз, щоб залишатися узгодженими зі своїми цілями!""
 5. ""Будьте вперед: один день без програми може вплинути на ваш прогрес. Увійдіть зараз, щоб продовжувати підробляти вперед!""
 6. ""Підтримуйте імпульс: минуло 1 день з моменту, коли ви востаннє підключилися. Повторюйтесь із додатком сьогодні, щоб підтримувати ритм вашого прогресу""."
-not_connected_since_3_days_reminder,"1. ""It's been some days since your last interaction, but don't worry. Whenever you're ready, jump back into the app, and I'll be here to support your journey!""
+,not_connected_since_3_days_reminder,"1. ""It's been some days since your last interaction, but don't worry. Whenever you're ready, jump back into the app, and I'll be here to support your journey!""
 2. ""After a few days, you're missed! Whenever you're ready, jump back into the app, and I'll be here to support your journey!""
 3. ""Life gets busy, and it's alright to take breaks. It's been a while since your last visit, but know that I'm still cheering you on. Come back when you can!""
 4. ""No need to rush! I see it has been some days since your last activity, but remember, progress is a step-by-step process. We'll continue when you're back.""
 5. ""You're making progress, even if it has been some days since we last connected. When you're ready to continue, we'll continue making strides together!""
 6. ""Life happens, and that's okay. It has been some days since your last visit, but your dedication is evident. Whenever you return, we'll keep moving forward together.""
-7. ""You've come so far, even with some time passing since your last progress update. I believe in you! Reconnect with the app to keep up the fantastic work.""
-8. ""Life happens, and that's okay. It's been a while since your last visit, but your dedication is evident. Whenever you return, we'll keep moving forward together.""
-9. ""You're not alone on this journey. It's been a little while, but whenever you're prepared, I am here with open arms to help you pick up where you left off.""
-10. ""You're doing great! Even if it has been some days, remember to take a moment for yourself. When you're ready, I'll be here to guide you forward.""","1. ""App usage update: No activity recorded for the past 3 days.""
+7. ""Life happens, and that's okay. It's been a while since your last visit, but your dedication is evident. Whenever you return, we'll keep moving forward together.""
+8. ""You're not alone on this journey. It's been a little while, but whenever you're prepared, I am here with open arms to help you pick up where you left off.""
+9. ""You're doing great! Even if it has been some days, remember to take a moment for yourself. When you're ready, I'll be here to guide you forward.""","1. ""App usage update: No activity recorded for the past 3 days.""
 2. ""Just a reminder: It's been 3 days since your last app interaction.""
 3. ""Observation: A 3-day gap in app usage has been noted.""
 4. ""App activity status: No recorded interactions in the past 3 days.""
@@ -207,53 +206,51 @@ not_connected_since_3_days_reminder,"1. ""It's been some days since your last in
 ","1. ""Important: It's been 3 days since you used the app. Reconnect now to keep moving towards your goals.""
 2. ""Time to Act: It's been 3 days, your progress could slow down. Log in now to keep up the momentum on your health journey.""
 3. ""Friendly Alert: A 3-day gap in app use could impact your progress. Take action to stay on course!""
-4. ""Take a Step: It's been 3 days without using the app. Act now to keep your health journey on track!""","1. ""Han pasado algunos días desde su última interacción, pero no se preocupe. Siempre que esté listo, ¡vuelva a la aplicación y estaré aquí para apoyar su viaje!""
-2. ""¡Después de unos días, te extrañan! Siempre que estés listo, ¡vuelve a la aplicación y estaré aquí para apoyar tu viaje!""
-3. ""La vida se ocupa, y está bien tomarse descansos. Ha pasado un tiempo desde su última visita, pero sepa que todavía te estoy animando. ¡Vuelve cuando puedas!""
-4. ""¡No es necesario apresurarse! Veo que han pasado algunos días desde su última actividad, pero recuerde, el progreso es un proceso paso a paso. Continuaremos cuando regrese"".
-5. ""Estás progresando, incluso si han pasado algunos días desde la última vez que nos conectamos. Cuando estés listo para continuar, ¡continuaremos avanzando juntos!""
-6. ""La vida sucede, y está bien. Han pasado algunos días desde su última visita, pero su dedicación es evidente. Cuando regrese, seguiremos avanzando juntos"".
-7. ""Has llegado tan lejos, incluso con un tiempo pasando desde tu última actualización de progreso. ¡Creo en ti! Vuelto a conectar con la aplicación para mantener el fantástico trabajo"".
-8. ""La vida sucede, y está bien. Ha pasado un tiempo desde su última visita, pero su dedicación es evidente. Cuando regrese, seguiremos avanzando juntos"".
-9. ""No estás solo en este viaje. Ha pasado un tiempo, pero cada vez que estás preparado, estoy aquí con los brazos abiertos para ayudarte a retomar donde lo dejaste"".
-10. ""¡Lo estás haciendo muy bien! Incluso si han sido algunos días, recuerda tomarte un momento para ti. Cuando estés listo, estaré aquí para guiarte hacia adelante"".","1. ""Actualización de uso de la aplicación: no hay actividad registrada durante los últimos 3 días"".
-2. ""Solo un recordatorio: han pasado 3 días desde su última interacción de la aplicación"".
-3. ""Observación: se ha observado una brecha de 3 días en el uso de la aplicación"".
+4. ""Take a Step: It's been 3 days without using the app. Act now to keep your health journey on track!""","1. ""Han pasado algunos días desde tu última interacción, pero no te preocupes. ¡Cuando quieras vuelve a la aplicación y estaré aquí para apoyarte!""
+2. ""¡Después de unos días te extraño! ¡Cuando quieras vuelve a la aplicación y estaré aquí para apoyarte!""
+3. ""Siempre hay cosas por hacer, pero recuerda, ¡Estoy aquí para apoyarte! Tómate tu tiempo y vuelve cuando puedas"".
+4. ""¡Es mejor no ir con prisas! Veo que han pasado algunos días desde tu última actividad, pero recuerda, el progreso es un proceso paso a paso. Continuaremos cuando regreses"".
+5. ""Estás progresando, incluso si han pasado días desde la última vez que nos conectamos. Cuando puedas continuar, ¡seguiremos avanzando!""
+6. ""La vida va pasando, y está bien. Han pasado algunos días desde que te conectaste por última vez, pero tu dedicación es evidente. Cuando regreses, seguiremos avanzando"".
+7. “Has llegado tan lejos, aunque hace un par de días que no te conectas. Creo en ti. Vuelve a conectarte en la aplicación para continuar tu progreso”.
+8. ""La vida pasa, y está bien. Ha pasado un tiempo desde que te conectaste por última vez, pero tu dedicación es evidente. Cuando regreses, seguiremos avanzando"".
+9. ""Ha pasado un tiempo, pero cuando quieras, estoy aquí con los brazos abiertos para ayudarte a retomar el entrenamiento en donde lo dejaste"".
+10. ""¡Lo estás haciendo muy bien! Incluso si han pasado algunos días sin conectarte, está bien tomarse unos días para descansar. Cuando quieras, estaré aquí para guiarte en tu progreso"".","1. ""Actualización de uso de la aplicación de RGSapp: no hay actividad registrada durante los últimos 3 días"".
+2. ""Solo un recordatorio: han pasado 3 días desde tu última interacción con la aplicación de RGSapp"".
+3. ""Observación: se ha observado una brecha de 3 días en el uso de la aplicación de RGSapp"".
 4. ""Estado de la actividad de la aplicación: No hay interacciones registradas en los últimos 3 días"".
-5. ""Actualización amistosa: han pasado 3 días desde su último uso de la aplicación"".
-6. ""Notado: ha habido un lapso de 3 días en la participación de la aplicación"".
+5. ""Actualización amistosa: han pasado 3 días desde tu último uso de RGSapp"".
+6. ""Nota: ha habido un lapso de 3 días en la participación de la aplicación de RGSapp"".
 7. ""Informe de uso de la aplicación: ninguna actividad registrada en los últimos 3 días"".
-8. ""Solo un aviso: han pasado 3 días desde su última sesión de aplicaciones"".
+8. ""Solo un aviso: han pasado 3 días desde tu última sesión de entrenamiento con RGSapp"".
 9. ""Observación: se ha observado una brecha de 3 días en el uso de la aplicación"".
-10. ""Comprobación de actividad de la aplicación: No hay interacciones registradas en las últimas 72 horas"".
-
-","1. ""IMPORTANTE: Han pasado 3 días desde que usaste la aplicación. Vuelva a conectar ahora para seguir avanzando hacia tus objetivos"".
-2. ""Es hora de actuar: han pasado 3 días, su progreso podría disminuir. Inicie sesión ahora para mantener el impulso en su viaje de salud"".
-3. ""Alerta amigable: una brecha de 3 días en el uso de la aplicación podría afectar su progreso. ¡Tome medidas para permanecer en el curso!""
-4. ""Da un paso: han pasado 3 días sin usar la aplicación. ¡Actúe ahora para mantener su viaje de salud en camino!""","1. ""Sono passati alcuni giorni dalla tua ultima interazione, ma non preoccuparti. Ogni volta che sei pronto, torna di nuovo nell'app e sarò qui per supportare il tuo viaggio!""
-2. ""Dopo qualche giorno, ti sei perso! Ogni volta che sei pronto, torna di nuovo nell'app e sarò qui per supportare il tuo viaggio!""
-3. ""La vita si impegna e va bene fare delle pause. È passato un po 'di tempo dalla tua ultima visita, ma sappi che ti sto ancora incoraggiando. Torna quando puoi!""
+10. ""Comprobación de actividad de la aplicación: No hay interacciones registradas en las últimas 72 horas"".","1. ""IMPORTANTE: Han pasado 3 días desde que usaste la aplicación. Vuelve a conectarte ahora para seguir avanzando hacia tus objetivos"".
+2. ""Es hora de actuar: han pasado 3 días, no pierdas tu progreso . Inicia sesión ahora para mantener el impulso y mejorar tu salud"".
+3. ""Atención: una pausa de 3 días en el uso de la aplicación podría afectar a tu progreso. ¡Toma medidas para permanecer en el camino!""
+4. ""Hora de dar un paso: han pasado 3 días sin usar RGSapp. ¡Actúa ahora para seguir en el camino a la rehabilitación!""","1. ""Sono passati alcuni giorni dalla tua ultima interazione, ma non preoccuparti. Ogni volta che sei pronto, torna di nuovo nella app e sarò qui per supportare il tuo viaggio!""
+2. ""Dopo qualche giorno, ti sei perso! Ogni volta che sei pronto, torna di nuovo nella app e sarò qui per supportare il tuo viaggio!""
+3. ""La vita è impegnativa e va bene fare delle pause. È passato un po' di tempo dalla tua ultima visita, ma sappi che ti sto ancora incoraggiando. Torna quando puoi!""
 4. ""Non c'è bisogno di correre! Vedo che sono passati alcuni giorni dalla tua ultima attività, ma ricorda che il progresso è un processo passo-passo. Continueremo quando tornerai.""
 5. ""Stai facendo progressi, anche se sono passati alcuni giorni dall'ultima volta che ci siamo connessi. Quando sei pronto per continuare, continueremo a fare passi da gigante!""
-6. ""La vita accade, e va bene. Sono passati alcuni giorni dalla tua ultima visita, ma la tua dedizione è evidente. Ogni volta che torni, continueremo ad andare avanti insieme.""
-7. ""Sei arrivato così lontano, anche con un po 'di tempo dal tuo ultimo aggiornamento dei progressi. Credo in te! Ricollega con l'app per mantenere il lavoro fantastico.""
-8. ""La vita accade, e va bene. È passato un po 'di tempo dalla tua ultima visita, ma la tua dedizione è evidente. Ogni volta che torni, continueremo ad andare avanti insieme.""
-9. ""Non sei solo in questo viaggio. È passato un po 'di tempo, ma ogni volta che sei preparato, sono qui a braccia aperte per aiutarti a raccogliere da dove hai interrotto.""
-10. ""Stai andando alla grande! Anche se sono passati alcuni giorni, ricordati di prenderti un momento per te stesso. Quando sei pronto, sarò qui per guidarti in avanti.""","1. ""Aggiornamento dell'utilizzo dell'app: nessuna attività registrata negli ultimi 3 giorni.""
-2. ""Solo un promemoria: sono passati 3 giorni dall'ultima interazione dell'app.""
-3. ""Osservazione: è stato notato un divario di 3 giorni nell'uso dell'app.""
-4. ""Stato dell'attività dell'app: nessuna interazione registrata negli ultimi 3 giorni.""
-5. ""Aggiornamento amichevole: sono passati 3 giorni dal tuo ultimo utilizzo dell'app.""
-6. ""Notato: c'è stato un periodo di 3 giorni nell'impegno delle app.""
-7. ""Rapporto sull'utilizzo dell'app: nessuna attività registrata negli ultimi 3 giorni.""
+6. ""La vita procede e va bene. Sono passati alcuni giorni dalla tua ultima visita, ma la tua dedizione è evidente. Ogni volta che torni, continueremo ad andare avanti insieme.""
+7. ""Sei arrivato così lontano, anche se è passato un po' di tempo dall'aggiornamento dei tuoi ultimi progressi. Credo in te! Ricollegati con la app per mantenere il lavoro fantastico.""
+8. ""La vita procede e va bene. È passato un po' di tempo dalla tua ultima visita, ma la tua dedizione è evidente. Ogni volta che torni, continueremo ad andare avanti insieme.""
+9. ""Non sei solo in questo viaggio. È passato un po' di tempo, ma ogni volta che sei pronto, sono qui a braccia aperte per aiutarti a riprendere da dove hai interrotto.""
+10. ""Stai andando alla grande! Anche se sono passati alcuni giorni, ricordati di prenderti un momento per te stesso. Quando sei pronto, sarò qui per guidarti in avanti.""","1. ""Aggiornamento dell'utilizzo della app: nessuna attività registrata negli ultimi 3 giorni.""
+2. ""Solo un promemoria: sono passati 3 giorni dall'ultima interazione con la app.""
+3. ""Osservazione: è stato notato un intervallo di 3 giorni nell'uso della app.""
+4. ""Stato dell'attività della app: nessuna interazione registrata negli ultimi 3 giorni.""
+5. ""Aggiornamento amichevole: sono passati 3 giorni dal tuo ultimo utilizzo della app.""
+6. ""Nota: c'è stato un periodo di 3 giorni nell'utilizzo della app.""
+7. ""Rapporto sull'utilizzo della app: nessuna attività registrata negli ultimi 3 giorni.""
 8. ""Solo un avvertimento: sono passati 3 giorni dall'ultima sessione di app.""
-9. ""Osservazione: è stato osservato un divario di 3 giorni nell'uso dell'app.""
-10. ""Controllo dell'attività dell'app: nessuna interazione registrata nelle ultime 72 ore.""
+9. ""Osservazione: è stato osservato un intervallo di 3 giorni nell'uso della app.""
+10. ""Controllo dell'attività della app: nessuna interazione registrata nelle ultime 72 ore.""
 
-","1. ""IMPORTANTE: sono passati 3 giorni da quando hai usato l'app. Ricollega ora per continuare a muoverti verso i tuoi obiettivi.""
+","1. ""IMPORTANTE: sono passati 3 giorni da quando hai usato la app. Ricollegati ora per continuare a muoverti verso i tuoi obiettivi.""
 2. ""È ora di agire: sono passati 3 giorni, i tuoi progressi potrebbero rallentare. Accedi ora per mantenere lo slancio nel tuo viaggio di salute.""
-3. ""Avviso amichevole: un divario di 3 giorni nell'uso dell'app potrebbe avere un impatto sui progressi. Agisci per rimanere in rotta!""
-4. ""Fai un passo: sono passati 3 giorni senza usare l'app. Agisci ora per mantenere il tuo percorso di salute in pista!""","1. ""Het is een paar dagen geleden sinds je laatste contact met de app. Maar maak je geen zorgen, wanneer je er klaar voor bent, kom je terug naar de app en ik zal er zijn om je te ondersteunen bij de training!""
+3. ""Avviso amichevole: un intervallo di 3 giorni nell'uso della app potrebbe avere un impatto sui tuoi progressi. Agisci per mantenere la rotta!""
+4. ""Fai un passo: sono passati 3 giorni senza usare la app. Agisci ora per mantenere il tuo percorso di salute in pista!""","1. ""Het is een paar dagen geleden sinds je laatste contact met de app. Maar maak je geen zorgen, wanneer je er klaar voor bent, kom je terug naar de app en ik zal er zijn om je te ondersteunen bij de training!""
 2. ""Na een paar dagen missen we je! Wanneer je er klaar voor bent, kom je terug naar de app en ik zal er zijn om je te ondersteunen bij de training!""
 3. ""Het leven kan druk worden, en het is goed om pauzes te nemen. Het is een tijdje geleden sinds je laatste bezoek aan de app, maar weet dat ik je nog steeds aan het toejuichen ben. Kom terug als je kan!""
 4. ""Het is niet nodig om te haasten! Ik zie dat het een paar dagen geleden is sinds je laatste activiteit, maar onthoud dat voortgang stap voor stap gaat. We gaan door als je terug bent.""
@@ -273,10 +270,10 @@ not_connected_since_3_days_reminder,"1. ""It's been some days since your last in
 9. ""Observatie: een inactiviteit van 3 dagen in app -gebruik is waargenomen.""
 10. ""App -activiteit controle: geen waargenomen interacties in de afgelopen 72 uur.""
 
-","1. ""Belangrijk: het is 3 dagen geleden dat u de app hebt gebruikt. Maak nu weer verbinding om te blijven gaan naar uw doelen.""
-2. ""Tijd om te handelen: het is 3 dagen geleden, uw voortgang kan vertragen. Log nu in om het momentum op uw gezondheidsreis te behouden.""
-3. ""Vriendelijke alert: een driedaagse kloof in app-gebruik kan uw voortgang beïnvloeden. Neem actie om op koers te blijven!""
-4. ""Neem een ​​stap: het is 3 dagen geleden zonder de app te gebruiken. Act nu om uw gezondheidsreis op het goede spoor te houden!""","1. ""Han passat alguns dies des de la vostra última interacció, però no us preocupeu. Sempre que estigueu a punt, torneu a l'aplicació i estaré aquí per donar suport al vostre viatge!""
+","1. ""Belangrijk: het is 3 dagen geleden dat je de app hebt gebruikt. Begin nu weer om je doelen te behalen.""
+2. ""Tijd om te starten: het is 3 dagen geleden, jouw voortgang kan vertragen. Log nu in om het momentum op je training te behouden.""
+3. ""Even een herinnering: de app is 3 dagen niet gebruikt dit kan je voortgang beïnvloeden. Neem actie om op koers te blijven!""
+4. ""Ga ervoor: je hebt 3 dagen de app niet gebruitkt. Start nu om je training op het goede spoor te houden!""","1. ""Han passat alguns dies des de la vostra última interacció, però no us preocupeu. Sempre que estigueu a punt, torneu a l'aplicació i estaré aquí per donar suport al vostre viatge!""
 2. ""Al cap d'uns dies, us heu perdut! Sempre que estigueu a punt, torneu a l'aplicació i estaré aquí per donar suport al vostre viatge!""
 3. ""La vida s'ocupa i està bé fer descansos. Ha passat un temps des de la darrera visita, però sabeu que encara us animo. Torneu quan pugueu!""
 4. ""No cal precipitar-me! Veig que han passat alguns dies des de la vostra última activitat, però recordeu, el progrés és un procés pas a pas. Continuarem quan torneu.""
@@ -369,7 +366,7 @@ not_connected_since_3_days_reminder,"1. ""It's been some days since your last in
 2. ""Час діяти: Минуло 3 дні, ваш прогрес може сповільнитись. Увійдіть зараз, щоб не відставати від імпульсу у вашій подорожі в здоров’ї"".
 3. ""Дружнє сповіщення: 3-денний розрив у використанні додатків може вплинути на ваш прогрес. Вживати заходів, щоб залишитися на курсі!""
 4. ""Зробіть крок: минуло 3 дні без використання програми. Дійте зараз, щоб тримати свою подорож на здоров'я!"""
-streak_reminder,"1. ""Congratulations on your X day impressive streak! Keep up the great work!""
+,streak_reminder,"1. ""Congratulations on your X day impressive streak! Keep up the great work!""
 2. ""Great job on your X day training streak. You're on fire! Your dedication to training is truly inspiring.""
 3. ""Streaking X day training success! Your commitment to training is paying off.""
 4. ""Awesome job on your consecutive X days of training! Keep the momentum going!""
@@ -401,71 +398,70 @@ streak_reminder,"1. ""Congratulations on your X day impressive streak! Keep up t
 ","1. ""Sustain Your Momentum: Keep up the pace and maintain your X day streak by staying dedicated.""
 2. ""Progress Uninterrupted: Your X day training streak is a testament to your commitment. Forge ahead and maintain it!""
 3. ""Gentle Nudge: Watch your step, as a misstep could impact your X day training streak.""
-4. ""Stay Resolute: Your X day streak signifies your dedication. Keep it alive and stay dedicated!""","1. ""¡Felicitaciones por su racha impresionante de X Day! ¡Sigan con el gran trabajo!""
-2. ""Buen trabajo en su racha de entrenamiento X Day. ¡Estás en llamas! Tu dedicación a la capacitación es realmente inspiradora"".
-3. ""¡Cayendo el éxito de la capacitación X Day! Su compromiso con la capacitación está dando sus frutos"".
-4. ""¡Trabajo increíble en sus X días de entrenamiento consecutivos! ¡Mantenga el impulso!""
-5. ""¡Estás rompiendo tus objetivos! ¡Tu racha de X de los días de entrenamiento es notable!""
-6. ""¡Dedicación increíble! Has completado x días consecutivos de entrenamiento. ¡Sigan con el fantástico esfuerzo!""
-7. ""¡Mayor a seguir! ¡Tu racha de entrenamiento ha alcanzado x días. ¡Tu consistencia es encomiable!""
-8. ""¡Trabajo impresionante! Has logrado x días de entrenamiento continuo. ¡Sigue avanzando!""
-9. ""¡Estás en racha! X días de entrenamiento consistente Muestra tu compromiso con el progreso"".
-10. ""¡Me quito el sombrero para ti! X días de entrenamiento seguidos son un logro increíble. ¡Sigue así!""
-11. ""¡Su arduo trabajo está dando sus frutos! X días de capacitación ininterrumpida es realmente notable"".
-12. ""¡Mantenga viva la racha! X días de entrenamiento muestra su dedicación a la superación personal"".
-13. ""¡Bravo! X días de entrenamiento consistente dice mucho sobre su determinación"".
-14. ""¡Estás en una racha ganadora! X días de entrenamiento es algo de lo que estar orgulloso!""
-15. ""¡Consistencia impresionante! X días de capacitación consecutivos demuestra su dedicación al éxito"".","1. ""Notado: has entrenado durante x días consecutivos"".
-2. ""Actualización de la aplicación: su racha de entrenamiento se encuentra en X Days"".
-3. ""Recordatorio: su racha de entrenamiento actual es x días"".
-4. ""Notificación de la aplicación: sus días de entrenamiento consecutivos: x"".
-5. ""Actualización de registro: su racha de entrenamiento es x días"".
-6. ""¡Felicitaciones! ¡Has logrado una racha de entrenamiento de X Days!""
-7. ""¡Buen trabajo! ¡Tu dedicación ha llevado a una racha de entrenamiento de x días!""
-8. ""¡Estás en una racha de entrenamiento de x días!""
-9. ""Tu racha de entrenamiento actual es x días"".
-10. ""¡Tu racha de entrenamiento ha llegado a x días!""
-11. ""¡Progreso notable! Has completado x días consecutivos de entrenamiento"".
-12. ""¡Gran esfuerzo! Tu racha de entrenamiento ahora se encuentra en X Days"".
-13. ""Su dedicación se muestra en su racha de entrenamiento X-Day"".
-14. ""Tu racha de entrenamiento ha llegado a x días"".
-15. ""¡Felicidades! Tu racha de entrenamiento ahora es x días"".
-","1. ""Mantenga su impulso: mantenga el ritmo y mantenga su racha de X Day manteniéndose dedicada"".
-2. ""Progreso ininterrumpido: su racha de entrenamiento X Day es un testimonio de su compromiso.
-3. ""Gentle Nudge: mira tu paso, ya que un paso en falso podría afectar tu racha de entrenamiento X Day"".
-4. ""Manténgase resuelto: su racha de X Day significa su dedicación. ¡Manténgala con vida y manténgase dedicado!""","1. ""Congratulazioni per la tua striscia impressionante di X Day! Continuate così!""
-2. ""Ottimo lavoro sulla tua serie di addestramento di X Day. Sei in fiamme! La tua dedizione all'allenamento è davvero stimolante.""
-3. ""Struting X Day Training Success! Il tuo impegno per la formazione sta pagando.""
-4. ""Ottimo lavoro sui tuoi X Giorni di allenamento consecutivi! Mantieni lo slancio!""
-5. ""Stai distruggendo i tuoi obiettivi! La tua serie di X di allenamento è notevole!""
-6. ""Incredibile dedizione! Hai completato X giorni di allenamento consecutivi. Continua il fantastico sforzo!""
-7. ""Way to Go! La tua serie di allenamento ha raggiunto X giorni. La tua coerenza è encomiabile!""
-8. ""lavoro impressionante! Hai raggiunto x giorni di allenamento continuo. Continua a spingere in avanti!""
-9. ""Sei in un tiro! X Giorni di formazione costante mostra il tuo impegno per il progresso.""
-10. ""Cappelli a te! X Giorni di allenamento di fila è un risultato straordinario. Continua così!""
-11. ""Il tuo duro lavoro sta pagando! X Giorni di allenamento ininterrotto è davvero notevole.""
-12. ""Mantieni viva la serie! X Days of Training mostra la tua dedizione all'auto-miglioramento.""
-13. ""Bravo! X Giorni di allenamento costante parlano volumi sulla tua determinazione.""
-14. ""Sei in una serie vincente! X Days of Training è qualcosa di cui essere orgogliosi!""
-15. ""Copia impressionante! X Giorni di allenamento Di seguito dimostra la tua dedizione al successo.""","1. ""Notato: ti sei allenato per X giorni consecutivi.""
-2. ""Aggiornamento dell'app: la tua serie di addestramento si erge a x giorni.""
-3. ""Promemoria: la tua attuale striscia di allenamento è x giorni.""
-4. ""Notifica di app: i tuoi giorni di allenamento consecutivi: x.""
-5. ""Aggiornamento del record: la tua serie di allenamento è x giorni.""
-6. ""Congratulazioni! Hai raggiunto una serie di allenamenti di x giorni!""
-7. ""Ottimo lavoro! La tua dedizione ha portato a una serie di addestramento di x giorni!""
-8. ""Sei in una serie di allenamenti di x giorni!""
-9. ""La tua attuale serie di allenamento è X giorni.""
+4. ""Stay Resolute: Your X day streak signifies your dedication. Keep it alive and stay dedicated!""","1. ""¡Felicidades por tu impresionante racha de X días! ¡Sigue con el gran trabajo!""
+2. ""Buen trabajo en tu racha de entrenamiento de X días. ¡Estás a tope! Tu dedicación es realmente inspiradora"".
+3. ""¡Menudo éxito, entrenaste X días seguidos! Tu compromiso con el entrenamiento está dando sus frutos"".
+4. ""¡Vaya trabajo más increíble después de X días de entrenamiento consecutivos! ¡Mantén el ritmo!""
+5. ""¡Estás logrando tus objetivos! ¡Tu racha de X días de entrenamiento es notable!""
+6. ""¡Dedicación increíble! Has completado X días consecutivos de entrenamiento. ¡Sigue esforzándote!""
+7. ""¡En la buena dirección! ¡Tu racha de entrenamiento ha alcanzado X días! ¡Tu constancia es envidiable!""
+8. ""¡Trabajo impresionante! Has logrado X días de entrenamiento continuo. ¡Sigue avanzando!""
+9. ""¡Estás en racha! X días de entrenamiento consecutivo muestran tu compromiso en seguir progresando"".
+10. ""¡Me quito el sombrero! X días de entrenamiento seguidos es un logro increíble. ¡Sigue así!""
+11. ""¡Tu trabajo está dando frutos! X días de entrenamiento ininterrumpido es realmente notable"".
+12. ""¡Sigue con esta racha! X días de entrenamiento muestran tu dedicación y superación personal"".
+13. ""¡Bravo! X días de entrenamiento consecutivo dicen mucho sobre tu determinación"".
+14. ""¡Estás en una racha ganadora! ¡X días de entrenamiento es algo de lo que enorgullecerse!""
+15. ""¡Racha impresionante! X días de entrenamiento consecutivos demuestran tu determinación para el éxito"".","1. ""Has entrenado durante X días consecutivos"".
+2. ""Actualización de RGSapp: tu racha de entrenamiento es de X días"".
+3. ""Recordatorio: tu racha de entrenamiento actual es de X días"".
+4. ""Notificación de RGSapp: llevas X días consecutivos entrenando"".
+5. ""Actualización registrada: tu racha de entrenamiento es de X días"".
+6. ""¡Felicidades! ¡Has logrado una racha de entrenamiento de X días!""
+7. ""¡Buen trabajo! ¡Tu empeño te ha llevado a una racha de entrenamiento de X días!""
+8. ""¡Estás en una racha de entrenamiento de X días!""
+9. ""Tu racha de entrenamiento actual es de X días"".
+10. ""¡Tu racha de entrenamiento ha llegado a X días!""
+11. ""¡Bien hecho! Has completado X días consecutivos de entrenamiento"".
+12. ""¡Así se hace! Tu racha de entrenamiento ahora se encuentra en X días"".
+13. ""Tu empeño se ve reflejado en tu racha de entrenamiento de X días"".
+14. ""Tu racha de entrenamiento ha llegado a X días"".
+15. ""¡Felicidades! Tu racha de entrenamiento es ahora de X días"".","1. ""No pierdas el impulso: mantén el ritmo y tu racha de X días con energía"".
+2. ""Progreso ininterrumpido: tu racha de entrenamiento X días es un testimonio de tu compromiso.
+3. ""Un empujón más: ¡No te duermas! Un paso en falso podría afectar tu racha de entrenamiento de X días"".
+4. ""Mantente alerta: tu racha de X días refleja tu dedicación. ¡Mantén la racha y continua con esta motivación!""","1. ""Congratulazioni per la tua ammirevole serie di X giorni! Continua così!""
+2. ""Ottimo lavoro nella tua serie di allenamento di X giorni. Vai alla grande! La tua dedizione alla formazione è davvero stimolante.""
+3. ""Che successo la tua serie di allenamento di X giorni! Il tuo impegno nella formazione sta dando i suoi frutti.""
+4. ""Fantastico lavoro nei tuoi X giorni consecutivi di allenamento! Mantieni lo slancio!""
+5. ""Stai spaccando i tuoi obiettivi! La tua serie di X giorni di allenamento è notevole!""
+6. ""Incredibile dedizione! Hai completato X giorni di allenamento consecutivi. Continua così!""
+7. ""Bene! La tua serie di allenamento ha raggiunto X giorni. La tua coerenza è encomiabile!""
+8. ""Lavoro impressionante! Hai raggiunto x giorni di allenamento continuo. Continua ad andare avanti!""
+9. ""Sei in un momento fortunato! X giorni di formazione costante mostrano il tuo impegno per il progresso.""
+10. ""Tanto di cappello! X giorni di allenamento di fila sono un risultato straordinario. Continua così!""
+11. ""Il tuo duro lavoro sta dando i suoi frutti! X giorni di allenamento ininterrotto sono davvero notevoli.""
+12. ""Mantieni viva la serie! X giorni di allenamento mostrano la tua dedizione all'auto-miglioramento.""
+13. ""Bravo! X giorni di allenamento costante la dicono lunga sulla tua determinazione.""
+14. ""Sei in una serie vincente! X giorni di allenamento sono qualcosa di cui essere orgogliosi!""
+15. ""Coerenza impressionante! X giorni di allenamento consecutivi dimostrano la tua dedizione al successo.""","1. ""Notato: ti sei allenato per X giorni consecutivi.""
+2. ""Aggiornamento della app: la tua striscia di allenamento si attesta a X giorni.""
+3. ""Promemoria: la tua attuale striscia di allenamento è di X giorni.""
+4. ""Notifica della app: i tuoi giorni di allenamento consecutivi: X.""
+5. ""Aggiornamento del record: la tua striscia di allenamento è di X giorni.""
+6. ""Congratulazioni! Hai raggiunto una striscia di allenamento di X giorni!""
+7. ""Ottimo lavoro! La tua dedizione ha portato ad una serie di addestramento di X giorni!""
+8. ""Sei in una striscia di allenamento di X giorni!""
+9. ""La tua attuale serie di allenamento è di X giorni.""
 10. ""La tua serie di allenamento ha raggiunto X giorni!""
-11. ""Progressi degni di nota! Hai completato X giorni di allenamento consecutivi.""
-12. ""Ottimo sforzo! La tua serie di allenamento ora si trova a X Days.""
-13. ""La tua dedizione mostra nella tua serie di allenamento X-Day.""
-14. ""La tua serie di allenamento ha colpito X giorni.""
-15. ""Congratulazioni! La tua serie di allenamento è ora x giorni.""
-","1. ""Sentire il tuo slancio: tieni il passo e mantieni la striscia di x giorno rimanendo dedicato.""
-2. ""Progressi ininterrotti: la striscia di allenamento X da giorno è una testimonianza del tuo impegno. Porgalo e mantienila!""
-3. ""Gentle Nudge: guarda il tuo passo, poiché un passo falso potrebbe avere un impatto sulla striscia di allenamento del giorno.""
-4. ""Rimani risoluto: la tua serie di x Day significa la tua dedizione. Mantienila in vita e resta dedicato!""","1. ""Gefeliciteerd met de indrukwekkende reeks van X dagen ! Ga zo door!""
+11. ""Progressi degni di nota! Hai completato X giorni consecutivi di allenamento.""
+12. ""Ottimo sforzo! La tua serie di allenamento ora si trova a X giorni.""
+13. ""La tua dedizione si mostra nella tua striscia di allenamento di X giorni.""
+14. ""La tua serie di allenamento ha raggiunto X giorni.""
+15. ""Congratulazioni! La tua serie di allenamento è ora di X giorni.""
+","1. ""Sostieni il tuo slancio: tieni il passo e mantieni la tua striscia di X giorni restando impegnato.""
+2. ""Progressi ininterrotti: la tua striscia di allenamento di X giorni è una testimonianza del tuo impegno. Vai avanti e mantienilo!""
+3. ""Spinta delicata: osserva il tuo passo, poiché un passo falso potrebbe avere un impatto sulla tua striscia di allenamento di X giorni.""
+4. ""Resta determinato: la tua serie di X giorni rappresenta la tua dedizione. Mantienila in vita e resta impegnato!""","1. ""Gefeliciteerd met de indrukwekkende reeks van X dagen ! Ga zo door!""
 2. ""X dagen training reeks, geweldig werk. Je bent op dreef! Je toewijding aan de training is echt inspirerend.""
 3. ""Wat een succes, X dagen training reeks! Uw toewijding aan de training loont.""
 4. ""Geweldig werk voor de opeenvolgende X -dagen van training! Houd het momentum gaande!""
@@ -494,10 +490,10 @@ streak_reminder,"1. ""Congratulations on your X day impressive streak! Keep up t
 13. ""Jouw X dagen trainingsreeks laat je toewijding zien.""
 14. ""Je trainingsreeks heeft X dagen gehaald.""
 15. ""Gefeliciteerd! Je trainingsreeks is nu X dagen.""
-","1. ""Houd uw momentum in stand: ga zo door en houd uw X -dagstreep vast door toegewijd te blijven.""
-2. ""Voortgang ononderbroken: uw X Day Training Streak is een bewijs van uw toewijding. Smet vooruit en onderhoud het!""
-3. ""Zachte duwtje: let op uw stap, omdat een misstap uw X -dag trainingsstreak kan beïnvloeden.""
-4. ""Blijf vastberaden: uw X Day Streak betekent uw toewijding. Houd deze in leven en blijf toegewijd!""","1. ""Enhorabona per la vostra ratxa impressionant del dia x! Segueix el gran treball!""
+","1. ""Houd je momentum in stand: ga zo door en behoud je reeks van X -dagen door toegewijd te blijven.""
+2. ""Ononderbroken vooruitgang: je X dagen trainingsreeks is een bewijs van je toewijding. Smet vooruit en onderhoud het!""
+3. ""Kleine herinnering: let op je training, een gemiste sessie kan je X -dagen trainingsreeks beïnvloeden.""
+4. ""Blijf vastberaden: je X dagen reeks betekent laat je toewijding zien. Houd de reeks in leven en blijf toegewijd!""","1. ""Enhorabona per la vostra ratxa impressionant del dia x! Segueix el gran treball!""
 2. ""Gran feina a la vostra ratxa d'entrenament del dia x. Esteu en flames! La vostra dedicació a la formació és realment inspiradora.""
 3. ""Sortir l'èxit de la formació del dia X! El vostre compromís amb la formació és el que paga"".
 4. ""Un treball fantàstic en els vostres x dies consecutius de formació! Mantingueu l'impuls en marxa!""
@@ -626,7 +622,7 @@ streak_reminder,"1. ""Congratulations on your X day impressive streak! Keep up t
 2. ""Прогрес безперебійний: Ваша денна тренувальна смуга є свідченням вашої прихильності. Займайтеся вперед і підтримуйте її!""
 3. ""Ніжне поштовх: спостерігайте за своїм кроком, оскільки помилка може вплинути на вашу тренувальну смугу X -Day"".
 4. ""Залишайтеся рішучими: Ваша денна смуга означає вашу відданість. Зберігайте її в живих і залишайтеся відданими!"""
-out_of_slot_no_streak_reminder,"1. ""Life happens - don't worry, you can get back on track whenever you're ready, and I'll be here to cheer you on!""
+,out_of_slot_no_streak_reminder,"1. ""Life happens - don't worry, you can get back on track whenever you're ready, and I'll be here to cheer you on!""
 2. ""Don't let a break discourage you - your streak can always resume when you're feeling motivated!""
 3. ""It's okay to take a breather - remember, you have the power to restart your streak at any time.""
 4. ""Your journey is unique - even if you missed the session on your dedicated time frame, there's still time to continue your streak!""
@@ -651,57 +647,56 @@ out_of_slot_no_streak_reminder,"1. ""Life happens - don't worry, you can get bac
 2. ""Urgent: Start a session and reclaim control over your streak!""
 3. ""Action Required: Your streak needs your attention. Start a session immediately!""
 4. ""Push Yourself: Complete a session now to reignite your streak and your commitment!""
-5. ""Take Charge: Act now and do a session to power through before it's too late!""","1. ""La vida sucede: no te preocupes, puedes volver a la pista cuando estés listo, ¡y estaré aquí para animarte!""
-2. ""No dejes que una ruptura te desanime, ¡tu racha siempre puede reanudar cuando te sientes motivado!""
-3. ""Está bien tomar un respiro, recuerde, tiene el poder de reiniciar su racha en cualquier momento"".
-4. ""Su viaje es único: ¡incluso si se perdió la sesión en su período de tiempo dedicado, ¡todavía hay tiempo para continuar su racha!""
-5. ""No estás solo, creo en ti, y cada vez que estés preparado, ¡apoyaré tu renovación de racha con entusiasmo!""
-6. ""Parece que no ha entrenado hoy todavía, recuerde que incluso si no completa su sesión, aparecer para un ejercicio ya es mucho"".
-7. ""Cada viaje tiene sus baches: tómese su tiempo, y cuando esté listo, ¡su racha lo estará esperando!""
-8. ""No hay presión: solo un recordatorio suave de que su racha siempre está lista para retomar donde lo dejó"".
-9. ""Una pequeña pausa no disminuirá su progreso: ¡siempre que esté listo para continuar, su racha estará allí con usted!""
-10. ""Los altibajos son parte del proceso: ¡recuerde, ¡puede reiniciar su racha siempre que se sienta bien para usted!""
-11. ""Su compromiso brilla: siempre que esté listo para reanudar su racha, ¡estaré aquí para celebrar su dedicación!""
-12. ""Incluso una breve pausa no obstaculizará su progreso: su racha es resistente, como usted. ¡Tómese su tiempo!""","1. ""No hay ejercicio completado todavía. Recuerde tomarse su tiempo y entrenar cuando esté listo"".
-2. ""Notado: No hay ejercicio completado hoy todavía"".
-3. ""Su registro de sesión permanece sin cambios desde la última notificación"".
-4. ""Actualización de la aplicación: no se registró una nueva actividad después de las notificaciones"".
-5. ""Recordatorio: continúe su entrenamiento a su propio ritmo cuando esté preparado"".
-6. ""No hay actividad reciente registrada desde la última notificación"".
-7. ""Todavía tienes que grabar la sesión para hoy"".
-8. ""No hay ejercicio nuevo registrado después de la última notificación"".
-9. ""Tu historial de entrenamiento no muestra actividad reciente"".
-10. ""A partir de ahora, no ha habido actividad de entrenamiento registrada"".
-","1. ""El tiempo está marcando: ¡Toma medidas ahora con una sesión para mantener el ritmo!""
-2. ""Urgente: ¡Comience una sesión y reclame el control sobre su racha!""
-3. ""Se requiere acción: su racha necesita su atención. ¡Comience una sesión de inmediato!""
-4. ""¡Empújese: complete una sesión ahora para reavivar su racha y su compromiso!""
-5. ""Tomar cargo: actúe ahora y haga una sesión para poder antes de que sea demasiado tarde!""","1. ""La vita accade - Non preoccuparti, puoi tornare in pista ogni volta che sei pronto e sarò qui per tirarti su di tirarti!""
+5. ""Take Charge: Act now and do a session to power through before it's too late!""","1. ""La vida sigue, pero no te preocupes, puedes volver al entrenamiento cuando quieras, ¡y estaré aquí para animarte!""
+2. ""No dejes que una ruptura de la racha te desanime, ¡tu racha siempre puede reanudarse cuando quieras!""
+3. ""Está bien tomarse un respiro. Recuerda: tienes el poder de reiniciar tu racha en cualquier momento"".
+4. ""Tu viaje es único: ¡incluso si perdiste la racha, ¡todavía hay tiempo para empezar una nueva racha!""
+5. ""Yo creo en ti. Cuando quieras, ¡continuaremos la racha de entrenamiento con entusiasmo!""
+6. ""Parece que no has entrenado hoy todavía, recuerda que incluso si no completas tu sesión, hacer solo un ejercicio ya es mucho"".
+7. ""Cada viaje tiene sus baches: tómate tu tiempo, y cuando quieras, ¡Tu racha te estará esperando!""
+8. ""No hay presión: solo un pequeño recordatorio de que tu racha siempre está lista para retomarse desde donde lo dejaste"".
+9. ""Una pequeña pausa no disminuirá tu progreso: ¡Cuando quieras continuar, tu racha estará allí contigo!""
+10. ""Los altibajos son parte del proceso. Recuerda: ¡puedes reiniciar tu racha siempre que te sientas bien!""
+11. ""Tu compromiso brilla: cuando quieras puedes reanudar tu racha, ¡Estaré aquí para apoyarte en tu entrenamiento!""
+12. ""Incluso una breve pausa no obstaculizará tu progreso: tu racha es resistente, como tú. ¡Tómate tu tiempo!""","1. ""Todavía no se ha completado ningún ejercicio. Recuerda tomarte tu tiempo y entrenar cuando puedas"".
+2. ""Aún no se ha completado ningún ejercicio"".
+3. ""Tu registro de sesiones sigue igual desde la última notificación"".
+4. ""Actualización de RGSapp: no se ha registrado nueva actividad desde la última notificación"".
+5. ""Recordatorio: continúa tu entrenamiento a tu propio ritmo cuando puedas"".
+6. ""No hay ninguna actividad reciente registrada desde la última notificación"".
+7. ""Todavía tienes que realizar la sesión de entrenamiento de hoy"".
+8. ""No se ha registrado ningún ejercicio desde la última notificación"".
+9. ""Tu historial de entrenamiento no muestra ninguna actividad reciente"".
+10. ""Desde el último recordatorio, no ha habido ninguna actividad de entrenamiento registrada"".","1. ""El tiempo pasa: ¡Entra a RGSapp ahora y haz una sesión para mantener el ritmo!""
+2. ""Urgente: ¡Empieza una sesión y no pierdas tu racha!""
+3. ""Hay que actuar: No pierdas tu buena racha. ¡Empieza una sesión de inmediato!""
+4. ""¡Un empujón más: completa una sesión ahora para reavivar tu racha y tu compromiso!""
+5. ""¡Hazte cargo: actúa ahora y haz una sesión antes de que sea demasiado tarde y pierdas la racha!""","1. ""La vita accade - Non preoccuparti, puoi tornare in pista ogni volta che sei pronto e io sarò qui a fare il tifo per te!""
 2. ""Non lasciare che una pausa ti scoraggi: la tua serie può sempre riprendere quando ti senti motivato!""
-3. ""Va bene prendere una pausa: ricorda, hai il potere di riavviare la tua serie in qualsiasi momento.""
-4. ""Il tuo viaggio è unico - anche se hai perso la sessione sul tuo lasso di tempo dedicato, c'è ancora tempo per continuare la tua serie!""
-5. ""Non sei solo - credo in te e ogni volta che sei preparato, sosterrò il tuo rinnovamento della serie con entusiasmo!""
+3. ""Va bene prendersi una pausa: ricorda, hai il potere di riavviare la tua sessione in qualsiasi momento.""
+4. ""Il tuo viaggio è unico - anche se hai perso la sessione nel tuo lasso di tempo dedicato, c'è ancora tempo per continuare la tua serie!""
+5. ""Non sei solo - credo in te, e ogni volta che sarai preparato, sosterrò il rinnovo della tua serie con entusiasmo!""
 6. ""Sembra che non ti sei ancora allenato oggi, ricorda che anche se non completi la sessione, presentarsi per un esercizio è già molto.""
-7. ""Ogni viaggio ha i suoi dossi: prenditi il ​​tuo tempo e quando sarai pronto, la tua serie ti aspetterà!""
-8. ""Nessuna pressione - solo un delicato promemoria che la tua serie è sempre pronta a riprendere da dove ti sei interrotto.""
-9. ""Una piccola pausa non diminuirà i tuoi progressi - ogni volta che sarai proseguito, la tua serie sarà proprio lì con te!""
-10. ""Gli alti e i bassi fanno parte del processo: ricorda, puoi riavviare la striscia ogni volta che ti senti giusto per te!""
-11. ""Il tuo impegno brilla - Ogni volta che sei pronto a riprendere la tua serie, sarò qui per celebrare la tua dedizione!""
-12. ""Anche una breve pausa non ostacolerà i tuoi progressi: la tua serie è resiliente, proprio come te. Prenditi il ​​tuo tempo!""","1. ""Nessun esercizio completato ancora. Ricorda di prenderti il ​​tempo e di allenarti quando è pronto.""
-2. ""Notato: nessun esercizio completato ancora oggi.""
+7. ""Ogni viaggio ha i suoi ostacoli: prenditi il ​​tuo tempo e quando sarai pronto, la tua serie ti aspetterà!""
+8. ""Nessuna pressione - solo un gentile promemoria che la tua serie è sempre pronta a riprendere da dove hai lasciato.""
+9. ""Una piccola pausa non diminuirà i tuoi progressi - ogni volta che sarai pronto a continuare, la tua serie sarà proprio lì con te!""
+10. ""Gli alti e bassi fanno parte del processo: ricorda, puoi riavviare la tua serie ogni volta che ti sembra giusto per te!""
+11. ""Il tuo impegno traspare - ogni volta che sarai pronto a riprendere la tua serie, sarò qui per celebrare la tua dedizione!""
+12. ""Anche una breve pausa non ostacolerà i tuoi progressi: la tua serie è resiliente, proprio come te. Prenditi il ​​tuo tempo!""","1. ""Nessun esercizio ancora completato. Ricorda di prenderti il ​​tuo tempo e di allenarti quando sei pronto.""
+2. ""Nota: nessun esercizio ancora completato oggi.""
 3. ""Il record della sessione rimane invariato dall'ultima notifica.""
-4. ""Aggiornamento dell'app: nessuna nuova attività registrata dopo l'invio delle notifiche.""
-5. ""Promemoria: continua l'allenamento al tuo ritmo ogni volta che sei preparato.""
+4. ""Aggiornamento della app: nessuna nuova attività registrata dopo l'invio delle notifiche.""
+5. ""Promemoria: continua l'allenamento al tuo ritmo ogni volta che sei pronto.""
 6. ""Non ci sono attività recenti registrate dall'ultima notifica.""
 7. ""Devi ancora registrare la sessione per oggi.""
 8. ""Nessun nuovo esercizio registrato dopo l'ultima notifica.""
-9. ""La tua storia di allenamento non mostra attività recenti"".
-10. ""A partire da ora, non ci sono state attività di allenamento registrate.""
-","1. ""Il tempo è ticchettio: agisci ora con una sessione per tenere il passo!""
-2. ""Urgente: inizia una sessione e reclami il controllo sulla tua serie!""
+9. ""La tua cronologia di allenamento non mostra attività recenti"".
+10. ""A partire da ora, non sono state registrate attività di formazione.""
+","1. ""Il tempo stringe: agisci ora con una sessione per mantenere il ritmo!""
+2. ""Urgente: inizia una sessione e reclama il controllo sulla tua serie!""
 3. ""Azione richiesta: la tua serie ha bisogno della tua attenzione. Inizia immediatamente una sessione!""
-4. ""Spingi te stesso: completa una sessione ora per riaccendere la tua serie e il tuo impegno!""
-5. ""Prendi il comando: agisci ora e fai una sessione per alimentare prima che sia troppo tardi!""","1. ""Het leven overkomt je - maak je geen zorgen, je kunt weer op het juiste pad komen wanneer je er klaar voor bent, en ik zal hier zijn om je aan te moedigen!""
+4. ""Spingiti oltre: completa una sessione ora per riaccendere la tua serie e il tuo impegno!""
+5. ""Prendi il comando: agisci ora e fai una sessione per andare avanti prima che sia troppo tardi!""","1. ""Het leven overkomt je - maak je geen zorgen, je kunt weer op het juiste pad komen wanneer je er klaar voor bent, en ik zal hier zijn om je aan te moedigen!""
 2. ""Laat een pauze je niet ontmoedigen - je reeks kan altijd hervat worden als je je gemotiveerd voelt!""
 3. ""Het is oké om een ​​adempauze te nemen - onthoud, je hebt de kracht om je reeks op elk gewenst moment opnieuw te starten.""
 4. "" Iedere reis is uniek - zelfs als je de geplande sessie hebt gemist, is er nog tijd om je reeks voort te zetten!""
@@ -722,11 +717,11 @@ out_of_slot_no_streak_reminder,"1. ""Life happens - don't worry, you can get bac
 8. ""Geen nieuwe oefening waargenomen na de laatste melding.""
 9. ""Jouw trainingsgeschiedenis vertoont geen recente activiteit.""
 10. ""Vanaf nu is er geen trainingsactiviteit genoteerd.""
-","1. ""Tijd is tikken: onderneem nu actie met een sessie om het tempo bij te houden!""
-2. ""Urgent: begin een sessie en neem de controle over uw streak terug!""
-3. ""Actie vereist: uw streak heeft uw aandacht nodig. Start onmiddellijk een sessie!""
-4. ""Duw jezelf: voltooi nu een sessie om je streak en je toewijding opnieuw te berekenen!""
-5. ""Neem de leiding: handel nu en doe een sessie om door te gaan voordat het te laat is!""","1. ""La vida passa: no us preocupeu, podeu tornar a la pista sempre que estigueu a punt i estaré aquí per animar -vos!""
+","1. ""De tijd tikt door: onderneem nu actie met een sessie om het tempo bij te houden!""
+2. ""Urgent: begin een sessie en neem haal je reeks terug!""
+3. ""Actie vereist: je trainingsreeks heeft je aandacht nodig. Start onmiddellijk een sessie!""
+4. ""Daag jezelf uit: voltooi nu een sessie om je reeks en je toewijding opnieuw te starten!""
+5. ""Neem de leiding: start nu en doe een sessie voordat het te laat is!""","1. ""La vida passa: no us preocupeu, podeu tornar a la pista sempre que estigueu a punt i estaré aquí per animar -vos!""
 2. ""No deixeu que un descans us desanimi: la vostra ratxa sempre es pot reprendre quan us sentiu motivats!""
 3. ""Està bé prendre un respir: recordeu, teniu el poder de reiniciar la vostra ratxa en qualsevol moment"".
 4. ""El vostre viatge és únic, fins i tot si us heu perdut la sessió en el vostre termini dedicat, encara hi ha temps per continuar la vostra ratxa!""
@@ -827,7 +822,7 @@ out_of_slot_no_streak_reminder,"1. ""Life happens - don't worry, you can get bac
 3. ""Потрібна дія: Ваша смуга потребує вашої уваги. Негайно запустіть сеанс!""
 4. ""Натисніть на себе: Завершіть сеанс зараз, щоб відновити вашу смугу та свою прихильність!""
 5. ""Візьміть на себе відповідальність: діяти зараз і робіть сеанс, щоб отримати силу, поки не пізно!"""
-progress_reminder_positive,"1. ""Celebrate your progress! In one week your performance improved by X points, and I am here to applaud your efforts!""
+,progress_reminder_positive,"1. ""Celebrate your progress! In one week your performance improved by X points, and I am here to applaud your efforts!""
 2. ""Keep going, you're making remarkable strides! Your growth in performance increased by X points. Impressive!""
 3. ""Your hard work is paying off! You gained X points more than previous week. Your progress is inspiring to see.""
 4. ""Great job! Compared to last week your performance rose by X points, and I am cheering you on every step of the way.""
@@ -852,56 +847,56 @@ progress_reminder_positive,"1. ""Celebrate your progress! In one week your perfo
 5. ""No Turning Back: Your dedication is paying off – your performance improved by X points.""
 6. ""Unleash Your Potential: Your performance surged by X points in the past week alone!""
 7. ""Take Note: Your performance metrics just got an update, highlighting an impressive increase of X points.""
-8. ""Progress Alert: Your growth in performance is in the spotlight, with a noticeable improvement of X points being tracked.""","1. ""¡Celebre su progreso! ¡En una semana su rendimiento mejoró por X puntos, y estoy aquí para aplaudir sus esfuerzos!""
-2. ""¡Sigue adelante, estás haciendo avances notables! Su crecimiento en el rendimiento aumentó en los puntos X. ¡Impresionante!""
-3. ""¡Tu arduo trabajo está dando sus frutos! Ganaste X puntos más que la semana anterior. Tu progreso es inspirador de ver"".
-4. ""¡Buen trabajo! En comparación con la semana pasada, su rendimiento aumentó por X puntos, y te estoy animando en cada paso del camino"".
-5. ""Recuerde qué tan lejos ha llegado: obtuviste X puntos más que la semana pasada. ¡Tu progreso es un testimonio de tu dedicación y perseverancia!""
-6. ""¡Bien hecho en su progreso! Durante la semana pasada, su rendimiento ha aumentado en X puntos. ¡Sigan con el excelente trabajo!""
-7. ""¡Estás en el camino correcto! Su rendimiento ha crecido por X puntos en comparación con la semana pasada. ¡Sigue avanzando!""
-8. ""¡Tus esfuerzos están brillando! Has ganado X puntos más que la semana anterior, y estoy aquí para apoyar tu éxito continuo"".
-9. ""¡Mejoras impresionantes! Su rendimiento ha aumentado por X puntos, mostrando su dedicación y determinación"".
-10. ""¡Celebra tus logros! ¡Has anotado X puntos más que la semana pasada, lo que demuestra que tu arduo trabajo está dando sus frutos!""","1. ""Actualización de progreso: su rendimiento en una semana aumentó por X puntos"".
-2. ""Su rendimiento está evolucionando positivamente en comparación con la semana pasada por X puntos"".
-3. ""Se ha registrado su progreso en el rendimiento. Obtuviste X puntos más en comparación con la semana anterior"".
-4. ""Recordatorio: sus métricas de rendimiento han aumentado por X puntos"".
-5. ""Actualización de registro: su crecimiento en el rendimiento se está monitoreando. Mejoró con los puntos X"".
-6. ""Actualización de rendimiento: su rendimiento en la semana pasada aumentó por los puntos X"".
-7. ""Su rendimiento muestra cambios positivos en comparación con la semana pasada, con un aumento de X puntos"".
-8. ""Su progreso en el rendimiento se ha registrado, mostrando una ganancia de puntos X en comparación con la semana anterior"".
-9. ""Notificación: sus métricas de rendimiento se han actualizado, lo que refleja un aumento de X puntos"".
-10. ""Actualización: su crecimiento en el rendimiento se está monitoreando, y ha habido una mejora de los puntos X"".","1. ""Empuje los límites: ¡su rendimiento aumentó en X puntos en una semana!""
-2. ""Levanta la barra: su rendimiento está en aumento, liderando la semana pasada por un impresionante X puntos"".
-3. ""Avanzar: su progreso es claro: ha avanzado en X puntos en comparación con la semana anterior"".
-4. ""Atención: sus métricas de rendimiento están en movimiento, con un aumento de X puntos"".
-5. ""No retroceder: su dedicación está dando sus frutos: su rendimiento mejoró con los puntos X"".
-6. ""¡Desata su potencial: su rendimiento aumentó solo con los puntos X en la última semana!""
-7. ""Tome nota: sus métricas de rendimiento acaban de obtener una actualización, destacando un aumento impresionante de X puntos"".
-8. ""Alerta de progreso: su crecimiento en el rendimiento está en el centro de atención, con una mejora notable de los puntos X que se rastrean"".","1. ""Celebra i tuoi progressi! In una settimana la tua performance è migliorata di X punti e sono qui per applaudire i tuoi sforzi!""
+8. ""Progress Alert: Your growth in performance is in the spotlight, with a noticeable improvement of X points being tracked.""","1. ""¡Celebra tu progreso! ¡En una semana tu rendimiento mejoró X puntos, y estoy aquí para aplaudir tus esfuerzos!""
+2. ""¡Sigue adelante, estás haciendo avances notables! Tu rendimiento aumentó X puntos. ¡Impresionante!""
+3. ""¡Tu arduo trabajo está dando sus frutos! Ganaste X puntos más que la semana anterior. Tu progreso es inspirador"".
+4. ""¡Buen trabajo! En comparación con la semana pasada, tu rendimiento aumentó X puntos, y estoy aquí para animarte en cada paso del camino"".
+5. ""Recuerda qué tan lejos has llegado: obtuviste X puntos más que la semana pasada. ¡Tu progreso es testimonio de tu dedicación y perseverancia!""
+6. ""¡Bien hecho en tu progreso! Durante la semana pasada, tu rendimiento ha aumentado X puntos. ¡Sigue con el excelente trabajo!""
+7. ""¡Vas por el buen camino! Tu rendimiento ha crecido X puntos en comparación con la semana pasada. ¡Sigue avanzando!""
+8. ""¡Tus esfuerzos están brillando! Has ganado X puntos más que la semana anterior, y estoy aquí para apoyar tu éxito"".
+9. ""¡Impresionante mejora! Tu rendimiento ha aumentado X puntos, mostrando tu dedicación y determinación"".
+10. ""¡Celebra tus logros! ¡Has anotado X puntos más que la semana pasada, lo que demuestra que tu arduo trabajo está dando frutos!""","1. ""Actualización de tu progreso: tu rendimiento en una semana aumentó X puntos"".
+2. ""Tu rendimiento está evolucionando positivamente en comparación con la semana pasada en X puntos"".
+3. ""Se ha registrado un progreso en tu rendimiento. Obtuviste X puntos más en comparación con la semana anterior"".
+4. ""Recordatorio: tus métricas de rendimiento han aumentado en X puntos"".
+5. ""Actualización registrada: se ha detectado un crecimiento en tu rendimiento. Ha mejorado en X puntos"".
+6. ""Actualización de tu rendimiento: tu rendimiento durante la semana pasada aumentó en X puntos"".
+7. ""Tu rendimiento muestra cambios positivos respecto a la semana pasada con un aumento de X puntos"".
+8. ""Se ha registrado un progreso en tu rendimiento con un aumento de X puntos respecto a la semana anterior"".
+9. ""Notificación: tus métricas de rendimiento se han actualizado y reflejan un aumento de X puntos"".
+10. ""Actualización: se ha registrado una mejora de X puntos en tu rendimiento"".","1. ""Empuja tus límites: ¡tu rendimiento aumentó en X puntos esta semana!""
+2. ""Lo estás haciendo genial: tu rendimiento está creciendo, ha aumentado en X puntos respecto a la semana pasada"".
+3. ""Avanzamos: tu progreso es claro, has mejorado en X puntos en comparación con la semana anterior"".
+4. ""Atención: tus métricas de rendimiento han mejorado, con un aumento de X puntos"".
+5. ""No retrocedas: tu dedicación está dando frutos, tu rendimiento ha mejorado con puntos X de más"".
+6. ""¡Desata tu potencial: tu rendimiento ha aumentado en X puntos en la última semana!""
+7. ""Toma nota: tus métricas de rendimiento han cambiado y muestran un impresionante aumento de X puntos"".
+8. ""Alerta de progreso: tu rendimiento ha sufrido una mejora notable de X puntos"".","1. ""Celebra i tuoi progressi! In una settimana la tua performance è migliorata di X punti e sono qui per applaudire i tuoi sforzi!""
 2. ""Continua, stai facendo passi da gigante! La tua crescita delle prestazioni è aumentata di X punti. Impressionante!""
-3. ""Il tuo duro lavoro sta pagando! Hai guadagnato x punti in più rispetto alla settimana precedente. I tuoi progressi sono stimolanti da vedere.""
-4. ""Ottimo lavoro! Rispetto alla scorsa settimana la tua performance è aumentata di X punti e ti sto tifando su ogni fase del percorso.""
+3. ""Il tuo duro lavoro sta dando i suoi frutti! Hai guadagnato X punti in più rispetto alla settimana precedente. I tuoi progressi sono stimolanti da vedere.""
+4. ""Ottimo lavoro! Rispetto alla scorsa settimana la tua performance è aumentata di X punti e faccio il tifo per te ad ogni passo del cammino.""
 5. ""Ricorda fino a che punto sei arrivato - hai segnato X punti in più rispetto alla scorsa settimana. I tuoi progressi sono una testimonianza della tua dedizione e perseveranza!""
-6. ""Ben fatto sui tuoi progressi! Nel corso della scorsa settimana, le tue prestazioni sono aumentate di X punti. Continua il lavoro eccellente!""
-7. ""Sei sulla buona strada! La tua performance è cresciuta di X punti rispetto alla scorsa settimana. Continua a spingere in avanti!""
-8. ""I tuoi sforzi stanno andando attraverso! Hai guadagnato X punti in più rispetto alla settimana precedente e sono qui per supportare il tuo continuo successo.""
-9. ""I miglioramenti impressionanti! La tua performance è aumentata di X punti, mostrando la tua dedizione e determinazione.""
-10. ""Celebrate i tuoi successi! Hai segnato X punti in più della scorsa settimana, dimostrando che il tuo duro lavoro sta dando il pagamento!""","1. ""Aggiornamento dei progressi: le prestazioni in una settimana sono aumentate di X punti.""
+6. ""Ben fatto per i tuoi progressi! Nel corso della scorsa settimana, le tue prestazioni sono aumentate di X punti. Continua il lavoro eccellente!""
+7. ""Sei sulla buona strada! La tua performance è cresciuta di X punti rispetto alla scorsa settimana. Continua ad andare avanti!""
+8. ""I tuoi sforzi brillano! Hai guadagnato X punti in più rispetto alla settimana precedente e sono qui per supportare il tuo continuo successo.""
+9. ""Miglioramenti impressionanti! La tua performance è aumentata di X punti, dimostrando la tua dedizione e determinazione.""
+10. ""Festeggia i tuoi successi! Hai segnato X punti in più della scorsa settimana, dimostrando che il tuo duro lavoro sta dando i suoi frutti!""","1. ""Aggiornamento dei progressi: le prestazioni in una settimana sono aumentate di X punti.""
 2. ""La tua performance si sta evolvendo positivamente rispetto alla scorsa settimana di X punti.""
 3. ""I tuoi progressi nelle prestazioni sono stati registrati. Hai ottenuto X punti in più rispetto alla settimana precedente.""
-4. ""Promemoria: le metriche delle prestazioni sono aumentate di X punti.""
-5. ""Aggiornamento dei record: la crescita delle prestazioni viene monitorata. È migliorato di X punti.""
+4. ""Promemoria: i punteggi delle prestazioni sono aumentati di X punti.""
+5. ""Aggiornamento dei record: la crescita delle tue prestazioni viene monitorata. Sei migliorato di X punti.""
 6. ""Aggiornamento delle prestazioni: le prestazioni nella scorsa settimana sono aumentate di X punti.""
 7. ""Le tue prestazioni stanno mostrando cambiamenti positivi rispetto alla scorsa settimana, con un aumento di X punti.""
 8. ""I tuoi progressi nelle prestazioni sono stati registrati, mostrando un guadagno di X punti rispetto alla settimana precedente.""
-9. ""Notifica: le metriche delle prestazioni sono state aggiornate, riflettendo un aumento di X punti.""
-10. ""Aggiornamento: la crescita delle prestazioni viene monitorata e c'è stato un miglioramento di X punti.""","1. ""Spingi i limiti: le tue prestazioni sono aumentate di x punti in una settimana!""
-2. ""Alza la barra: la tua performance è in aumento, conducendo la scorsa settimana da un impressionante X punti.""
-3. ""Incursione: i tuoi progressi sono chiari: sei salito davanti a X punti rispetto alla settimana precedente.""
-4. ""Attenzione: le metriche delle prestazioni sono in movimento, vantando un aumento di X punti.""
-5. ""Nessun ritorno: la tua dedizione sta ripagando: le prestazioni sono migliorate di X punti.""
-6. ""Scatena il tuo potenziale: le tue prestazioni sono aumentate di X punti nella sola settimana!""
-7. ""Prendi nota: le metriche delle prestazioni hanno appena ricevuto un aggiornamento, evidenziando un impressionante aumento di X punti.""
+9. ""Notifica: i punteggi delle prestazioni sono state aggiornati, riportando un aumento di X punti.""
+10. ""Aggiornamento: la crescita delle prestazioni viene monitorata e c'è stato un miglioramento di X punti.""","1. ""Spingiti oltre i limiti: le tue prestazioni sono aumentate di X punti in una settimana!""
+2. ""Alza l'asticella: la tua performance è in aumento, in vantaggio la scorsa settimana con un impressionante X punti.""
+3. ""Acceleriamo: i tuoi progressi sono chiari: hai subito un'impennata di X punti rispetto alla settimana scorsa.""
+4. ""Attenzione: i punteggi delle tue prestazioni sono in movimento, vantando un aumento di X punti.""
+5. ""Non tornare indietro: la tua dedizione ti sta ripagando: le tue prestazioni sono migliorate di X punti.""
+6. ""Libera il tuo potenziale: le tue prestazioni sono aumentate di X punti solo nell'ultima settimana!""
+7. ""Prendi nota: i punteggi delle tue prestazioni hanno appena ricevuto un aggiornamento, evidenziando un impressionante aumento di X punti.""
 8. ""Avviso di progresso: la tua crescita delle prestazioni è sotto i riflettori, con un notevole miglioramento di X punti monitorati.""","1. ""Vier je vooruitgang! In één week verbeterde je prestaties met X -punten, en ik juich je inspanningen toe!""
 2. ""Blijf doorgaan, je vooruitgang is inspirerend! Je prestaties zijn toegenomen met X -punten. Indrukwekkend!""
 3. ""Je harde werk begint zijn vruchten af ​​te werpen! Je hebt X -punten meer gehaald dan vorige week. Je vooruitgang is inspirerend om te zien.""
@@ -920,14 +915,14 @@ progress_reminder_positive,"1. ""Celebrate your progress! In one week your perfo
 7. ""Je prestaties vertonen positieve veranderingen in vergelijking met vorige week, met een toename van X -punten.""
 8. ""Je vooruitgang in de prestaties is waargenomen, met een winst van X -punten in vergelijking met de vorige week.""
 9. ""Mededeling: je prestatiestatistieken zijn bijgewerkt, dit laat een toename van X -punten zien.""
-10. ""Update: je verbetering van de prestaties worden bijgehouden en er is een verbetering van X -punten te zien.""","1. ""Duw de limieten: uw prestaties zijn in één week met X -punten toegenomen!""
-2. ""Raise de lat op: uw prestaties zijn in de lift en leiden vorige week met een indrukwekkende X -punten.""
-3. ""Opstappen: uw voortgang is duidelijk - u bent vooruitgeschoven met X -punten in vergelijking met de vorige week.""
-4. ""Aandacht: uw prestatiestatistieken zijn onderweg, met een toename van X -punten.""
-5. ""Niet terugdraaien: uw toewijding is zijn vruchten afgeworpen - uw prestaties verbeterden met X -punten.""
-6. ""Uit uw potentieel ontketenen: uw prestaties die alleen al in de afgelopen week zijn gestegen door X -punten!""
-7. ""Let op: uw prestatiestatistieken hebben zojuist een update gekregen die een indrukwekkende toename van X -punten benadrukken.""
-8. ""Voortgangswaarschuwing: uw groei van de prestaties staat in de schijnwerpers, met een merkbare verbetering van X -punten die worden gevolgd.""","1. ""Celebreu el vostre progrés! En una setmana, el vostre rendiment va millorar per X Points, i estic aquí per aplaudir els vostres esforços!""
+10. ""Update: je verbetering van de prestaties worden bijgehouden en er is een verbetering van X -punten te zien.""","1. ""Zoek de grens op: je prestaties zijn in één week met X -punten toegenomen!""
+2. ""Leg de lat hoog: je prestaties zijn in de lift en leidden vorige week tot een indrukwekkende X -punten.""
+3. ""Verhoog de lat: je voortgang is te zien - u bent vooruit gegaan met X -punten in vergelijking met vorige week.""
+4. ""Aandacht: je prestatiestatistieken zijn er, je hebt een toename van X -punten in vergelijking met vorige week.""
+5. ""Niet omkijken: je toewijding heeft zijn vruchten afgeworpen - je prestaties verbeterden met X -punten.""
+6. ""Laat je potentieel zien: je prestaties zijn alleen al in de afgelopen week gestegen met X -punten!""
+7. ""Let op: je prestatiestatistieken hebben zojuist een update gekregen die een indrukwekkende toename van X -punten benadrukken.""
+8. ""Voortgangsherinnering: je vooruitgang vna prestaties staat in de schijnwerpers, met een duidelijke verbetering van X -punten.""","1. ""Celebreu el vostre progrés! En una setmana, el vostre rendiment va millorar per X Points, i estic aquí per aplaudir els vostres esforços!""
 2. ""Seguiu endavant, esteu fent avenços notables. El vostre creixement del rendiment va augmentar en X punts. Impressionant!""
 3. ""El vostre treball dur és pagar! Heu guanyat X punts més que la setmana anterior. El vostre progrés és inspirador de veure.""
 4. ""Gran feina! En comparació amb la setmana passada, el vostre rendiment va augmentar per X Points, i us animo a cada pas del camí"".
@@ -1028,7 +1023,7 @@ progress_reminder_positive,"1. ""Celebrate your progress! In one week your perfo
 6. ""Розключіть свій потенціал: Ваша продуктивність зросла лише за минулими тижнями!""
 7. ""Зверніть увагу: ваші показники продуктивності щойно отримали оновлення, підкреслюючи вражаюче збільшення точок X.""
 8. ""Попередження про прогрес: ваше зростання продуктивності знаходиться в центрі уваги, з помітним вдосконаленням точок X відстежується""."
-progress_reminder_negative,"1. ""Looks like you scored X less point than last week. I am here to support you through challenges - let's work together to bounce back from this decline in performance.""
+,progress_reminder_negative,"1. ""Looks like you scored X less point than last week. I am here to support you through challenges - let's work together to bounce back from this decline in performance.""
 2. ""Don't be discouraged by the dip in performance of X points - setbacks are an opportunity to learn and grow.""
 3. ""While your score is X points lower than last week. It's normal to face ups and downs - with determination, you can regain your stride in performance.""
 4. ""I noticed a slight dip in your score by X points compared to last week. Remember, progress isn't always linear - take a breath, refocus, and you'll rise above this decline in performance.""
@@ -1062,75 +1057,73 @@ progress_reminder_negative,"1. ""Looks like you scored X less point than last we
 7. ""Performance Status: A clear decline in your performance has been observed since one week ago, with a drop of X points. Address this promptly.""
 8. ""Assessment Report: A decline of X points in your performance has been detected since one week ago. This requires immediate rectification.""
 9. ""Insightful Analysis: Data highlights a decline in your performance, showing a drop of X points since one week ago. Swift action is necessary.""
-10. ""Immediate Alignment Needed: A decline of X points in your performance metrics since one week ago requires prompt attention and corrective measures.""","1. ""Parece que obtuviste X menos Point que la semana pasada. Estoy aquí para apoyarte a través de desafíos: trabajemos juntos para recuperarte de esta disminución en el rendimiento"".
-2. ""No se desanime por la caída en el rendimiento de los puntos X: los contratiempos son una oportunidad para aprender y crecer"".
-3. ""Si bien su puntaje es X puntos más bajo que la semana pasada. Es normal enfrentar los altibajos; con la determinación, puede recuperar su paso en el rendimiento"".
-4. ""Noté una ligera caída en su puntaje por X puntos en comparación con la semana pasada. Recuerde, el progreso no siempre es lineal: respire, se vuelva a enfocar, y se elevará por encima de esta disminución en el rendimiento"".
-5. ""Noté que su puntaje es X puntos más bajo que la semana pasada. Su potencial es ilimitado: cree en ti mismo y superarás cualquier disminución en el rendimiento con resiliencia"".
-6. ""Su puntaje ha disminuido en X puntos de la semana pasada. Recuerde, los contratiempos son una parte natural del crecimiento. Estoy aquí para apoyarlo mientras trabaja en este desafío"".
-7. ""Veo una caída de X puntos en su puntaje en comparación con la semana pasada. No se desanime; los contratiempos brindan valiosas oportunidades de aprendizaje. Juntos, navegaremos hacia la mejora"".
-8. ""Su rendimiento disminuyó por X puntos desde la semana pasada. Tenga en cuenta que el progreso implica altibajos. Manténgase determinado y recuperará el impulso en poco tiempo"".
-9. ""Noté una disminución de los puntos X en su puntaje de la semana pasada. Abraza este momento como una oportunidad para reflexionar y volver aún más fuerte. Estoy aquí para guiarte en cada paso del camino"".
-10. ""Ha habido una caída de X puntos en su puntaje en comparación con la semana pasada. Confíe en sus habilidades y recuerde, cada revés es una oportunidad para recuperarse con la nueva resistencia"".
-11. ""Su puntaje es X puntos más bajos que la semana pasada. Manténgase positivo y paciente; el progreso lleva tiempo y esfuerzo. Juntos, trabajaremos para restaurar su desempeño"".
-12. ""Observé una ligera disminución de los puntos X en su puntaje de la semana pasada. Manténgase enfocado en sus objetivos, y estoy aquí para ofrecer apoyo mientras navega por esta fase"".
-13. ""Su rendimiento sumergido por X puntos en comparación con la semana pasada. Permítete espacio para aprender y adaptarse. Tienes el potencial de superar este desafío"".
-14. ""Observó una disminución de los puntos X en su puntaje desde la semana pasada. Confíe en sus habilidades y recuerde, cada obstáculo es una oportunidad para el crecimiento. Apliquemoslo juntos"".
-15. ""Noté que su puntaje es X puntos más bajos que la semana pasada. No se desanime; el éxito es un viaje lleno de fluctuaciones. Tienes la determinación de superar cualquier disminución"".","1. ""En comparación con hace una semana, su rendimiento muestra un cambio reciente, con una disminución de los puntos X"".
-2. ""En comparación con hace una semana, se ha registrado un cambio en su rendimiento, lo que indica una caída de X puntos"".
-3. ""Sus métricas de rendimiento se han actualizado, mostrando una disminución de los puntos X desde hace una semana"".
-4. ""Como recordatorio, su rendimiento se está monitoreando regularmente, y hemos notado una caída de X puntos en comparación con hace una semana"".
-5. ""Ha habido un cambio en su rendimiento desde hace una semana, y refleja una disminución de los puntos X"".
-6. ""En comparación con hace una semana, ha habido una disminución en su rendimiento, con una caída de X puntos"".
-7. ""Actualización: se ha observado una disminución en su rendimiento desde hace una semana, mostrando una caída de X puntos"".
-8. ""Su desempeño ha experimentado una disminución de los puntos X desde hace una semana"".
-9. ""Los datos recientes indican una disminución en su rendimiento, con una caída de X puntos desde hace una semana"".
-10. ""Ha habido una disminución en sus métricas de rendimiento desde hace una semana, lo que refleja una caída de X puntos"".
-","
-1. ""Acción requerida: en comparación con una semana hace una semana, ha habido un cambio preocupante, lo que resulta en una disminución de los puntos X. Esto requiere atención"".
-2. ""Se esfuerza más: su rendimiento ha recibido un éxito notable desde la semana pasada, mostrando una caída significativa de X puntos. Empújese a sus límites y vuelva a la pista"".
-3. ""Alerta de rendimiento: sus métricas de rendimiento se han actualizado, revelando una disminución de los puntos X desde hace una semana. Aborde esto ahora"".
-4. ""Recordatorio: su rendimiento está disminuyendo y se ha identificado una caída de X puntos en comparación con una semana.
-5. ""Actualización de progreso: los cambios recientes en su rendimiento han llevado a una disminución de los puntos X desde hace una semana. Se requiere una acción correctiva inmediata"".
-6. ""Reconocer tendencias: en comparación con una semana hace una semana, ha habido una disminución en su rendimiento, indicada por una caída de X puntos. Aborde esto de frente"".
-7. ""Estado de rendimiento: se ha observado una clara disminución en su rendimiento desde hace una semana, con una caída de X puntos. Aborde esto de inmediato"".
-8. ""Informe de evaluación: se ha detectado una disminución de X puntos en su desempeño desde hace una semana. Esto requiere una rectificación inmediata"".
-9. ""Análisis perspicaz: los datos destacan una disminución en su rendimiento, que muestra una caída de X puntos desde hace una semana. Es necesaria una acción rápida"".
-10. ""Se necesita una alineación inmediata: una disminución de los puntos X en sus métricas de rendimiento desde hace una semana requiere atención inmediata y medidas correctivas"".","1. ""Sembra che tu abbia segnato X meno punto rispetto alla scorsa settimana. Sono qui per supportarti attraverso le sfide: lavoriamo insieme per riprendersi da questo declino delle prestazioni.""
-2. ""Non scoraggiarti dal tuffo nelle prestazioni di X punti: le battute d'arresto sono un'opportunità per imparare e crescere.""
-3. ""Mentre il tuo punteggio è x punti inferiori rispetto alla scorsa settimana. È normale affrontare alti e bassi - con determinazione, è possibile riacquistare il passo delle prestazioni.""
-4. ""Ho notato un leggero tuffo nel tuo punteggio di X punti rispetto alla scorsa settimana. Ricorda, i progressi non sono sempre lineari: fai un respiro, rifocali e surrai al di sopra di questo declino delle prestazioni.""
-5. ""Ho notato che il tuo punteggio è x punti inferiori rispetto alla scorsa settimana. Il tuo potenziale è illimitato - credi in te stesso e supererai qualsiasi calo delle prestazioni con resilienza.""
-6. ""Il tuo punteggio è diminuito di X punti della scorsa settimana. Ricorda, le battute d'arresto sono una parte naturale della crescita. Sono qui per supportarti mentre lavori attraverso questa sfida.""
-7. ""Vedo un tuffo di punti X nel tuo punteggio rispetto alla scorsa settimana. Non essere scoraggiato; le battute d'arresto offrono preziose opportunità di apprendimento. Insieme, navigeremo verso il miglioramento.""
+10. ""Immediate Alignment Needed: A decline of X points in your performance metrics since one week ago requires prompt attention and corrective measures.""","1. ""Parece que obtuviste X puntos menos que la semana pasada. Estoy aquí para apoyarte a través de desafíos: trabajemos para volver a motivarte"".
+2. ""No te desanimes por la caída en el rendimiento de X puntos: los contratiempos son una oportunidad para aprender y crecer"".
+3. ""Si bien tu puntuación es X puntos más baja que la semana pasada. Es normal tener altibajos; con determinación, puedes mejorar el rendimiento"".
+4. ""Noté una ligera caída en tu puntuación con X puntos menos que la semana pasada. Recuerda, el progreso no siempre es lineal: respira, vuelve a concentrarte, y mejorarás tu rendimiento"".
+5. ""He notado que tu puntuación es X puntos más baja que la semana pasada. Tu potencial es ilimitado: cree en ti y superarás cualquier obstáculo"".
+6. ""Tu puntuación ha disminuido X puntos en comparación con la semana pasada. Recuerda, los contratiempos son una parte natural del crecimiento. Estoy aquí para apoyarte mientras trabajas en este desafío"".
+7. ""Veo una caída de X puntos en tu puntuación en comparación con la semana pasada. No te desanimes; los contratiempos brindan valiosas oportunidades de aprendizaje. Navegaremos hacia el éxito"".
+8. ""Tu rendimiento disminuyó en X puntos desde la semana pasada. Ten en cuenta que el progreso implica altibajos. Mantén la determinación y recuperarás el impulso en poco tiempo"".
+9. ""He notado una disminución de X puntos en tu puntuación comparado con la semana pasada. Tómate este momento como una oportunidad para reflexionar y volver aún más fuerte. Estoy aquí para guiarte en cada paso del camino"".
+10. ""Ha habido una caída de X puntos en tu puntuación en comparación con la semana pasada. Confía en tus habilidades y recuerda, cada revés es una oportunidad para recuperarse"".
+11. ""Tu puntuación es X puntos más baja que la semana pasada. Sé optimista y paciente; el progreso lleva tiempo y esfuerzo. Trabajaremos para restaurar tu desempeño"".
+12. ""He observado una ligera disminución de X puntos en comparación con la puntuación de la semana pasada. Focalízate en tus objetivos, estoy aquí para ofrecerte apoyo mientras navegas por esta fase"".
+13. ""Tu rendimiento ha bajado X puntos en comparación con la semana pasada. Date tiempo para aprender y adaptarte. Tienes el potencial para superar este desafío"".
+14. ""He observado una disminución de X puntos en tu puntuación desde la semana pasada. Confía en tus habilidades y recuerda, cada obstáculo es una oportunidad para el crecimiento.
+15. ""Tu puntuación es X puntos más baja que la semana pasada. No te desanimes; el éxito es un viaje lleno de fluctuaciones. Tienes la determinación para superar cualquier bache"".","1. ""Tu rendimiento muestra un descenso de X puntos en comparación con hace una semana"".
+2. ""Se ha registrado una caída de X puntos en tu rendimiento respecto a la semana pasada"".
+3. ""Tus métricas de rendimiento se han actualizado y muestran una disminución de X puntos desde hace una semana"".
+4. ""Se ha registrado una disminución de X puntos en tu rendimiento en comparación con la semana anterior"".
+5. ""Ha habido un cambio en tu rendimiento desde hace una semana y refleja una disminución de X puntos"".
+6. ""En comparación con hace una semana, ha habido una disminución de X puntos en tu rendimiento"".
+7. ""Actualización: se ha observado una disminución de X puntos en tu rendimiento desde hace una semana"".
+8. ""Tu desempeño ha experimentado una disminución de X puntos desde hace una semana"".
+9. ""Tus datos recientes indican una disminución de X puntos en tu rendimiento respecto a la semana anterior"".
+10. ""Ha habido una disminución de X puntos en tus métricas de rendimiento repecto a la semana pasada"".","1. ""Hay que actuar: ha habido un cambio en el rendimiento. En comparación con la semana pasada, ha habido una disminución de X puntos"".
+2. ""Esfuérzate más: tu rendimiento ha disminuido desde la semana pasada, mostrando una caída significativa de X puntos. Empuja tus límites y vuelve al ruedo"".
+3. ""Alerta de rendimiento: tus métricas de rendimiento se han actualizado, revelando una disminución de X puntos respecto la semana anterior. Aborda esto ahora"".
+4. ""Recordatorio: tu rendimiento está disminuyendo y se ha identificado una caída de X puntos en comparación con la semana pasada.
+5. ""Actualización de progreso: los cambios recientes en tu rendimiento han llevado a una disminución de X puntos desde la semana pasada. Se requiere una acción correctiva inmediata"".
+6. ""La tendencia está cambiando: en comparación con hace una semana, ha habido una disminución en tu rendimiento, reflejada por una caída de X puntos. Aborda el problema"".
+7. ""Estado de rendimiento: se ha observado una clara disminución en tu rendimiento desde hace una semana, con una caída de X puntos. Aborda esto de inmediato"".
+8. ""Informe de evaluación: se ha detectado una disminución de X puntos en tu desempeño en la última semana. Esto requiere una rectificación inmediata"".
+9. ""Análisis: los datos destacan una disminución en tu rendimiento, mostrando una caída de X puntos en la última semana. Es necesario pasar a la acción"".
+10. ""Se necesita una corrección inmediata: Se ha detectado una disminución de X puntos en tu métrica de rendimiento en esta última semana. Esto requiere atención inmediata y medidas correctivas"".","1. ""Sembra che tu abbia segnato X punti in meno rispetto alla scorsa settimana. Sono qui per supportarti attraverso le sfide: lavoriamo insieme per riprenderci da questo calo delle prestazioni.""
+2. ""Non lasciarti scoraggiare dal calo delle prestazioni di X punti: le battute d'arresto sono un'opportunità per imparare e crescere.""
+3. ""Anche se il tuo punteggio è di X punti inferiore rispetto alla scorsa settimana, è normale affrontare alti e bassi - con determinazione, puoi riacquistare il tuo passo nelle prestazioni.""
+4. ""Ho notato un leggero calo nel tuo punteggio di X punti rispetto alla scorsa settimana. Ricorda, i progressi non sono sempre lineari: fai un respiro, rifocalizzati e supererai questo declino nelle prestazioni.""
+5. ""Ho notato che il tuo punteggio è di X punti inferiore rispetto alla scorsa settimana. Il tuo potenziale è illimitato - credi in te stesso e supererai qualsiasi calo nelle prestazioni con resilienza.""
+6. ""Il tuo punteggio è diminuito di X punti rispetto alla scorsa settimana. Ricorda, le battute d'arresto sono una parte naturale della crescita. Sono qui per supportarti mentre affronti questa sfida.""
+7. ""Vedo un calo di X punti nel tuo punteggio rispetto alla scorsa settimana. Non ti scoraggiare; le battute d'arresto offrono preziose opportunità di apprendimento. Insieme, navigheremo verso il miglioramento.""
 8. ""Le tue prestazioni sono diminuite di X punti dalla scorsa settimana. Tieni presente che il progresso comporta alti e bassi. Rimani determinato e riprenderai lo slancio in pochissimo tempo.""
-9. ""Ho notato una diminuzione di X punti nel tuo punteggio dalla scorsa settimana. Abbraccia questo momento come un'opportunità per riflettere e tornare ancora più forte. Sono qui per guidarti ogni passo del processo.""
-10. ""C'è stato un calo di punti X nel tuo punteggio rispetto alla scorsa settimana. Fidati delle tue capacità e ricorda, ogni battuta d'arresto è un'opportunità per rimbalzare con una nuova resilienza.""
-11. ""Il tuo punteggio è x punti inferiori rispetto alla scorsa settimana. Rimani positivo e paziente; il progresso richiede tempo e fatica. Insieme, lavoreremo per ripristinare le tue prestazioni.""
-12. ""Ho osservato una leggera diminuzione di X punti nel tuo punteggio dalla scorsa settimana. Rimani concentrato sui tuoi obiettivi e sono qui per offrire supporto mentre navighi in questa fase.""
-13. ""Le tue prestazioni sono immerse da X punti rispetto alla scorsa settimana. Permettiti di apprendimento e adattarti. Hai il potenziale per salire al di sopra di questa sfida.""
-14. ""Ha osservato un declino di X punti nel tuo punteggio dalla scorsa settimana. Fidati delle tue capacità e ricorda, ogni ostacolo è un'opportunità di crescita. Affrontiamolo insieme.""
-15. ""Ho notato che il tuo punteggio è x punti inferiori rispetto alla scorsa settimana. Non essere scoraggiato; il successo è un viaggio pieno di fluttuazioni. Hai la determinazione a superare qualsiasi declino.""","1. ""Rispetto a una settimana fa, la tua performance mostra un recente cambiamento, con un calo di X punti.""
-2. ""In confronto a una settimana fa, è stato registrato uno spostamento della tua performance, indicando una goccia di punti X.""
-3. ""Le tue metriche delle prestazioni sono state aggiornate, mostrando un calo di X punti da una settimana fa.""
-4. ""Come promemoria, le tue prestazioni vengono monitorate regolarmente e abbiamo notato un calo di punti X rispetto a una settimana fa.""
-5. ""C'è stato un cambiamento nelle tue prestazioni da una settimana fa e riflette un calo di X punti.""
-6. ""Rispetto a una settimana fa, c'è stato un calo della tua performance, con un calo di punti X"".
-7. ""Aggiornamento: un calo delle prestazioni è stato notato da una settimana fa, mostrando un calo di X punti.""
-8. ""La tua performance ha subito un calo di X punti da una settimana fa.""
-9. ""Dati recenti indicano un calo delle prestazioni, con un calo di X punti da una settimana fa.""
-10. ""C'è stato un calo delle metriche delle prestazioni da una settimana fa, riflettendo un calo di punti X"".
+9. ""Ho notato una diminuzione di X punti nel tuo punteggio dalla scorsa settimana. Abbraccia questo momento come un'opportunità per riflettere e tornare ancora più forte. Sono qui per guidarti in ogni fase del percorso.""
+10. ""C'è stato un calo di X punti nel tuo punteggio rispetto alla scorsa settimana. Fidati delle tue capacità e ricorda, ogni battuta d'arresto è un'opportunità per riprenderti con una ritrovata resilienza.""
+11. ""Il tuo punteggio è di X punti inferiore rispetto alla scorsa settimana. Rimani positivo e paziente; il progresso richiede tempo e fatica. Insieme, lavoreremo per ripristinare le tue prestazioni.""
+12. ""Ho osservato una leggera diminuzione di X punti nel tuo punteggio dalla scorsa settimana. Rimani concentrato sui tuoi obiettivi, io sono qui per offrirti supporto mentre navighi in questa fase.""
+13. ""Le tue prestazioni sono diminuite di X punti rispetto alla scorsa settimana. Concediti spazio per imparare e adattarti. Hai il potenziale per superare questa sfida.""
+14. ""Ho notato un calo di X punti nel tuo punteggio dalla scorsa settimana. Fidati delle tue capacità e ricorda, ogni ostacolo è un'opportunità di crescita. Affrontiamolo insieme.""
+15. ""Ho notato che il tuo punteggio è di X punti inferiore rispetto alla scorsa settimana. Non scoraggiarti; il successo è un viaggio pieno di fluttuazioni. Hai la determinazione per superare qualsiasi declino.""","1. ""Rispetto ad una settimana fa, la tua performance mostra un recente cambiamento, con un calo di X punti.""
+2. ""Rispetto ad una settimana fa, è stato registrato un cambiamento nelle tue prestazioni, indicando un calo di X punti.""
+3. ""I punteggi delle tue prestazioni sono stati aggiornati, mostrando un calo di X punti rispetto ad una settimana fa.""
+4. ""Come promemoria, le tue prestazioni vengono monitorate regolarmente e abbiamo notato un calo di X punti rispetto ad una settimana fa.""
+5. ""C'è stato un cambiamento nelle tue prestazioni rispetto ad una settimana fa e riflette un calo di X punti.""
+6. ""Rispetto ad una settimana fa, c'è stato un calo della tua performance, con un calo di X punti"".
+7. ""Aggiornamento: è stato notato un calo delle tue prestazioni rispetto ad una settimana fa, mostrando un calo di X punti.""
+8. ""La tua performance ha subito un calo di X punti rispetto ad una settimana fa.""
+9. ""Dati recenti indicano un calo delle tue prestazioni, con un calo di X punti rispetto ad una settimana fa.""
+10. ""C'è stato un calo di punteggio nelle tue prestazioni rispetto ad una settimana fa, riflettendo un calo di X punti"".
 ","
-1. ""Azione richiesta: confronto con una settimana fa, c'è stata un cambiamento per quanto riguarda un declino di X punti. Ciò richiede attenzione.""
-2. ""Strivi più forte: la tua performance ha subito un colpo evidente dalla scorsa settimana, mostrando un calo significativo di X punti. Spingiti ai tuoi limiti e torna in pista.""
-3. ""Avviso di performance: le tue metriche delle prestazioni sono state aggiornate, rivelando un calo di X punti da una settimana fa. Affronta questo ora.""
-4. ""Promemoria: la tua performance è in calo e è stato identificato un calo di punti X rispetto a una settimana fa. Torna in pista.""
-5. ""Aggiornamento dei progressi: i recenti turni della tua performance hanno portato a un calo di X punti da una settimana fa. Sono necessarie azioni correttive immediate.""
-6. ""Riconoscendo le tendenze: confronto con una settimana fa, c'è stato un calo delle tue prestazioni, indicato da un calo di X punti. Affronta questo frontale.""
-7. ""Stato delle prestazioni: un chiaro declino della tua performance è stato osservato da una settimana fa, con un calo di X punti. Affronta questo prontamente.""
-8. ""Rapporto di valutazione: un calo di X punti nella prestazione è stato rilevato da una settimana fa. Ciò richiede una rettifica immediata.""
-9. ""Analisi approfondita: i dati evidenziano un calo delle prestazioni, mostrando un calo di punti X da una settimana fa. È necessaria un'azione rapida.""
-10. ""Allineamento immediato necessario: un calo di X punti nelle metriche delle prestazioni da una settimana fa richiede una pronta attenzione e misure correttive.""","1. ""Het lijkt erop dat je X punten minder hebt gescoord dan vorige week. Ik ben hier om je te ondersteunen bij uitdagingen - laten we samenwerken om terug te komen van deze daling van de prestatie.""
+1. ""Azione richiesta: rispetto ad una settimana fa, c'è stato un cambiamento preoccupante con conseguente calo di X punti. Ciò richiede attenzione.""
+2. ""Sforzati di più: la tua performance ha subito un colpo evidente dalla scorsa settimana, mostrando un calo significativo di X punti. Spingiti oltre i tuoi limiti e torna in pista.""
+3. ""Avviso di prestazione: i punteggi delle tue prestazioni sono stati aggiornati, rivelando un calo di X punti rispetto ad una settimana fa. Affronta questo ora.""
+4. ""Promemoria: la tua performance è in calo ed è stato identificato un calo di X punti rispetto ad una settimana fa. Torna in pista.""
+5. ""Aggiornamento dei progressi: i recenti cambiamenti nelle tue prestazioni hanno portato ad un calo di X punti rispetto ad una settimana fa. È necessaria un'azione correttiva immediata.""
+6. ""Riconosciamo le tendenze: rispetto ad una settimana fa, c'è stato un calo delle tue prestazioni, indicato da un calo di X punti. Affronta questo di petto.""
+7. ""Stato delle prestazioni: è stato osservato un chiaro calo della tua performance rispetto ad una settimana fa, con un calo di X punti. Affronta questo prontamente.""
+8. ""Rapporto di valutazione: è stato rilevato un calo di X punti nelle tue prestazioni da una settimana. Ciò richiede una rettifica immediata.""
+9. ""Analisi approfondita: i dati evidenziano un calo delle prestazioni, mostrando un calo di X punti rispetto ad una settimana fa. È necessaria un'azione rapida.""
+10. ""Allineamento immediato necessario: un calo di X punti nei punteggi delle prestazioni rispetto ad una settimana fa richiede pronta attenzione e misure correttive.""","1. ""Het lijkt erop dat je X punten minder hebt gescoord dan vorige week. Ik ben hier om je te ondersteunen bij uitdagingen - laten we samenwerken om terug te komen van deze daling van de prestatie.""
 2. ""Laat je niet ontmoedigen door de dip in de prestatie van X -punten - tegenslagen zijn een kans om te leren en te groeien.""
 3. ""Je score is X -punten lager dan vorige week. Het is normaal om voor en tegenslagen te hebben- met vastberadenheid kun je pas je prestaties terug winnen.""
 4. ""Ik merk een lichte dip in je score op van X -punten vergeleken met vorige week. Vergeet niet dat de vooruitgang niet altijd lineair is - haal adem, concentraat je opnieuw en je zult deze daling van de prestaties te boven komen.""
@@ -1155,16 +1148,16 @@ progress_reminder_negative,"1. ""Looks like you scored X less point than last we
 9. ""Recente gegevens duiden op een afname van jouw prestaties, met een vermindering van X -punten vergeleken met een week geleden.""
 10. ""Er is al sinds een week een daling van jouw prestatiestatistieken, wat een vermindering X -punten weerspiegelt.""
 ","
-1. ""Actie vereist: vergeleken met een week geleden is er een betreffende verandering geweest, wat resulteert in een daling van X -punten. Dit vereist aandacht.""
-2. ""Streef harder: je prestaties hebben sinds vorige week een merkbare hit genomen, met een aanzienlijke druppel X -punten. Duw jezelf tot je grenzen en ga weer op het goede spoor.""
-3. ""Performance alert: uw prestatiestatistieken zijn bijgewerkt, wat sinds een week geleden een achteruitgang van X -punten onthult.
-4. ""Herinnering: uw prestaties dalen en een druppel X -punten vergeleken met een week geleden is geïdentificeerd. Ga weer op het goede spoor.""
-5. ""Update van de voortgang: recente verschuivingen in uw prestaties hebben sinds een week geleden geleid tot een daling van X -punten. Onmiddellijke corrigerende maatregelen zijn vereist.""
-6. ""Trends erkennen: vergeleken met een week geleden is er een achteruitgang van uw prestaties, aangegeven door een druppel X-punten. Pak deze frontaal aan.""
-7. ""Prestatiestatus: een duidelijke achteruitgang van uw prestaties is waargenomen sinds een week geleden, met een druppel X -punten. Pas dit onmiddellijk aan.""
-8. ""Beoordelingsrapport: een daling van X -punten in uw prestaties is sinds een week geleden gedetecteerd. Dit vereist onmiddellijke rectificatie.""
-9. ""Inzichtelijke analyse: gegevens benadrukt een daling van uw prestaties, met een druppel X -punten sinds een week geleden. Swift -actie is noodzakelijk.""
-10. ""Onmiddellijke uitlijning nodig: een afname van X -punten in uw prestatiemetrieken, omdat een week geleden snelle aandacht en corrigerende maatregelen vereist.""","1. ""Sembla que heu marcat X menys que la setmana passada. Estic aquí per donar -vos suport a través de reptes: treballem junts per recuperar aquest descens del rendiment"".
+1. ""Actie vereist: vergeleken met vorige week is er een daling van X -punten. Dit vereist aandacht.""
+2. ""Kom op: je prestaties zijn verminderd sinds vorige week, met een aanzienlijke daling van X -punten. Zoek je grenzen op en kom weer op het juiste spoor.""
+3. ""Prestatie waarschuwing: je prestatiestatistieken zijn bijgewerkt, wat een achteruitgang van X-punten laat zien ten opzicht van een week geleden.""
+4. ""Herinnering: je prestaties dalen, er is een vermindering van X -punten vergeleken met een week geleden. Kom weer op het juiste pad.""
+5. ""Update van de voortgang: verschuivingen in je prestaties hebben geleid tot een daling van X -punten vergeleken met vorige week. Onmiddellijke maatregelen zijn vereist.""
+6. ""Er is een patroon te zien: vergeleken met een week geleden is er een achteruitgang van uw prestaties, met een daling van X-punten. Pak deze aan.""
+7. ""Prestatiestatus: een duidelijke achteruitgang van je prestaties een week geleden is waargenomen, met een daling X -punten. Werk dit onmiddellijk tegen.""
+8. ""Beoordelingsrapport: een daling van X -punten in je prestaties afgelopen week is gedetecteerd. Dit vereist een onmiddellijke aanpak.""
+9. ""Inzichttelijk raport: de gegevens benadrukken een daling van je prestaties afgelopen week, met een vermindering van X -punten. Actie is noodzakelijk.""
+10. ""Onmiddellijke actie nodig: een afname van X -punten in je prestaties afgelopen week, dit vereist aandacht en maatregelen.""","1. ""Sembla que heu marcat X menys que la setmana passada. Estic aquí per donar -vos suport a través de reptes: treballem junts per recuperar aquest descens del rendiment"".
 2. ""No us desanimeu per la immersió en el rendiment de X Points: els contratemps són una oportunitat per aprendre i créixer"".
 3. ""Si bé la vostra puntuació és X punts inferiors a la de la setmana passada. És normal enfrontar -se i baixes, amb determinació, podeu recuperar el vostre rendiment en el rendiment.""
 4. ""Vaig notar una lleugera immersió en la vostra puntuació per x punts en comparació amb la setmana passada. Recordeu que el progrés no sempre és lineal: respireu, refogueu i us situeu per sobre d'aquest descens del rendiment"".
@@ -1301,7 +1294,7 @@ progress_reminder_negative,"1. ""Looks like you scored X less point than last we
 8. ""Звіт про оцінку: Зниження балів X у вашій ефективності виявлено з тижня тому. Це вимагає негайного виправлення"".
 9. ""Проникливий аналіз: Дані підкреслює зниження вашої ефективності, показуючи падіння точок X з тижня тому. Необхідна швидка дія"".
 10. ""Необхідне негайне вирівнювання: Зниження точок X у ваших показниках ефективності, оскільки тиждень тому вимагає швидкої уваги та коригуючих заходів""."
-session_reminder,"1. ""Hi there! Your session is coming up in 30 minutes. Let's make it a great one, see you there!""
+,session_reminder,"1. ""Hi there! Your session is coming up in 30 minutes. Let's make it a great one, see you there!""
 2. ""Hello! Your session is around the corner, and I am here to support you all the way. You've got this!""
 3. ""Hey, it's almost time for your session. Remember, you're not alone on this journey. I am cheering you on!""
 4. ""Hello! Your session is just 30 minutes away. Trust yourself and the progress you're making. You're making strides!""
@@ -1328,61 +1321,61 @@ session_reminder,"1. ""Hi there! Your session is coming up in 30 minutes. Let's 
 7. ""URGENT: Your session is just 30 minutes away. Prepare to give it your all!""
 8. ""Consistency is Key: Your session is coming up soon. Embrace the opportunity!""
 9. ""Countdown to Session: Only 30 minutes left. Get set to tackle your session with determination!""
-10. ""Session Reminder: It's almost time. Prepare to engage and make progress!""","1. ""¡Hola! ¡Tu sesión se acerca en 30 minutos. Hagámoslo genial, nos vemos allí!""
-2. ""¡Hola! Tu sesión está a la vuelta de la esquina, y estoy aquí para apoyarte todo el camino. ¡Tienes esto!""
-3. ""Oye, es casi el momento de tu sesión. Recuerda, no estás solo en este viaje. ¡Te estoy animando!""
-4. ""¡Hola! Tu sesión está a solo 30 minutos. Confía en ti mismo y el progreso que estás haciendo. ¡Estás avanzando!""
-5. ""¡Hola! Tu sesión se acerca. Tómate un momento para apreciar qué tan lejos has llegado. ¡Estás haciendo una diferencia positiva!""
-6. ""¡Oye! ¡Tu sesión está en camino. Recuerda, cada paso cuenta, y estoy aquí para caminar contigo"".
-7. ""¡Hola! ¡Tu sesión está a partir de 30 minutos. ¡Tus esfuerzos importan, y estoy aquí para ayudarte a brillar!""
-8. ""¡Hola! ¡Prepárate para tu sesión en 30 minutos. Eres más fuerte de lo que piensas, y estoy aquí para ti!""
-9. ""Oye, tu sesión está casi aquí. ¡Abraza el progreso que estás haciendo, y abordemos esto juntos!""
-10. ""¡Hola! Tu sesión está a la vuelta de la esquina. Estás haciendo cambios positivos, y estoy aquí para apoyar cada paso"".","1. ""Hola, un recordatorio rápido de que su sesión está programada en 30 minutos. Tómese un momento para prepararse"".
-2. ""Hola, tu sesión es próxima en 30 minutos"".
-3. ""Oye, tu sesión se está acercando"".
-4. ""Hola, su sesión está programada en breve. Reflexione sobre su progreso y prepárese para el siguiente paso"".
-5. ""Hola, solo un aviso que su sesión está a 30 minutos. Reconozca sus esfuerzos hasta ahora"".
-6. ""Hola, tu sesión está en camino"".
-7. ""Hola, su sesión está programada para la próxima media hora. Su dedicación es apreciada"".
-8. ""Hola, prepárese para su sesión en 30 minutos. Recuerde, su determinación es un activo valioso"".
-9. ""Oye, tu sesión está casi aquí. Tenga en cuenta el progreso que has logrado"".
-10. ""Hola, tu sesión está a la vuelta de la esquina"".","1. ""Cadera rápida: su sesión está a solo 30 minutos. ¡Comience a seguir los protocolos para permanecer en el camino!""
-2. ""Recordatorio: su sesión se presentará pronto. ¡Actúe pronto y sea consistente!""
-3. ""Notificarte: no olvides comenzar tu sesión en 30 minutos"".
-4. ""Solo un recordatorio: su sesión está programada en 30 minutos. ¡Entra en la mentalidad correcta!""
-5. ""Alerta de preesión: su sesión se acerca. ¡Haga un movimiento en 30 minutos!""
-6. ""Se requiere acción: su sesión está casi aquí. ¡Adhiérase a obtener resultados óptimos!""
-7. ""Urgente: su sesión está a solo 30 minutos. ¡Prepárese para darlo todo!""
-8. ""La consistencia es clave: su sesión se presentará pronto. ¡Aprovecha la oportunidad!""
-9. ""Cuenta atrás a la sesión: solo quedan 30 minutos. ¡Prepárate para abordar tu sesión con determinación!""
-10. ""Recordatorio de la sesión: es casi el tiempo. ¡Prepárese para participar y progresar!""","1. ""Ciao! La tua sessione sta arrivando tra 30 minuti. Facciamola fantastica, ci vediamo lì!""
-2. ""Ciao! La tua sessione è dietro l'angolo e sono qui per supportarti fino in fondo. Hai questo!""
-3. ""Ehi, è quasi ora per la tua sessione. Ricorda, non sei solo in questo viaggio. Ti sto incoraggiando!""
-4. ""Ciao! La tua sessione è a soli 30 minuti. Fidati di te stesso e i progressi che stai facendo. Stai facendo passi da gigante!""
-5. ""Ciao! La tua sessione si sta avvicinando. Prenditi un momento per apprezzare quanto sei arrivato. Stai facendo una differenza positiva!""
-6. ""Ehi lì! La tua sessione è in arrivo. Ricorda, ogni passo conta, e io sono qui per camminarlo con te.""
+10. ""Session Reminder: It's almost time. Prepare to engage and make progress!""","1. ""¡Hola! ¡Tu sesión estará lista en 30 minutos! ¡Hagámoslo genial, nos vemos allí!""
+2. ""¡Hola! Tu sesión está a la vuelta de la esquina, y estoy aquí para apoyarte todo el camino.""
+3. ""Oye, es casi el momento de tu sesión. ¡Hagámos este viaje!""
+4. ""¡Hola! Tu sesión está a solo 30 minutos. Confía en ti y en el progreso que estás haciendo. ¡Estás avanzando!""
+5. ""¡Hola! Tu sesión se acerca. Tómate un momento para apreciar qué tan lejos has llegado. ¡Estás marcando la diferencia!""
+6. ""¡Oye! ¡Tu sesión está en camino! Recuerda, cada paso cuenta, y estoy aquí para caminar a tu lado"".
+7. ""¡Hola! ¡Tu sesión estará lista a partir de 30 minutos! ¡Tus esfuerzos importan, y estoy aquí para ayudarte a brillar!""
+8. ""¡Hola! ¡Prepárate para tu sesión en 30 minutos! ¡Eres más fuerte de lo que piensas, y estoy aquí para apoyarte!""
+9. ""Oye, tu sesión está casi lista. ¡Fíjate en el progreso que estás haciendo, y abordemos esto!""
+10. ""¡Hola! Tu sesión está a la vuelta de la esquina. Estás haciendo cambios positivos, y estoy aquí para apoyar cada paso"".","1. ""Hola, tu sesión está programada para empezar en 30 minutos. Tómate un momento para prepararte"".
+2. ""Hola, tu sesión empieza en 30 minutos"".
+3. ""Hola, tu sesión de hoy empieza pronto"".
+4. ""Hola, tu sesión comenzará en breve. Reflexiona sobre tu progreso y prepárate para el siguiente paso"".
+5. ""Hola, tu sesión estará lista para empezar en 30 minutos"".
+6. ""Hola, tu próxima sesión está en camino"".
+7. ""Hola, tu próxima sesión comenzará dentro de media hora. ¡Que no decaiga tu empeño!""
+8. ""Hola, prepárate para tu próxima sesión. Recuerda: tu determinación es muy importante"".
+9. ""La sesión de hoy casi ha llegado. Ten en cuenta el progreso que ya has logrado"".
+10. ""Hola, tu sesión está a la vuelta de la esquina"".","1. ""Atención: quedan 30 minutos para tu sesión. ¡Empieza los protocolos para permanecer en el camino!""
+2. ""Recordatorio: tu sesión empezará pronto. ¡Actúa y se consistente!""
+3. ""Notificación: no olvides empezar tu sesión en 30 minutos"".
+4. ""Solo un recordatorio: tu sesión está programada en 30 minutos. ¡Mantente con motivación!""
+5. ""Alerta: tu sesión de rehabilitación se acerca. ¡Entra a RGSapp en 30 minutos para empezar!""
+6. ""Acción requerida: tu sesión está cerca. ¡Sigue obteniendo resultados óptimos!""
+7. ""Urgente: tu sesión está a solo 30 minutos. ¡Prepárate para darlo todo!""
+8. ""La perseverancia es la clave: tu sesión se empezará pronto. ¡Aprovecha la oportunidad!""
+9. ""Cuenta atrás para la sesión: solo quedan 30 minutos. ¡Prepárate para abordar tu sesión con determinación!""
+10. ""Recordatorio de la sesión: es casi la hora de realizar la sesión de rehabilitación. ¡Prepárate para participar y progresar!""","1. ""Ciao! La tua sessione arriverà tra 30 minuti. Rendiamola fantastica, ci vediamo lì!""
+2. ""Ciao! La tua sessione è dietro l'angolo e io sono qui per supportarti fino in fondo. Questo è tuo!""
+3. ""Ehi, è quasi ora per la tua sessione. Ricorda, non sei solo in questo viaggio. Faccio il tifo per te!""
+4. ""Ciao! La tua sessione è a soli 30 minuti di distanza. Fidati di te stesso e dei progressi che stai facendo. Stai facendo passi da gigante!""
+5. ""Ciao! La tua sessione si sta avvicinando. Prenditi un momento per apprezzare fino a dove sei arrivato. Stai facendo una differenza positiva!""
+6. ""Ehi! La tua sessione è in arrivo. Ricorda, ogni passo conta, e io sono qui per percorrerlo con te.""
 7. ""Ciao! La tua sessione è tra 30 minuti. I tuoi sforzi contano e sono qui per aiutarti a brillare!""
 8. ""Ciao! Preparati per la tua sessione in 30 minuti. Sei più forte di quanto pensi, e io sono qui per te!""
-9. ""Ehi, la tua sessione è quasi arrivata. Abbraccia i progressi che stai facendo e affrontiamolo insieme!""
-10. ""Ciao! La tua sessione è dietro l'angolo. Stai apportando cambiamenti positivi e sono qui per supportare ogni passo.""","1. ""Ciao, un rapido promemoria che la sessione è programmata in 30 minuti. Prenditi un momento per prepararsi.""
-2. ""Ciao, la tua sessione è in arrivo in 30 minuti.""
+9. ""Ehi, la tua sessione è quasi arrivata. Abbraccia i progressi che stai facendo e affrontiamola insieme!""
+10. ""Ciao! La tua sessione è dietro l'angolo. Stai apportando cambiamenti positivi e io sono qui per supportare ogni tuo passo.""","1. ""Ciao, un rapido promemoria che la tua sessione è programmata tra 30 minuti. Prenditi un momento per prepararti.""
+2. ""Ciao, la tua sessione è in arrivo tra 30 minuti.""
 3. ""Ehi, la tua sessione è vicina.""
-4. ""Ciao, la tua sessione è programmata a breve. Rifletti sui tuoi progressi e preparati per il passaggio successivo.""
-5. ""Ciao, solo un avvertimento che la tua sessione è di 30 minuti. Riconosci i tuoi sforzi finora.""
+4. ""Ciao, la tua sessione è programmata a breve. Rifletti sui tuoi progressi e preparati per il prossimo passo.""
+5. ""Ciao, solo un avvertimento che la tua sessione è tra 30 minuti di distanza. Riconosci i tuoi sforzi finora.""
 6. ""Ehi, la tua sessione è in arrivo.""
 7. ""Ciao, la tua sessione è programmata per la prossima mezz'ora. La tua dedizione è apprezzata.""
-8. ""Ciao, preparati per la sessione in 30 minuti. Ricorda, la tua determinazione è una risorsa preziosa.""
-9. ""Ehi, la tua sessione è quasi qui. Tieni presente i progressi che hai raggiunto.""
-10. ""Ciao, la tua sessione è proprio dietro l'angolo.""","1. ""Hads-up rapido: la sessione è a soli 30 minuti. Inizia a seguire i protocolli per rimanere in pista!""
-2. ""Promemoria: la tua sessione arriverà presto. Atti presto e sii coerente!""
-3. ""Notificarti: non dimenticare di iniziare la sessione tra 30 minuti.""
-4. ""Solo un promemoria: la tua sessione è programmata in 30 minuti. Prendi la mentalità giusta!""
-5. ""Avviso di pre-sessione: la tua sessione si avvicina. Fai una mossa in 30 minuti!""
-6. ""Azione richiesta: la tua sessione è quasi arrivata. Afferralo per risultati ottimali!""
-7. ""Urgente: la tua sessione è a soli 30 minuti. Preparati a dare il massimo!""
-8. ""La coerenza è la chiave: la tua sessione sta arrivando presto. Abbraccia l'opportunità!""
-9. ""Conto alla rovescia per la sessione: rimasti a soli 30 minuti. Affronta la tua sessione con determinazione!""
-10. ""Promemoria della sessione: è quasi tempo. Preparati a impegnarsi e fare progressi!""","1. ""Hallo daar! Je sessie begint over 30 minuten. Laten we er een geweldige sessie van maken, zie je daar!""
+8. ""Ciao, preparati per la tua sessione tra 30 minuti. Ricorda, la tua determinazione è una risorsa preziosa.""
+9. ""Ehi, la tua sessione è quasi arrivata. Tieni a mente i progressi che hai raggiunto.""
+10. ""Ciao, la tua sessione è proprio dietro l'angolo.""","1. ""Rapido avviso: la tua sessione è a soli 30 minuti di distanza. Inizia a seguire i protocolli per rimanere in pista!""
+2. ""Promemoria: la tua sessione arriverà presto. Agisci presto e sii coerente!""
+3. ""Notifica: non dimenticare di iniziare la sessione tra 30 minuti.""
+4. ""Solo un promemoria: la tua sessione è programmata tra 30 minuti. Entra nell'ottica giusta!""
+5. ""Avviso di pre-sessione: la tua sessione si avvicina. Inizia tra 30 minuti!""
+6. ""Azione richiesta: la tua sessione è quasi arrivata. Aderisci per risultati ottimali!""
+7. ""Urgente: la tua sessione è a soli 30 minuti di distanza. Preparati a dare il massimo!""
+8. ""La coerenza è la chiave: la tua sessione sta arrivando a breve. Cogli l'opportunità!""
+9. ""Conto alla rovescia per la sessione: mancano solo 30 minuti. Preparati ad affrontare la tua sessione con determinazione!""
+10. ""Promemoria della sessione: è quasi ora. Preparati ad impegnarti e a fare progressi!""","1. ""Hallo daar! Je sessie begint over 30 minuten. Laten we er een geweldige sessie van maken, zie je daar!""
 2. ""Hallo! Je sessie staat om de hoek en ik ben hier om je te ondersteunen. Je kan het!""
 3. ""Hé, het is bijna tijd voor je sessie. Onthoud, je bent niet alleen tijdens deze training. Ik juich je toe!""
 4. ""Hallo! Je sessie is slechts 30 minuten van je verwijderd. Vertrouw op jezelf en de vooruitgang die je boekt. Je maakt stappen!""
@@ -1400,16 +1393,16 @@ session_reminder,"1. ""Hi there! Your session is coming up in 30 minutes. Let's 
 7. ""Hallo, je sessie is gepland over een half uur. Jouw toewijding wordt op prijs gesteld.""
 8. ""Hallo, bereid je voor op je sessie over 30 minuten. Vergeet niet dat je vastberadenheid een waardevol bezit is.""
 9. ""Hé, je sessie staat om de hoek. Houd rekening met de vooruitgang die je hebt geboekt.""
-10. ""Hallo, je sessie begint bijna.""","1. ""Snelle heads-up: je sessie is slechts 30 minuten verwijderd. Begin met het volgen van de protocollen om op de rails te blijven!""
-2. ""Herinnering: uw sessie komt binnenkort. Handel snel en wees consistent!""
-3. ""U op de hoogte stellen: vergeet niet om uw sessie binnen 30 minuten te beginnen.""
-4. ""Gewoon een herinnering: uw sessie is gepland in 30 minuten. Stap in de juiste mindset!""
-5. ""Pre-sessie alert: uw sessie nadert. Maak een beweging over 30 minuten!""
-6. ""Actie vereist: uw sessie is bijna hier. Houd er rekening mee voor optimale resultaten!""
-7. ""Urgent: uw sessie is slechts 30 minuten afstand. Bereid je voor om alles alles te geven!""
-8. ""Consistentie is de sleutel: uw sessie komt binnenkort. Omarm de kans!""
-9. ""Countdown to Session: Slechts 30 minuten over. Ga ingesteld om uw sessie met vastberadenheid aan te pakken!""
-10. ""Sessieherinnering: het is bijna tijd. Bereid je voor om je bezig te houden en vooruitgang te boeken!""","1. ""Hola! La vostra sessió arriba en 30 minuts. Anem a fer -ho fantàstic, ens veiem allà!""
+10. ""Hallo, je sessie begint bijna.""","1. ""Even een herinnering: je sessie begint over slechts 30 minuten. Begin met de spellen om op het juist pad te blijven!""
+2. ""Herinnering: je sessie staat om de hoek. Begin snel en wees consistent!""
+3. ""Op de hoogte stelling: vergeet niet om je sessie binnen 30 minuten te beginnen.""
+4. ""Even een herinnering: je sessie is gepland over 30 minuten. Bereid je voor!""
+5. ""Sessie alert: je sessie nadert. Start over 30 minuten!""
+6. ""Actie vereist: je sessie komt eraan. Bereid je voor, voor optimale resultaten!""
+7. ""Urgent: je sessie begint over slechts 30 minuten. Bereid je voor om alles te geven!""
+8. ""Consistentie is de sleutel: je sessie komt eraan. Pak de kans!""
+9. ""Aftellen naar de sessie: Over slechts 30 minuten begint de sessie. Pak de sessie met beide handen aan pakken!""
+10. ""Sessieherinnering: het is bijna tijd. Bereid je voor om te beginnen en vooruitgang te boeken!""","1. ""Hola! La vostra sessió arriba en 30 minuts. Anem a fer -ho fantàstic, ens veiem allà!""
 2. ""Hola! La vostra sessió és a la volta de la cantonada i estic aquí per donar -vos suport fins a tot el camí. Ja ho teniu!""
 3. ""Ei, és gairebé el moment de la vostra sessió. Recordeu -vos, no esteu sols en aquest viatge. Us animo!""
 4. ""Hola! La vostra sessió és a només 30 minuts. Confieu en vosaltres mateixos i en els avenços que feu. Esteu fent passos!""
@@ -1518,7 +1511,8 @@ session_reminder,"1. ""Hi there! Your session is coming up in 30 minutes. Let's 
 8. ""Послідовність є ключовою: ваш сеанс незабаром проходить. Прийміть можливість!""
 9. ""Зворотний відлік до сеансу: залишилось лише 30 хвилин. Встановіть, щоб вирішити сеанс із рішучістю!""
 10. ""Нагадування сеансу: Настав час. Підготуйтеся до залучення та досягнення прогресу!"""
-protocol_reminder,"1. ""Exciting news! your therapist has tailored new exercises just for you - you've got this!""
+"Notifications 
+(based on heuristics)",New set of protocols prescribed to the patient,"1. ""Exciting news! your therapist has tailored new exercises just for you - you've got this!""
 2. ""Your journey is evolving - embrace these new exercises prescribed by your therapist with confidence and determination.""
 3. ""Your therapist customized new exercises for your progress - let's embark on this positive change together!""
 4. ""Your health matters, and your therapist is here to guide you through the new empowering exercises. Check them out!""
@@ -1554,78 +1548,74 @@ protocol_reminder,"1. ""Exciting news! your therapist has tailored new exercises
 2. ""Neglecting the new protocols can hinder your progress - implement them now!""
 3. ""These new protocols are crucial - adhere to them for optimal results!""
 4. ""No time to waste: Begin following the new protocols immediately to stay on track.""
-5. ""Your health demands you to start the new protocols now - no exceptions!""","1. ""¡Noticias emocionantes! Tu terapeuta ha adaptado nuevos ejercicios solo para ti, ¡tienes esto!""
-2. ""Su viaje está evolucionando: adopte estos nuevos ejercicios prescritos por su terapeuta con confianza y determinación"".
-3. ""Su terapeuta personalizó nuevos ejercicios para su progreso: ¡embarcemos en este cambio positivo juntos!""
-4. ""Su salud es importante y su terapeuta está aquí para guiarlo a través de los nuevos ejercicios de empoderamiento. ¡Visítelos!""
-5. ""Te estás haciendo cargo de tu bienestar: ¡tu terapeuta recetó nuevos ejercicios, sígalos y presenciarlos de los increíbles resultados!""
-6. ""Parece que su terapeuta le prescribió algunos ejercicios nuevos para usted, ¡vamos a verlos!""
-7. ""¡Felicitaciones! Su terapeuta ha adaptado nuevos ejercicios solo para usted. Abrace estos cambios a medida que continúa su viaje hacia el bienestar mejorado"".
-8. ""¡Progreso emocionante! Su viaje está evolucionando con la adición de nuevos ejercicios prescritos por su terapeuta. ¡Sigan con el gran trabajo!""
-9. ""Su terapeuta está dedicado a su éxito. Abrace los nuevos ejercicios personalizados para su progreso y, juntos, alcanzaremos sus objetivos"".
-10. ""Su salud es una prioridad, y su terapeuta está aquí para apoyarlo. Explore los nuevos ejercicios de empoderamiento prescritos solo para usted"".
-11. ""¡Estás en el camino hacia una mejor salud! Su terapeuta ha prescrito nuevos ejercicios: siga su guía y presencie el impacto positivo"".
-12. ""¡Buenas noticias! Su terapeuta ha adaptado ejercicios específicos para usted. Aprovechemos esta oportunidad para progresar y lograr sus resultados deseados"".
-13. ""La experiencia de su terapeuta está guiando su viaje. Abrace los nuevos ejercicios prescritos para usted y disfrute de los cambios positivos por delante"".
-14. ""Su compromiso con la superación personal es encomiable. Explore los nuevos ejercicios prescritos por su terapeuta y hágase cargo de su bienestar"".
-15. ""Su terapeuta está invertido en su éxito. Juntos, ¡exploremos los nuevos ejercicios y trabajemos para un usted más saludable y feliz!""
-
-","1. ""Se han agregado nuevos ejercicios prescritos por su terapeuta a su cuenta"".
-2. ""Actualización de la aplicación: consulte los últimos ejercicios prescritos por su terapeuta, exclusivamente para usted"".
-3. ""Recordatorio: revise los ejercicios recientemente recetados por su terapeuta en el RGSAPP"".
-4. ""Actualización del protocolo: su cuenta ahora incluye nuevos ejercicios prescritos por su terapeuta"".
-5. ""Su RGSAPP se ha actualizado con nuevos ejercicios prescritos por su terapeuta"".
-6. ""Su cuenta se ha actualizado con nuevos ejercicios prescritos por su terapeuta"".
-7. ""Manténgase actualizado con su progreso: explore los ejercicios recientemente agregados prescritos por su terapeuta en el RGSAPP"".
-8. ""Su RGSAPP ahora incluye los últimos ejercicios prescritos por su terapeuta, específicamente para usted"".
-9. ""Manténgase proactivo en su viaje: revise los nuevos ejercicios agregados recientemente a su cuenta, según lo prescrito por su terapeuta"".
-10. ""Su RGSAPP se ha renovado con nuevos ejercicios adaptados solo para usted, recetados por su terapeuta"".
-11. ""Consulte los ejercicios recién agregados en su cuenta, cuidadosamente recetados por su terapeuta"".
-12. ""Su RGSAPP se ha actualizado con ejercicios personalizados prescritos por su terapeuta"".
-13. ""Explore los ejercicios actualizados ahora disponibles en el RGSAPP, cuidadosamente prescrito por su terapeuta"".
-14. ""Revise los últimos ejercicios prescritos solo para usted en el RGSAPP por su terapeuta"".
-15. ""Su cuenta ahora incluye nuevos ejercicios para su éxito, cuidadosamente prescrito por su terapeuta"".
-
-","1. ""Acción inmediata requerida: ¡Siga los protocolos recién prescritos sin demora!""
-2. ""Descuidar los nuevos protocolos puede obstaculizar su progreso, ¡impleméntelos ahora!""
-3. ""Estos nuevos protocolos son cruciales: ¡adhiételos para obtener resultados óptimos!""
-4. ""No hay tiempo que perder: comience a seguir los nuevos protocolos de inmediato para mantenerse en el camino"".
-5. ""Su salud le exige que comience los nuevos protocolos ahora, ¡no hay excepciones!""","1. ""Notizie entusiasmanti! Il tuo terapeuta ha su misura per i nuovi esercizi solo per te - hai questo!""
-2. ""Il tuo viaggio si sta evolvendo - Abbraccia questi nuovi esercizi prescritti dal tuo terapeuta con fiducia e determinazione.""
-3. ""Il tuo terapeuta ha personalizzato nuovi esercizi per i tuoi progressi: imbarciamo insieme questo cambiamento positivo!""
-4. ""La tua salute è importante e il tuo terapeuta è qui per guidarti attraverso i nuovi esercizi di potenziamento. Dai un'occhiata!""
-5. ""Stai prendendo in carico il tuo benessere - Il tuo terapeuta ha prescritto nuovi esercizi, seguili e testimonia i risultati sorprendenti!""
-6. ""Sembra che il tuo terapeuta abbia prescritto alcuni nuovi esercizi per te, controlliamoli!""
-7. ""Congratulazioni! Il tuo terapeuta ha adattato nuovi esercizi solo per te. Abbraccia questi cambiamenti mentre continui il tuo viaggio verso un miglioramento del benessere.""
-8. ""Progressi emozionanti! Il tuo viaggio si sta evolvendo con l'aggiunta di nuovi esercizi prescritti dal tuo terapeuta. Continuate così!""
-9. ""Il tuo terapista è dedicato al tuo successo. Abbraccia i nuovi esercizi personalizzati per i tuoi progressi e, insieme, raggiungeremo i tuoi obiettivi.""
-10. ""La tua salute è una priorità e il tuo terapeuta è qui per supportarti. Esplora i nuovi esercizi di potenziamento prescritti solo per te.""
-11. ""Sei sulla strada per una migliore salute! Il tuo terapeuta ha prescritto nuovi esercizi: segui la loro guida e assisti all'impatto positivo.""
+5. ""Your health demands you to start the new protocols now - no exceptions!""","1. ""¡Noticias emocionantes! ¡Tu terapeuta ha adaptado nuevos ejercicios solo para ti!""
+2. ""Tu viaje está evolucionando: adopta estos nuevos ejercicios prescritos por tu terapeuta con confianza y determinación"".
+3. ""Tu terapeuta personalizó nuevos ejercicios para tu progreso: ¡abracemos este cambio positivo!""
+4. ""Tu salud es importante y tu terapeuta está aquí para guiarte a través de los nuevos ejercicios de empoderamiento. ¡Revíselos!""
+5. ""Te estás haciendo cargo de tu bienestar: ¡tu terapeuta te ha recetado nuevos ejercicios, empieza a entrenar con ellos!""
+6. ""Parece que tu terapeuta te ha prescrito algunos ejercicios nuevos, ¡vamos a verlos!""
+7. ""¡Felicidades! Tu terapeuta ha adaptado nuevos ejercicios solo para ti. Abraza estos cambios a medida que continúa tu viaje hacia el bienestar"".
+8. ""¡Emocionante progreso! Tu viaje está evolucionando con la adición de nuevos ejercicios prescritos por su terapeuta. ¡Sigue con el gran trabajo!""
+9. ""Tu terapeuta te ha prescrito nuevos ejercicios para tu éxito. Abraza los nuevos ejercicios personalizados para su progreso y alcanzaremos tus objetivos"".
+10. ""Tu salud es una prioridad, y tu terapeuta está aquí para apoyarte. Explora los nuevos ejercicios de empoderamiento prescritos solo para ti"".
+11. ""¡Estás en el camino para mejorar tu salud! Tu terapeuta ha prescrito nuevos ejercicios: sigue su guía y presencia el impacto positivo"".
+12. ""¡Buenas noticias! Tu terapeuta ha adaptado ejercicios específicos para ti. Aprovechemos esta oportunidad para progresar y lograr tus resultados deseados"".
+13. ""La experiencia de tu terapeuta está guiando tu viaje. Abraza los nuevos ejercicios prescritos para ti y disfruta de los cambios positivos por haber"".
+14. ""Tu compromiso con la superación personal es envidiable. Explora los nuevos ejercicios prescritos por tu terapeuta y hazte cargo de tu bienestar"".
+15. ""Tu terapeuta te ha prescrito nuevos ejercicios para lograr tu éxito. ¡Exploremos los nuevos ejercicios y trabajemos para mejorar tu salud y felicidad!""","1. ""Se han agregado nuevos ejercicios prescritos por tu terapeuta a tu cuenta de RGSapp"".
+2. ""Actualización de RGSapp: consulta los últimos ejercicios prescritos por tu terapeuta exclusivamente para ti"".
+3. ""Recordatorio: revisa los ejercicios recientemente añadidos por tu terapeuta en RGSapp"".
+4. ""Actualización de protocolos: tu cuenta ahora incluye nuevos ejercicios prescritos por tu terapeuta"".
+5. ""RGSapp se ha actualizado con nuevos ejercicios prescritos para ti por tu terapeuta"".
+6. ""Tu cuenta se ha actualizado con nuevos ejercicios prescritos por tu terapeuta"".
+7. ""Mantente actualizado con tu progreso: explora los ejercicios recientemente agregados por tu terapeuta en RGSapp"".
+8. ""Tu cuenta de RGSapp ahora incluye los últimos ejercicios prescritos por tu terapeuta específicamente para ti"".
+9. ""Manténte con motivación en tu viaje: revisa los nuevos ejercicios agregados recientemente a tu cuenta por tu terapeuta"".
+10. ""RGSapp se ha actualizado con nuevos ejercicios recetados por tu terapeuta solo para ti, "".
+11. ""Consulta los ejercicios recién agregados a tu cuenta, cuidadosamente recetados por tu terapeuta"".
+12. ""Tu cuenta de RGSapp se ha actualizado con ejercicios personalizados prescritos por tu terapeuta"".
+13. ""Echa un vistazo a los ejercicios actualizados en RGSapp, cuidadosamente prescritos por tu terapeuta"".
+14. ""Revisa los últimos ejercicios prescritos por tu terapeuta solo para ti en RGSapp"".
+15. ""Tu cuenta ahora incluye nuevos ejercicios cuidadosamente prescritos por tu terapeuta"".","1. ""Se requiere acción inmediata: ¡Realiza los protocolos recién prescritos para ti!""
+2. ""Descuidar los nuevos protocolos puede obstaculizar tu progreso, ¡Complétalos ahora!""
+3. ""Estos nuevos protocolos son importantes: ¡realízalos para obtener resultados óptimos!""
+4. ""No hay tiempo que perder: empieza a completar los nuevos protocolos de inmediato para mantenerte en el buen camino"".
+5. ""Tu salud te exige que comiences con los nuevos protocolos prescritos ahora, ¡no hay excusas!""","1. ""Notizie entusiasmanti! Il tuo terapista ha fatto su misura nuovi esercizi solo per te - questo è ciò che hai!""
+2. ""Il tuo viaggio si sta evolvendo - Abbraccia questi nuovi esercizi prescritti dal tuo terapista con fiducia e determinazione.""
+3. ""Il tuo terapista ha personalizzato nuovi esercizi per i tuoi progressi: intraprendiamo insieme questo cambiamento positivo!""
+4. ""La tua salute è importante e il tuo terapista è qui per guidarti attraverso i nuovi esercizi di potenziamento. Dai un'occhiata!""
+5. ""Stai prendendo in carica il tuo benessere - il tuo terapista ti ha prescritto nuovi esercizi, seguili e assisti a risultati sorprendenti!""
+6. ""Sembra che il tuo terapista ti abbia prescritto alcuni nuovi esercizi, diamo un'occhiata!""
+7. ""Congratulazioni! Il tuo terapista ha creato nuovi esercizi solo per te. Abbraccia questi cambiamenti mentre continui il tuo viaggio verso un miglioramento del benessere.""
+8. ""Progressi emozionanti! Il tuo viaggio si sta evolvendo con l'aggiunta di nuovi esercizi prescritti dal tuo terapista. Continua così!""
+9. ""Il tuo terapista si è dedicato al tuo successo. Abbraccia i nuovi esercizi personalizzati per i tuoi progressi e, insieme, raggiungeremo i tuoi obiettivi.""
+10. ""La tua salute è una priorità e il tuo terapista è qui per supportarti. Esplora i nuovi esercizi di potenziamento prescritti solo per te.""
+11. ""Sei sulla strada per una salute migliore! Il tuo terapista ti ha prescritto nuovi esercizi: segui la loro guida e assisti all'impatto positivo.""
 12. ""Grandi notizie! Il tuo terapista ha su misura per te esercizi specifici. Cogli l'occasione per progredire e raggiungere i risultati desiderati.""
-13. ""L'esperienza del tuo terapeuta sta guidando il tuo viaggio. Abbraccia i nuovi esercizi prescritti per te e goditi i cambiamenti positivi in ​​anticipo.""
+13. ""L'esperienza del tuo terapista sta guidando il tuo viaggio. Abbraccia i nuovi esercizi prescritti per te e goditi i cambiamenti positivi che ti attendono.""
 14. ""Il tuo impegno per l'auto-miglioramento è encomiabile. Esplora i nuovi esercizi prescritti dal tuo terapista e prendi in carico il tuo benessere.""
-15. ""Il tuo terapista è investito nel tuo successo. Insieme, esploriamo i nuovi esercizi e lavoriamo per un te più sano e più felice!""
+15. ""Il tuo terapista ha investito nel tuo successo. Insieme, esploriamo i nuovi esercizi e lavoriamo per un te più sano e felice!""
 
-","1. ""Nuovi esercizi prescritti dal tuo terapeuta sono stati aggiunti al tuo account.""
-2. ""Aggiornamento dell'app: controlla gli ultimi esercizi prescritti dal tuo terapeuta, esclusivamente per te.""
-3. ""Promemoria: rivedi gli esercizi recentemente prescritti dal tuo terapista nell'RGSAPP.""
+","1. ""Nuovi esercizi prescritti dal tuo terapista sono stati aggiunti al tuo account.""
+2. ""Aggiornamento della app: controlla gli ultimi esercizi prescritti dal tuo terapista, esclusivamente per te.""
+3. ""Promemoria: rivedi gli esercizi recentemente prescritti dal tuo terapista nella RGSAPP.""
 4. ""Aggiornamento del protocollo: il tuo account ora include nuovi esercizi prescritti dal tuo terapista.""
-5. ""Il tuo RGSAPP è stato aggiornato con nuovi esercizi prescritti dal tuo terapista.""
+5. ""La tua RGSAPP è stata aggiornata con nuovi esercizi prescritti dal tuo terapista.""
 6. ""Il tuo account è stato aggiornato con nuovi esercizi prescritti dal tuo terapista.""
-7. ""Rimani aggiornato con i tuoi progressi-Esplora gli esercizi recentemente aggiunti prescritti dal tuo terapista nel RGSAPP.""
-8. ""Il tuo RGSAPP ora include gli ultimi esercizi prescritti dal tuo terapeuta, in particolare per te.""
-9. ""Rimani proattivo nel tuo viaggio - Rivedi i nuovi esercizi recentemente aggiunti al tuo account, come prescritto dal tuo terapeuta.""
-10. ""Il tuo RGSAPP è stato rinfrescato con nuovi esercizi su misura solo per te, prescritto dal tuo terapista.""
+7. ""Rimani aggiornato con i tuoi progressi - esplora gli esercizi aggiunti di recente prescritti dal tuo terapista nella RGSAPP.""
+8. ""La tua RGSAPP ora include gli ultimi esercizi prescritti dal tuo terapista, appositamente per te.""
+9. ""Rimani proattivo nel tuo viaggio - rivedi i nuovi esercizi aggiunti di recente al tuo account, come prescritto dal tuo terapista.""
+10. ""La tua RGSAPP è stata aggiornata con nuovi esercizi su misura per te, prescritti dal tuo terapista.""
 11. ""Dai un'occhiata agli esercizi appena aggiunti nel tuo account, prescritti con cura dal tuo terapista.""
-12. ""Il tuo RGSAPP è stato aggiornato con esercizi personalizzati prescritti dal tuo terapista.""
+12. ""La tua RGSAPP è stata aggiornata con esercizi personalizzati prescritti dal tuo terapista.""
 13. ""Esplora gli esercizi aggiornati ora disponibili su RGSAPP, prescritti con cura dal tuo terapista.""
-14. ""Rivedi gli ultimi esercizi prescritti solo per te nel RGSAPP dal tuo terapista.""
-15. ""Il tuo account ora include nuovi esercizi per il tuo successo, prescritto con cura dal tuo terapeuta.""
+14. ""Rivedi gli ultimi esercizi prescritti solo per te nella RGSAPP dal tuo terapista.""
+15. ""Il tuo account ora include nuovi esercizi per il tuo successo, prescritti con cura dal tuo terapista.""
 
-","1. ""Azione immediata richiesta: seguire senza ritardo i protocolli appena prescritti!""
+","1. ""Azione immediata richiesta: seguire senza indugio i nuovi protocolli prescritti!""
 2. ""Trascurare i nuovi protocolli può ostacolare i tuoi progressi - implementali ora!""
-3. ""Questi nuovi protocolli sono cruciali: aderiscono a loro per risultati ottimali!""
-4. ""Non c'è tempo da sprecare: inizia a seguire immediatamente i nuovi protocolli per rimanere in pista.""
+3. ""Questi nuovi protocolli sono cruciali: aderisci ad essi per risultati ottimali!""
+4. ""Non c'è tempo da perdere: inizia a seguire immediatamente i nuovi protocolli per rimanere in pista.""
 5. ""La tua salute ti richiede di iniziare ora i nuovi protocolli - nessuna eccezione!""","1. ""Spannend nieuws! Je therapeut heeft voor jou nieuwe oefeningen op maat gemaakt - je kan het!""
 2. ""Je training breidt uit - omarm de nieuwe oefeningen die je therapeut met vertrouwen en vastberadenheid hebben voorgeschreven.""
 3. ""Je therapeut heeft nieuwe oefeningen klaargezet voor je vooruitgang - laten we samen aan deze positieve verandering beginnen!""
@@ -1658,11 +1648,11 @@ protocol_reminder,"1. ""Exciting news! your therapist has tailored new exercises
 14. ""Bekijk de nieuwste oefeningen die door jouw therapeut zijn voorgeschreven in de RGSApp.""
 15. ""Je account bevat nu nieuwe oefeningen voor jouw succes, zorgvuldig voorgeschreven door je therapeut.""
 
-","1. ""Onmiddellijke actie vereist: volg de nieuw voorgeschreven protocollen zonder vertraging!""
-2. ""Het verwaarlozen van de nieuwe protocollen kan uw voortgang belemmeren - implementeer ze nu!""
-3. ""Deze nieuwe protocollen zijn cruciaal - houden zich aan hen voor optimale resultaten!""
-4. ""Geen tijd om te verspillen: begin onmiddellijk de nieuwe protocollen te volgen om op koers te blijven.""
-5. ""Uw gezondheid vereist u om nu de nieuwe protocollen te starten - geen uitzonderingen!""","1. ""Notícies emocionants! El vostre terapeuta ha adaptat nous exercicis només per a vosaltres, ho teniu!""
+","1. ""Onmiddellijke actie vereist: volg de nieuw voorgeschreven spellen!""
+2. ""Het verwaarlozen van de nieuwe spellen kan jouw vooruitgang belemmeren - probeer ze nu!""
+3. ""Deze nieuwe spellen zijn cruciaal - houd je aan het advies voor optimale resultaten!""
+4. ""Geen tijd te verspillen: begin onmiddellijk met de nieuwe spellen om op koers te blijven.""
+5. ""Voor je gezondheid is het belangrijk om nu met de nieuwe spellen te starten - geen uitzonderingen!""","1. ""Notícies emocionants! El vostre terapeuta ha adaptat nous exercicis només per a vosaltres, ho teniu!""
 2. ""El vostre viatge està evolucionant: adopteu aquests nous exercicis prescrits pel vostre terapeuta amb confiança i determinació.""
 3. ""El vostre terapeuta va personalitzar nous exercicis per al vostre progrés: ens endinsem en aquest canvi positiu junts!""
 4. ""La vostra salut és important i el vostre terapeuta està aquí per guiar -vos a través dels nous exercicis empoderadors. Comproveu -los!""
@@ -1807,7 +1797,7 @@ protocol_reminder,"1. ""Exciting news! your therapist has tailored new exercises
 3. ""Ці нові протоколи мають вирішальне значення - дотримуйтесь їх для оптимальних результатів!""
 4. ""Немає часу на витрачання: Почніть дотримуватися нових протоколів негайно, щоб залишатися на шляху"".
 5. ""Ваше здоров'я вимагає від вас розпочати нові протоколи зараз - без винятків!"""
-mid_session_reminder,"1. ""Take your time, I understand - you still have one hour to train in preferred time window.""
+,mid_session_reminder,"1. ""Take your time, I understand - you still have one hour to train in preferred time window.""
 2. ""Let's go, there's still time to do your session - I believe in you!""
 3. ""You are doing amazing, you have the opportunity to do your session within the given time.""
 4. ""Remember, progress is a journey - take a breath and complete your session within the decided time frame.""
@@ -1834,61 +1824,61 @@ mid_session_reminder,"1. ""Take your time, I understand - you still have one hou
 2. ""Action required: Your session is pending, don't delay any longer!""
 3. ""URGENT: Your session should have started by now - don't miss this chance!""
 4. ""Your session deadline is approaching - make a move before it's too late!""
-5. ""Last call to do your session within the decided time frame - don't let it slip away!""","1. ""Tómese su tiempo, entiendo, todavía tiene una hora para entrenar en la ventana de tiempo preferida"".
-2. ""Vamos, todavía hay tiempo para hacer tu sesión, ¡creo en ti!""
-3. ""Lo estás haciendo increíble, tienes la oportunidad de hacer tu sesión dentro del tiempo dado"".
-4. ""Recuerde, el progreso es un viaje: respire y complete su sesión dentro del período de tiempo decidido"".
-5. ""¡Tienes esto! ¡Todavía hay una ventana para completar tu sesión, ¡estoy aquí para apoyarte!""
-6. ""¡Tienes esto!, Todavía tienes una hora para entrenar en la ventana de tiempo preferida"".
-7. ""No es necesario apresurarse: todavía le queda una hora para completar su sesión en la ventana de tiempo preferida"".
-8. ""¡Sigue adelante! Todavía hay tiempo para hacer tu sesión dentro del período de tiempo dado"".
-9. ""¡Lo estás haciendo muy bien! Tienes la oportunidad de completar tu sesión dentro del tiempo designado"".
-10. ""Manténgase enfocado y tómese su tiempo: recuerde, tiene la oportunidad de hacer su sesión dentro del tiempo asignado"".
-11. ""¡Estás progresando! Todavía hay tiempo para completar tu sesión, ¡tienes esto!""
-12. ""A la izquierda una hora: aproveche la oportunidad de hacer su sesión dentro de su ventana de tiempo preferida"".
-13. ""Manténgase motivado: todavía tiene tiempo para entrenar dentro del período de tiempo dado"".
-14. ""Estás en camino: aprovecha la hora restante para completar tu sesión"".
-15. ""¡Cree en ti mismo! Tienes una hora más para entrenar en tu ventana de tiempo preferida"".","1. ""Tienes una hora restante en la ventana de tu sesión de entrenamiento"".
-2. ""Recordatorio, todavía queda una hora en su ventana de entrenamiento"".
-3. ""Su sesión de entrenamiento actual terminará en una hora"".
-4. ""Una hora restante antes de que se cierre la ventana de entrenamiento"".
-5. ""La ventana de entrenamiento está a punto de cerrar en una hora"".
-6. ""Solo un aviso, tienes una hora más para tu sesión de entrenamiento"".
-7. ""No olvides, tu ventana de entrenamiento terminará en una hora"".
-8. ""Todavía tiene una hora para completar su sesión para hoy dentro de la ventana de capacitación"".
-9. ""Estás en la última hora de tu ventana de entrenamiento para hoy"".
-10. ""La sesión de entrenamiento concluirá en una hora"".","1. ""El tiempo está marcando: ¡complete su sesión ahora, se está quedando sin tiempo!""
-2. ""Se requiere acción: su sesión está pendiente, ¡no se demore más!""
-3. ""Urgente: su sesión debería haber comenzado ahora, ¡no se pierda esta oportunidad!""
-4. ""Se acerca la fecha límite de su sesión: ¡haga un movimiento antes de que sea demasiado tarde!""
-5. ""Última llamada para hacer su sesión dentro del período de tiempo decidido: ¡no dejes que se escape!""","1. ""Prenditi il ​​tuo tempo, ho capito: hai ancora un'ora per allenarti nella finestra temporale preferita.""
+5. ""Last call to do your session within the decided time frame - don't let it slip away!""","1. ""Tómate tu tiempo, aún tienes una hora para entrenar durante el período de tiempo que seleccionaste para hacer los entrenamientos"".
+2. ""Vamos, todavía hay tiempo para hacer tu sesión, ¡Creo en ti!""
+3. ""Lo estás haciendo muy bien, aún tienes la oportunidad de hacer tu sesión dentro del tiempo previsto"".
+4. ""Recuerda, el progreso es un viaje: respira y completa tu sesión dentro del período de tiempo previsto"".
+5. ""¡Casi lo tienes! ¡Todavía estamos en el período de tiempo para completar tu sesión, ¡estoy aquí para apoyarte!""
+6. ""¡Casi lo tienes!, Todavía tienes una hora para entrenar durante el período de tiempo previsto"".
+7. ""No es necesario apresurarse: todavía te queda una hora para completar tu sesión en el período de tiempo previsto"".
+8. ""¡Sigue así! Todavía hay tiempo para hacer tu sesión dentro del período de tiempo asignado"".
+9. ""¡Lo estás haciendo muy bien! Aún tienes la oportunidad de completar tu sesión dentro del tiempo asignado"".
+10. ""Mantente concentrado y tómate tu tiempo: recuerda, tienes la oportunidad de hacer tu sesión dentro del tiempo asignado"".
+11. ""¡Estás progresando! Todavía hay tiempo para completar tu sesión, ¡casi lo tienes!""
+12. ""Falta una hora: aprovecha la oportunidad de hacer tu sesión dentro del tiempo previsto"".
+13. ""Mantente motivado: todavía tienes tiempo para entrenar dentro del período de tiempo asignado"".
+14. ""Estás en el buen camino: aprovecha la hora restante para completar tu sesión"".
+15. ""¡Cree en ti! Tienes una hora más para entrenar en tu período de tiempo preferido"".","1. ""Queda una hora para entrenar durante tu horario previsto"".
+2. ""Recordatorio: todavía queda una hora para que entrenes en tu horario previsto"".
+3. ""Tu sesión de entrenamiento actual terminará en una hora"".
+4. ""Falta una hora para que termine tu horario de entrenamiento previsto"".
+5. ""Tu horario de entrenamiento previsto finalizará en una hora"".
+6. ""Aviso: tienes una hora más para realizar tu sesión de entrenamiento"".
+7. ""No olvides que tu horario de entrenamiento previsto terminará en una hora"".
+8. ""Todavía tienes una hora para completar la sesión de hoy dentro de tu horario previsto"".
+9. ""Estás en la última hora de tu horario de entrenamiento previsto"".
+10. ""Tu horario de entrenamiento previsto concluirá en una hora"".","1. ""El tiempo pasa: ¡completa tu sesión de rehabilitación ahora, te estás quedando sin tiempo!""
+2. ""Acción requerida: tu sesión está pendiente de realizarse, ¡no esperes más!""
+3. ""Urgente: tu sesión debería haber empezado ya, ¡no pierdas esta oportunidad!""
+4. ""Se acerca la hora límite para realizar tu sesión: ¡Entra en RGSapp antes de que sea demasiado tarde!""
+5. ""Última llamada para hacer tu sesión dentro del intervalo de tiempo previsto: ¡no dejes que se escape!""","1. ""Prenditi il ​​tuo tempo, capisco: hai ancora un'ora per allenarti nella tua finestra temporale preferita.""
 2. ""Andiamo, c'è ancora tempo per fare la tua sessione - credo in te!""
-3. ""Stai andando sorprendente, hai l'opportunità di fare la tua sessione entro il tempo determinato.""
-4. ""Ricorda, il progresso è un viaggio: fai un respiro e completa la sessione entro il periodo di tempo deciso.""
-5. ""Hai questo! C'è ancora una finestra per completare la tua sessione - Sono qui per supportarti!""
-6. ""Hai questo!, Hai ancora un'ora per allenarti nella finestra temporale preferita.""
-7. ""Non c'è bisogno di affrettarsi, ti resta ancora un'ora per completare la sessione nella finestra temporale preferita.""
-8. ""Continua! C'è ancora tempo per fare la tua sessione entro il periodo di tempo indicato.""
-9. ""Stai andando alla grande! Hai l'opportunità di completare la sessione entro il tempo designato.""
+3. ""Stai andando benissimo, hai l'opportunità di fare la tua sessione entro il tempo stabilito.""
+4. ""Ricorda, il progresso è un viaggio: fai un respiro e completa la sessione entro il periodo di tempo stabilito.""
+5. ""Questo è ciò che hai! C'è ancora una finestra per completare la tua sessione - sono qui per supportarti!""
+6. ""Questo è ciò che hai! Hai ancora un'ora per allenarti nella tua finestra temporale preferita.""
+7. ""Non c'è bisogno di affrettarsi, ti resta ancora un'ora per completare la sessione nella tua finestra temporale preferita.""
+8. ""Continua così! C'è ancora tempo per fare la tua sessione entro il lasso di tempo stabilito.""
+9. ""Stai andando alla grande! Hai l'opportunità di completare la tu sessione entro il tempo designato.""
 10. ""Rimani concentrato e prenditi il ​​tuo tempo - ricorda, hai la possibilità di fare la tua sessione entro il tempo assegnato.""
-11. ""Stai facendo progressi! C'è ancora tempo per completare la tua sessione - hai questo!""
-12. ""Un'ora rimasta: cogli l'opportunità di fare la sessione nella finestra temporale preferita.""
-13. ""Rimani motivato: hai ancora il tempo di allenarti entro il periodo di tempo dato.""
-14. ""Sei sulla buona strada - Approfitta dell'ora rimanente per completare la sessione.""
-15. ""Credi in te stesso! Hai un'altra ora per allenarti nella finestra temporale preferita.""","1. ""Hai un'ora rimanente nella finestra della sessione di allenamento.""
-2. ""Promemoria, è rimasta ancora un'ora nella finestra di allenamento.""
+11. ""Stai facendo progressi! C'è ancora tempo per completare la tua sessione - questo è ciò che hai!""
+12. ""Un'ora rimasta: cogli l'opportunità di fare la tua sessione entro la tua finestra temporale preferita.""
+13. ""Rimani motivato: hai ancora tempo di allenarti entro il periodo di tempo stabilito.""
+14. ""Sei sulla buona strada - Approfitta dell'ora che resta per completare la tua sessione.""
+15. ""Credi in te stesso! Hai un'altra ora per allenarti nella tua finestra temporale preferita.""","1. ""Hai ancora un'ora nella tua finestra di sessione di allenamento.""
+2. ""Promemoria: è rimasta ancora un'ora nella tua finestra di allenamento.""
 3. ""La tua attuale sessione di allenamento finirà tra un'ora.""
-4. ""Un'ora rimasta prima della chiusura della finestra di allenamento.""
-5. ""La finestra di allenamento sta per chiudere in un'ora.""
+4. ""Ancora un'ora prima della chiusura della finestra di allenamento.""
+5. ""La finestra di allenamento sta per chiudersi tra un'ora.""
 6. ""Solo un avvertimento, hai un'altra ora per la tua sessione di allenamento.""
 7. ""Non dimenticare, la finestra di allenamento finirà tra un'ora.""
-8. ""Hai ancora un'ora per completare la sessione per oggi all'interno della finestra di allenamento.""
+8. ""Hai ancora un'ora per completare la sessione di oggi all'interno della finestra di allenamento.""
 9. ""Sei nell'ultima ora della finestra di allenamento per oggi.""
-10. ""La sessione di allenamento si concluderà tra un'ora.""","1. ""Il tempo è ticchettio: completa la tua sessione ora, stai esaurendo il tempo!""
-2. ""Azione richiesta: la sessione è in sospeso, non ritardare più!""
+10. ""La sessione di allenamento si concluderà tra un'ora.""","1. ""Il tempo stringe: completa la tua sessione ora, stai esaurendo il tempo!""
+2. ""Azione richiesta: la tua sessione è in sospeso, non ritardare oltre!""
 3. ""Urgente: la tua sessione avrebbe dovuto iniziare ormai - non perdere questa possibilità!""
 4. ""La scadenza della sessione si sta avvicinando: fai una mossa prima che sia troppo tardi!""
-5. ""Ultima chiamata a fare la sessione entro il periodo di tempo deciso: non lasciarla scivolare via!""","1. ""Neem de tijd, ik begrijp het - je hebt nog een uur om te trainen in je favoriete tijdslot.""
+5. ""Ultima chiamata per fare la tua sessione entro il periodo di tempo deciso: non lasciarla scivolare via!""","1. ""Neem de tijd, ik begrijp het - je hebt nog een uur om te trainen in je favoriete tijdslot.""
 2. ""Laten we beginnen, er is nog tijd om je sessie te doen - ik geloof in je!""
 3. ""Je doet het geweldig, je hebt de kans om je sessie binnen de gegeven tijd te doen.""
 4. ""Vergeet niet dat vooruitgang een reis is - adem diep in en voltooi uw sessie binnen je favoriete tijdslot.""
@@ -1911,11 +1901,11 @@ mid_session_reminder,"1. ""Take your time, I understand - you still have one hou
 7. ""Vergeet niet dat je tijdslot om te trainen over een uur eindigt.""
 8. ""Je hebt nog een uur om je sessie van vandaag te voltooien in het tijdslot.""
 9. ""Het laatste uur om te trainen in je tijdslot is aangekomen.""
-10. ""De trainingssessie wordt over één uur afgesloten.""","1. ""Tijd is tikken - voltooi je sessie nu, je hebt geen tijd meer!""
-2. ""Actie vereist: uw sessie is in afwachting, stel niet langer uit!""
-3. ""Dringend: uw sessie had nu moeten beginnen - mis deze kans niet!""
-4. ""Uw sessiedeadline nadert - maak een beweging voordat het te laat is!""
-5. ""Laatste oproep om uw sessie te doen binnen het besliste tijdsbestek - laat het niet wegglippen!""","1. ""Preneu -vos el temps, ho entenc: encara teniu una hora per entrenar a la finestra de temps preferit"".
+10. ""De trainingssessie wordt over één uur afgesloten.""","1. ""De tijd tikt door - voltooi je sessie nu, je hebt geen tijd meer!""
+2. ""Actie vereist: je sessie staat klaar, stel het niet langer uit!""
+3. ""Dringend: je sessie had nu moeten beginnen - mis deze kans niet!""
+4. ""Je sessiedeadline nadert - start voordat het te laat is!""
+5. ""Laatste oproep om je sessie te doen binnen het gekozen tijdslot - laat het niet voorbij gaan!""","1. ""Preneu -vos el temps, ho entenc: encara teniu una hora per entrenar a la finestra de temps preferit"".
 2. ""Anem, encara hi ha temps per fer la vostra sessió: crec en tu!""
 3. ""Esteu fent increïbles, teniu l'oportunitat de fer la vostra sessió en el temps donat"".
 4. ""Recordeu, el progrés és un viatge: respireu i completeu la sessió dins del termini decidit"".
@@ -2024,7 +2014,7 @@ mid_session_reminder,"1. ""Take your time, I understand - you still have one hou
 3
 4. ""Кінцевий термін сеансу наближається - зробіть крок, перш ніж пізно!""
 5. ""Останній дзвінок зробити сеанс у вирішенні часові рамки - не дозволяйте йому ковзати!"""
-change_slot_reminder,"1. ""I noticed your dedication - would you like to adjust the time slot to better suit your schedule?""
+,Patient does repeated sessions outside the time slot they commited to (ask if they'd like to change the decided time),"1. ""I noticed your dedication - would you like to adjust the time slot to better suit your schedule?""
 2. ""Your commitment is admirable - consider changing the time slot to make it more convenient for you.""
 3. ""I appreciate your effort - let's discuss if a new time slot works better for your repeated sessions.""
 4. ""Your consistency is commendable - if needed, we can explore a different time slot together.""
@@ -2043,56 +2033,78 @@ change_slot_reminder,"1. ""I noticed your dedication - would you like to adjust 
 3. ""Reminder: Sessions have been completed outside the decided time slot. Feel free to assess the dedicated time.""
 4. ""Sessions have occurred at different times than initially committed. You can always revisit the dedicated time.""
 5. ""Your sessions have been observed outside the originally scheduled time slot. Let me know if you want to reevaluate the dedicated time.""
-","1. ""Consistency is key - please adhere to the committed time slot for your sessions or change it now!""
+
+OR A BIT SHORTER OPTIONS: 
+
+1. ""Repeated sessions outside the committed time slot. Review dedicated time?""
+2. ""Sessions at varying times. Consider changing dedicated time.""
+3. ""Reminder: Sessions not within decided time slot. Reevaluate dedicated time?""
+4. ""Sessions differed from committed time. Revisit dedicated time?""
+5. ""Patient sessions observed outside original slot. Want to change dedicated time?""","1. ""Consistency is key - please adhere to the committed time slot for your sessions or change it now!""
 2. ""Your repeated sessions outside the committed time slot need immediate attention - consider a change!""
 3. ""Urgent: Stick to the decided time slot or modify it promptly for consistent progress!""
 4. ""Your consecutive sessions are off-track - act now to reset the dedicated time!""
-5. ""Time for a change: Consecutive sessions outside the committed time slot demand your action!""","1. ""Noté su dedicación, ¿le gustaría ajustar la intervalencia de tiempo para adaptarse mejor a su horario?""
-2. ""Su compromiso es admirable: considere cambiar la ranura de tiempo para que sea más conveniente para usted"".
-3. ""Aprecio su esfuerzo: discutamos si una nueva ranura de tiempo funciona mejor para sus sesiones repetidas"".
-4. ""Su consistencia es encomiable: si es necesario, podemos explorar un horario diferente juntos"".
-5. ""¡Lo estás haciendo muy bien! Avísame si quieres modificar la ranura de tiempo para acomodar tus sesiones repetidas"".
-6. ""Su dedicación es evidente: si lo prefiere, podemos discutir el cambio de tiempo para adaptarse mejor a su horario"".
-7. ""Estoy impresionado con su compromiso: siéntase libre de considerar ajustar la intervalo de tiempo para una experiencia más conveniente"".
-8. ""Sus esfuerzos se valoran: exploremos si una nueva ranura de tiempo funciona mejor para sus sesiones recurrentes"".
-9. ""Su consistencia es notable: si lo encuentra beneficioso, podemos buscar en una ranura de tiempo diferente"".
-10. ""¡Sigan con el trabajo fantástico! Si lo desea, podemos discutir la modificación de la intervalencia de tiempo para adaptarse mejor a sus necesidades"".
-11. ""Su compromiso es encomiable: no dude en informarme si sería útil ajustar la ranura de tiempo"".
-12. ""Su dedicación al progreso es inspiradora: considere cambiar la ranura de tiempo si mejora su experiencia general"".
-13. ""Estás haciendo un excelente trabajo: estoy aquí para ayudarte a encontrar el horario perfecto para tus sesiones repetidas"".
-14. ""Su consistencia está dando sus frutos: si lo desea, podemos explorar una ranura de tiempo diferente para maximizar su éxito"".
-15. ""Se reconocen sus esfuerzos: trabajemos juntos para encontrar un horario que se alinee mejor con sus preferencias"".","1. ""Sesiones repetidas registradas fuera de la ranura de tiempo comprometida. ¿Le gustaría revisar el tiempo dedicado?""
-2. ""Se han realizado sesiones repetidas en diferentes momentos. Considere revisar el tiempo dedicado si es necesario"".
-3. ""Recordatorio: las sesiones se han completado fuera del espacio de tiempo decidido. Siéntase libre de evaluar el tiempo dedicado"".
-4. ""Las sesiones han ocurrido en diferentes momentos de lo que inicialmente cometido. Siempre puede volver a visitar el tiempo dedicado"".
-5. ""Sus sesiones se han observado fuera de la ranura de tiempo programada originalmente. Avíseme si desea reevaluar el tiempo dedicado"".
-","1. ""La consistencia es clave: ¡adhiérase a la ranura de tiempo comprometida para sus sesiones o cámbielo ahora!""
-2. ""Sus sesiones repetidas fuera de la ranura de tiempo comprometida necesitan atención inmediata, ¡considere un cambio!""
-3. ""Urgente: ¡quédese con la intervalo de tiempo decidido o modifíquelo de inmediato para un progreso consistente!""
-4. ""Tus sesiones consecutivas están fuera de casa, ¡actúe ahora para restablecer el tiempo dedicado!""
-5. ""Tiempo para un cambio: sesiones consecutivas fuera de la ranura de tiempo comprometida exige su acción!""","1. ""Ho notato la tua dedizione: vorresti regolare la fascia oraria per adattarsi meglio al tuo programma?""
-2. ""Il tuo impegno è ammirevole: considera di cambiare la fascia oraria per renderlo più conveniente per te.""
-3. ""Apprezzo il tuo sforzo: discutiamo se una nuova fascia oraria funziona meglio per le tue sessioni ripetute.""
+5. ""Time for a change: Consecutive sessions outside the committed time slot demand your action!""","1. ""Se nota tu dedicación, ¿te gustaría ajustar la franja horaria de entrenamiento para que se adapte mejor a tu horario?""
+2. ""Tu compromiso es admirable: considera cambiar la franja horaria de entrenamiento para que sea más conveniente para ti"".
+3. ""Se nota tu esfuerzo: discutamos si una nueva franja horaria de entrenamiento podría ser mejor"".
+4. ""Tu consistencia es envidiable: si es necesario, podemos explorar un horario diferente para el entrenamiento"".
+5. ""¡Lo estás haciendo muy bien! Avísame si quieres modificar la franja horaria para realizar tus sesiones de entrenamiento"".
+6. ""Tu dedicación es evidente: si lo prefieres, podemos discutir el cambio de la franja horaria para que se adapte mejor a tu horario"".
+7. ""Estoy impresionada con tu compromiso: siéntate libre de ajustar la franja horaria para entrenar y tener una mejor experiencia"".
+8. ""Tus esfuerzos se valoran: exploremos si una nueva franja horaria funciona mejor para realizar las sesiones de entrenamiento"".
+9. ""Tu consistencia es notable: si lo encuentras beneficioso, podemos buscar una nueva franja horaria para entrenar"".
+10. ""¡Sigue con el trabajo! Si lo deseas, podemos modificar la franja horaria del entrenamiento para que se adapte mejor a tus necesidades"".
+11. ""Tu compromiso es envidiable: no dudes en cambiar la franja horaria del entrenamiento si crees que puede ser más útil"".
+12. ""Tu dedicación al progreso de rehabilitación es inspiradora: considera cambiar la franja horaria del entrenamiento si eso tiene que mejorar tu experiencia general"".
+13. ""Estás haciendo un excelente trabajo: estoy aquí para ayudarte a encontrar el horario perfecto para tus sesiones de entrenamiento"".
+14. ""Tu consistencia está dando frutos: si lo deseas, podemos explorar un nuevo horario diferente para maximizar tu éxito"".
+15. ""Se reconocen tus esfuerzos: trabajemos para encontrar un horario que se alinee mejor con tus preferencias"".","1. ""Has realizado varias sesiones fuera de tu horario de entrenamiento previsto. ¿Te gustaría cambiar el horario?""
+2. ""Has realizado sesiones de entrenamiento en distintos momentos del día. Considera revisar tu horario de entrenamiento"".
+3. ""Aviso: algunas sesiones se han completado fuera del horario de entrenamiento previsto. Puedes cambiar tu horario si lo necesitas"".
+4. ""Algunas sesiones se han realizado fuera del horario en el que te comprometiste. Recuerda que puedes cambiar tu horario de entrenamiento"".
+5. ""Algunas de tus sesiones se han realizado fuera del horario previsto originalmente. Si lo deseas, puedes cambiar tu horario de entrenamiento"".
+
+U opciones un poco más cortas:
+
+1. ""Sesiones realizadas fuera del horario previsto. ¿Quieres revisar tu horario de entrenamiento?""
+2. ""Sesiones realizadas en diferentes momentos del día. Considera cambiar tu horario de entrenamiento"".
+3. ""Aviso: sesiones realizadas fuera del horario previsto. ¿Quieres cambiar tu horario de entrenamiento?""
+4. ""Hay sesiones de entrenamiento realizadas fuera del horario previsto. ¿Quieres revisar tu horario?""
+5. ""Hay algunas sesiones realizadas fuera del horario. ¿Quieres cambiar tu horario de entrenamiento?""","1. ""La perseverancia es clave: ¡realiza las sesiones de entrenamiento en el intervalo de tiempo previsto o cambia la configuración del intervalo de tiempo ahora!""
+2. ""Hay sesiones repetidas fuera del intervalo de tiempo previsto, ¡considera un cambio!""
+3. ""Urgente: ¡Realiza el entrenamiento en el intervalo de tiempo previsto o modifícalo de inmediato para un progreso consistente!""
+4. ""Tus sesiones consecutivas están fuera del intervalo de tiempo previsto, ¡Cambia la franja horaria para realizar tus sesiones!""
+5. ""Haz un cambio: hay varias sesiones fuera de la franja horaria prevista. ¿Deseas cambiar el intervalo de tiempo para realizar las sesiones?""","1. ""Ho notato la tua dedizione: vorresti regolare la fascia oraria per adattarla meglio al tuo programma?""
+2. ""Il tuo impegno è ammirevole: considera di cambiare la fascia oraria per renderla più conveniente per te.""
+3. ""Apprezzo il tuo sforzo: discutiamo se un'altra fascia oraria funziona meglio per le tue sessioni ripetute.""
 4. ""La tua coerenza è encomiabile - se necessario, possiamo esplorare insieme una fascia oraria diversa.""
-5. ""Stai andando alla grande! Fammi sapere se desideri modificare la fascia oraria per accogliere le tue sessioni ripetute.""
-6. ""La tua dedizione è evidente - Se preferisci, possiamo discutere di cambiare la fascia oraria per adattarsi meglio al tuo programma.""
+5. ""Stai andando alla grande! Fammi sapere se desideri modificare la fascia oraria per adattarla alle tue sessioni ripetute.""
+6. ""La tua dedizione è evidente - se preferisci, possiamo discutere di cambiare la fascia oraria per adattarla meglio al tuo programma.""
 7. ""Sono colpito dal tuo impegno: non esitare a considerare di regolare la fascia oraria per un'esperienza più conveniente.""
 8. ""I tuoi sforzi sono apprezzati: esploriamo se una nuova fascia oraria funziona meglio per le tue sessioni ricorrenti.""
-9. ""La tua coerenza è notevole: se la trovi benefica, possiamo esaminare insieme una fascia oraria diversa.""
-10. ""Continua il lavoro fantastico! Se lo desideri, possiamo discutere di modificare la fascia oraria per soddisfare meglio le tue esigenze.""
-11. ""Il tuo impegno è encomiabile: non esitare a farmi sapere se l'adattamento della fascia oraria sarebbe utile.""
+9. ""La tua coerenza è notevole: se lo trovi utile, possiamo esaminare insieme una fascia oraria diversa.""
+10. ""Continua il tuo fantastico lavoro! Se lo desideri, possiamo discutere di modificare la fascia oraria per soddisfare meglio le tue esigenze.""
+11. ""Il tuo impegno è encomiabile: non esitare a farmi sapere se la modifica della fascia oraria sarebbe utile per te.""
 12. ""La tua dedizione al progresso è stimolante: considera di cambiare la fascia oraria se migliora la tua esperienza complessiva.""
 13. ""Stai facendo un ottimo lavoro - Sono qui per aiutarti a trovare la fascia oraria perfetta per le tue sessioni ripetute.""
-14. ""La tua coerenza sta ripagando - se lo desideri, possiamo esplorare una fascia oraria diversa per massimizzare il tuo successo.""
+14. ""La tua coerenza ti sta ripagando - se lo desideri, possiamo esplorare una fascia oraria diversa per massimizzare il tuo successo.""
 15. ""I tuoi sforzi sono riconosciuti: lavoriamo insieme per trovare una fascia oraria che si allinea meglio con le tue preferenze.""","1. ""Sessioni ripetute registrate al di fuori della fascia oraria impegnata. Vorresti rivedere il tempo dedicato?""
-2. ""Sessioni ripetute sono state condotte in tempi diversi. Prendi in considerazione la revisione del tempo dedicato se necessario.""
+2. ""Sessioni ripetute sono state condotte in tempi diversi. Prendi in considerazione la revisione del tempo dedicato, se necessario.""
 3. ""Promemoria: le sessioni sono state completate al di fuori della fascia oraria decisa. Sentiti libero di valutare il tempo dedicato.""
-4. ""Le sessioni si sono verificate in momenti diversi da quelli inizialmente impegnati. È sempre possibile rivisitare il tempo dedicato.""
-5. ""Le tue sessioni sono state osservate al di fuori della fascia oraria originariamente programmata. Fammi sapere se vuoi rivalutare il tempo dedicato.""","1. ""La coerenza è la chiave: aderire alla fascia oraria impegnata per le tue sessioni o cambiala ora!""
+4. ""Le sessioni si sono verificate in momenti diversi da quelli inizialmente impegnati. Puoi sempre rivedere il tempo dedicato.""
+5. ""Le tue sessioni sono state osservate al di fuori della fascia oraria originariamente programmata. Fammi sapere se vuoi rivalutare il tempo dedicato.""
+
+O opzioni un po 'più brevi:
+
+1. ""Sessioni ripetute al di fuori della fascia oraria impegnata. Revisione del tempo dedicato?""
+2. ""Sessioni in tempi diversi. Prendi in considerazione la modifica del tempo dedicato.""
+3. ""Promemoria: sessioni non all'interno della fascia oraria decisa. Rivalutare il tempo dedicato?""
+4. ""Le sessioni differivano dal tempo impegnato. Rivedere il tempo dedicato?""
+5. ""Sessioni di pazienti osservate al di fuori dello slot originale. Vuoi cambiare il tempo dedicato?""","1. ""La coerenza è la chiave: si prega di aderire alla fascia oraria impegnata per le tue sessioni o di cambiarla ora!""
 2. ""Le tue sessioni ripetute al di fuori della fascia oraria impegnata necessitano di attenzione immediata: considera un cambiamento!""
-3. ""Urgente: attenersi alla fascia oraria decisa o modificarlo prontamente per progressi coerenti!""
-4. ""Le tue sessioni consecutive sono fuori bordo - agisci ora per ripristinare il tempo dedicato!""
-5. ""Tempo per una modifica: sessioni consecutive al di fuori della fascia oraria impegnata richiedono la tua azione!""","1. ""Ik heb je toewijding opgemerkt - wil je het tijdslot aanpassen zodat het beter bij je dagelijkse routine past?""
+3. ""Urgente: attenersi alla fascia oraria decisa o modificarla prontamente per progressi coerenti!""
+4. ""Le tue sessioni consecutive sono fuori pista - agisci ora per ripristinare il tempo dedicato!""
+5. ""È ora di cambiare: sessioni consecutive al di fuori della fascia oraria impegnata richiedono la tua azione!""","1. ""Ik heb je toewijding opgemerkt - wil je het tijdslot aanpassen zodat het beter bij je dagelijkse routine past?""
 2. ""Je toewijding is bewonderenswaardig - overweeg om het tijdslot te wijzigen zodat het voor jou gemakkelijker is.""
 3. ""Ik waardeer je inspanningen - laten we bespreken of een nieuw tijdslot beter werkt voor je standaard sessies.""
 4. ""Je consistentie is lovenswaardig - indien nodig kunnen we samen een ander tijdslot verkennen.""
@@ -2110,11 +2122,19 @@ change_slot_reminder,"1. ""I noticed your dedication - would you like to adjust 
 2. ""Er zijn dagelijkse sessies op andere tijden uitgevoerd. Overweeg om het favoriete tijdslot te herzien.""
 3. ""Herinnering: sessies zijn voltooid buiten het favoriete tijdslot. Voel je vrij om het favoriete tijdslot te wijzigen.""
 4. ""Sessies hebben op andere stippen plaatsgevonden dan aanvankelijk bedacht. Je kan altijd het favoriete tijdslot wijzigen.""
-5. ""Je sessies zijn waargenomen buiten het oorspronkelijk geplande tijdslot. Laat het me weten als je het geplande tijdslot opnieuw wilt evalueren.""","1. ""Consistentie is de sleutel - houd zich aan de toegewijde tijdslot voor uw sessies of verander deze nu!""
-2. ""Uw herhaalde sessies buiten de toegewijde tijdslot hebben onmiddellijke aandacht nodig - overweeg een verandering!""
-3. ""Dringend: blijf bij het besliste tijdslot of wijzig het onmiddellijk voor consistente vooruitgang!""
-4. ""Uw opeenvolgende sessies zijn off -track - handel nu om de speciale tijd te resetten!""
-5. ""Tijd voor de verandering: opeenvolgende sessies buiten de toegewijde tijdslot eisen uw actie!""","1. ""Vaig notar la vostra dedicació: voleu ajustar la franja horària per adaptar -vos millor al vostre horari?""
+5. ""Je sessies zijn waargenomen buiten het oorspronkelijk geplande tijdslot. Laat het me weten als je het geplande tijdslot opnieuw wilt evalueren.""
+
+Of een beetje kortere opties:
+
+1. ""Herhaalde sessies waargenomen buien het geplande tijdslot. Verander het geplande tijdslot?""
+2. ""Sessies op verschillende tijden waargenomen. Overweeg om het geplande tijdslot te veranderen.""
+3. ""Herinnering: sessies zijn niet binnen het tijdslot uitgevoerd. Wil je de geplande tijd wijzigen?""
+4. ""Tijden van sessies verschilden van de geplande tijd. Wil je de geplande tijd aanpassen?""
+5. ""Sessies waargenomen buiten het geplande tijdslot. Wilt u het tijdslot veranderen?""","1. ""Consistentie is de sleutel - houd je aan het gekozen tijdslot voor uw sessies of verander deze nu!""
+2. ""Je dagelijkse sessies zijn vaak buiten het gekozen tijdslot - overweeg een verandering!""
+3. ""Dringend: houd je aan het gekozen tijdslot of wijzig het tijdslot onmiddellijk voor consistente vooruitgang!""
+4. ""Je dagelijkse sessies zijn buiten het tijdslot - handel nu om het gekozen tijdslot te resetten!""
+5. ""Tijd voor een verandering: de dagelijkse sessies zijn vaak buiten het gekozen tijdslot, onderneem actie!""","1. ""Vaig notar la vostra dedicació: voleu ajustar la franja horària per adaptar -vos millor al vostre horari?""
 2. ""El vostre compromís és admirable: considereu canviar la franja horària per fer -lo més convenient per a vosaltres.""
 3. ""Agraeixo el vostre esforç: discutim si una nova franja horària funciona millor per a les vostres sessions repetides.""
 4. ""La vostra coherència és encomiable: si cal, podem explorar una franja de temps diferent"".
@@ -2133,7 +2153,14 @@ change_slot_reminder,"1. ""I noticed your dedication - would you like to adjust 
 3. ""Recordatori: les sessions s'han completat fora de la franja horària decidida. No dubteu a valorar el temps dedicat"".
 4. ""Les sessions s'han produït en diferents moments del que inicialment compromès. Sempre podeu revisar el temps dedicat"".
 5. ""Les vostres sessions s'han observat fora de la franja horària originalment programada. Feu -me saber si voleu reavaluar el temps dedicat"".
-","1. ""La coherència és clau.
+
+O opcions una mica més curtes:
+
+1. ""Sessions repetides fora de la franja horària compromesa. Reviseu el temps dedicat?""
+2. ""Sessions en diferents moments. Penseu en canviar el temps dedicat.""
+3. ""Recordatori: Sessions no dins de la franja horària decidida. Reavaluar el temps dedicat?""
+4. ""Les sessions difereixen del temps compromès. Revisit temps dedicat?""
+5. ""Sessions del pacient observades fora de la ranura original. Voleu canviar el temps dedicat?""","1. ""La coherència és clau.
 2. ""Les vostres sessions repetides fora de la franja horària compromesa necessiten atenció immediata: considereu un canvi!""
 3. ""Urgent: enganxeu -vos a la franja horària decidida o modifiqueu -la ràpidament per a progressos consistents!""
 4. ""Les vostres sessions consecutives estan fora de pista: actueu ara per restablir el temps dedicat!""
@@ -2155,7 +2182,15 @@ change_slot_reminder,"1. ""I noticed your dedication - would you like to adjust 
 2. ""As sessões repetidas foram realizadas em horários variados. Considere revisar o tempo dedicado, se necessário"".
 3. ""Lembrete: as sessões foram concluídas fora do horário decidido. Sinta -se à vontade para avaliar o tempo dedicado"".
 4. ""As sessões ocorreram em momentos diferentes do que inicialmente comprometido. Você sempre pode revisitar o tempo dedicado"".
-5. ""Suas sessões foram observadas fora do horário programado originalmente. Deixe -me saber se você deseja reavaliar o tempo dedicado"".","1. ""A consistência é fundamental - siga o horário comprometido para suas sessões ou mude agora!""
+5. ""Suas sessões foram observadas fora do horário programado originalmente. Deixe -me saber se você deseja reavaliar o tempo dedicado"".
+
+Ou opções um pouco mais curtas:
+
+1. ""Sessões repetidas fora do horário comprometido. Revise o tempo dedicado?""
+2. ""Sessões em tempos variados. Considere mudar o tempo dedicado"".
+3. ""Lembrete: sessões que não estão dentro do horário decidido. Reavalia o tempo dedicado?""
+4. ""As sessões diferiram do tempo comprometido. Revise o tempo dedicado?""
+5. ""Sessões de pacientes observadas fora do slot original. Deseja mudar o tempo dedicado?""","1. ""A consistência é fundamental - siga o horário comprometido para suas sessões ou mude agora!""
 2. ""Suas sessões repetidas fora do horário comprometido precisam de atenção imediata - considere uma mudança!""
 3. ""Urgente: siga o intervalo de tempo decidido ou modifique -o prontamente para um progresso consistente!""
 4. ""Suas sessões consecutivas estão fora da pista - aja agora para redefinir o tempo dedicado!""
@@ -2178,7 +2213,14 @@ change_slot_reminder,"1. ""I noticed your dedication - would you like to adjust 
 3. ""Erinnerung: Die Sitzungen wurden außerhalb des entschiedenen Zeitfensters abgeschlossen. Sie können die spezielle Zeit beurteilen.""
 4. ""Sitzungen sind zu unterschiedlichen Zeiten als ursprünglich verpflichtet. Sie können die engagierte Zeit immer wieder besuchen.""
 5. ""Ihre Sitzungen wurden außerhalb des ursprünglich geplanten Zeitfenster beobachtet. Lassen Sie mich wissen, ob Sie die dedizierte Zeit neu bewerten möchten.""
-","1. ""Konsistenz ist der Schlüssel - Bitte halten Sie sich an den festgelegten Zeitfenster für Ihre Sitzungen oder ändern Sie es jetzt!""
+
+Oder etwas kürzere Optionen:
+
+1. ""Wiederholte Sitzungen außerhalb des engagierten Zeitfenster. Überprüfen Sie die engagierte Zeit?""
+2. ""Sitzungen zu unterschiedlichen Zeiten. Erwägen Sie die enge Zeit zu ändern.""
+3. ""Erinnerung: Sitzungen nicht innerhalb entschiedener Zeitfenster. Bewerten Sie die dedizierte Zeit neu?""
+4. ""Die Sitzungen unterschieden sich von der engagierten Zeit. Überprüfen Sie die engagierte Zeit?""
+5. ""Patientensitzungen, die außerhalb des ursprünglichen Slots beobachtet wurden. Möchten Sie die enge Zeit ändern?""","1. ""Konsistenz ist der Schlüssel - Bitte halten Sie sich an den festgelegten Zeitfenster für Ihre Sitzungen oder ändern Sie es jetzt!""
 2. ""Ihre wiederholten Sitzungen außerhalb des engagierten Zeitfenster brauchen sofort Aufmerksamkeit - Betrachten Sie eine Änderung!""
 3. ""Dringend: Halten Sie sich an den entschiedenen Zeitfenster oder ändern Sie ihn unverzüglich für konsistente Fortschritte!""
 4. ""Ihre aufeinanderfolgenden Sitzungen sind abseits der Spur - handeln jetzt, um die dedizierte Zeit zurückzusetzen!""
@@ -2201,7 +2243,14 @@ change_slot_reminder,"1. ""I noticed your dedication - would you like to adjust 
 3. ""Нагадування: Сеанси були завершені поза рішенням, який вирішується. Не соромтеся оцінювати спеціальний час"".
 4. ""Сеанси відбувалися в різний час, ніж спочатку віддані. Ви завжди можете переглянути спеціальний час"".
 5. ""Ваші сеанси спостерігалися поза спочатку запланованим проміжком часу. Повідомте мене, якщо ви хочете переоцінити спеціальний час"".
-","1. ""Послідовність є ключовою - будь ласка, дотримуйтесь відданого часового проміжку для своїх сеансів або змініть його зараз!""
+
+Або трохи коротші варіанти:
+
+1. ""Неодноразові сеанси поза вчиненим проміжком часу. Огляд виділений час?""
+2. ""Сеанси в різні часи. Подумайте про зміну виділеного часу"".
+3. ""Нагадування: Сеанси не в межах рішучого часу, переоцінка спеціалізованого часу?""
+4. ""Сеанси відрізнялися від відданого часу. Перегляньте відданий час?""
+5. ""Сеанси пацієнтів, що спостерігаються поза оригінальним слотом. Хочете змінити спеціальний час?""","1. ""Послідовність є ключовою - будь ласка, дотримуйтесь відданого часового проміжку для своїх сеансів або змініть його зараз!""
 2. ""Ваші неодноразові сеанси поза вчиненим часовим слотом потребують негайної уваги - розгляньте зміну!""
 3
 4. ""Ваші послідовні сеанси поза межами - діяти зараз, щоб скинути спеціальний час!""
