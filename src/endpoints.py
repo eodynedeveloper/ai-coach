@@ -8,18 +8,26 @@ class Endpoints:
         self.env = env    # development, beta, or production
         if project == "global":
             self.get_history_url = f"https://rgsweb.eodyne.com/rgsmims/backend/{env}/webservices/src/ai-coach/get-patient-messages-and-sessions"
-            self.get_time_slot_url = f"https://rgsweb.eodyne.com/rgsmims/backend/{env}/webservices/src/app/2/coach-messages/get-training-time"
             self.schedule_notif_url = f"https://rgsweb.eodyne.com/rgsmims/backend/{env}/webservices/src/ai-coach/add-coach-message"
-            self.get_language_url = f"https://rgsweb.eodyne.com/rgsmims/backend/{env}/webservices/src/app/2/patient-language/get"
+            if self.env == "development":
+                self.get_time_slot_url = f"https://rgsweb.eodyne.com/rgsmims/backend/{env}/webservices/src/plus/0/coach-messages/get-training-time"
+                self.get_language_url = f"https://rgsweb.eodyne.com/rgsmims/backend/{env}/webservices/src/plus/0/patient-language/get"
+            else:
+                self.get_time_slot_url = f"https://rgsweb.eodyne.com/rgsmims/backend/{env}/webservices/src/app/2/coach-messages/get-training-time"
+                self.get_language_url = f"https://rgsweb.eodyne.com/rgsmims/backend/{env}/webservices/src/app/2/patient-language/get"
         elif project == "strack":
             self.get_history_url = f"https://rgsweb.eodyne.com/rgsmims/backend/strack/{env}/src/ai-coach/get-patient-messages-and-sessions"
-            self.get_time_slot_url = f"https://rgsweb.eodyne.com/rgsmims/backend/strack/{env}/src/app/2/coach-messages/get-training-time"
             self.schedule_notif_url = f"https://rgsweb.eodyne.com/rgsmims/backend/strack/{env}/src/ai-coach/add-coach-message"
-            self.get_language_url = f"https://rgsweb.eodyne.com/rgsmims/backend/strack/{env}/src/app/2/patient-language/get"
+            if self.env == "development":
+                self.get_time_slot_url = f"https://rgsweb.eodyne.com/rgsmims/backend/strack/{env}/src/plus/0/coach-messages/get-training-time"
+                self.get_language_url = f"https://rgsweb.eodyne.com/rgsmims/backend/strack/{env}/src/plus/0/patient-language/get"
+            else:
+                self.get_time_slot_url = f"https://rgsweb.eodyne.com/rgsmims/backend/strack/{env}/src/app/2/coach-messages/get-training-time"
+                self.get_language_url = f"https://rgsweb.eodyne.com/rgsmims/backend/strack/{env}/src/app/2/patient-language/get"
         
         else:
             raise Exception("Invalid project: global and strack are the only accepted values")
-    
+
     def get_history(self):
         attempts = 3
         while attempts > 0:
@@ -38,6 +46,7 @@ class Endpoints:
         try:
             return (response.json())
         except:
+            # TODO: log error
             return {"LANGUAGE_KEY": "English"}
     
     def get_time_slot(self, patient_id):
